@@ -14,4 +14,8 @@ void keyPressed()
     error_map = true; 
     color_map = false; 
   }
+  if(key == '3')
+  {
+    randomize = true; 
+  }
 }

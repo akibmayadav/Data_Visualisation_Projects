@@ -1,8 +1,12 @@
 void keyPressed()
 {
-  if ( key == ' ')
+  if ( key == ' ' && training_start == false)
   {
     training_start = true;
+  }
+  else if ( key == ' ' && training_start == false)
+  {
+    training_start = false;
   }
   if(key == '1')
   {
@@ -13,5 +17,9 @@ void keyPressed()
   {
     error_map = true; 
     color_map = false; 
+  }
+  if(key == '3')
+  {
+    randomize = true; 
   }
 }

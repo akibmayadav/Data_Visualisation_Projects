@@ -7,6 +7,7 @@
 // Press Space to start training    // 
 // Press 1 for color Map obtained by fruit color //
 // Press 2 for error Map //
+// Press 3 to randomize //
 
 
 import java.util.*;
@@ -42,6 +43,7 @@ color[] random_colors_for_labelling = {#ff4d4d,#e65f10,#ffe41a,#2eb82e,#0099e6,#
 boolean training_start= false; 
 boolean color_map = true; 
 boolean error_map = false;
+boolean randomize = false; 
 
 int colo_r,colo_g,colo_b;
 void setup()
@@ -70,8 +72,17 @@ void draw()
   background(0,0,0);
   draw_input_vectors();
   
-  if (training_start)
-  train_SOM();
+  if (training_start )
+  {
+    train_SOM();
+  }
+  if( randomize)
+  {
+    kohonen_weights();
+    iterationCounter= 0;
+    randomize = false; 
+  }
+  
   if (color_map)
   {
   draw_nodes();
@@ -84,6 +95,7 @@ void draw()
   colo_g = 0; 
   colo_b = 0;
   }
+  
     
   best_match_label(colo_r,colo_g,colo_b);
   
