@@ -6,7 +6,7 @@
 /* INSTRUCTIONS*/
 // Press Space to start training    // 
 // Press 1 for color Map obtained by fruit color //
-// Press 2 for error Map //
+// Press 2 for Unified Matrix Map //
 // Press 3 to randomize //
 
 
@@ -24,8 +24,8 @@ float radius ;
 // NODE PROPERTIES
 int nodes_vertical = 34; 
 int nodes_horizontal =30; 
-int number_of_node_weights = 5;
-int[] upper_node_weight = {5,2,1,1,1};
+int number_of_node_weights = 6;
+int[] upper_node_weight = {5,2,1,1,1,1};
 
 
 int total_number_of_nodes = nodes_vertical * nodes_horizontal;
@@ -42,7 +42,7 @@ color[] random_colors_for_labelling = {#ff4d4d,#e65f10,#ffe41a,#2eb82e,#0099e6,#
 //Interaction
 boolean training_start= false; 
 boolean color_map = true; 
-boolean error_map = false;
+boolean u_map = false;
 boolean randomize = false; 
 
 int colo_r,colo_g,colo_b;
@@ -88,9 +88,9 @@ void draw()
   draw_nodes();
   colo_r = colo_b = colo_g =255;
   }
-  if (error_map)
+  if (u_map)
   {
-  error_map();
+  u_map_draw();
   colo_r = 255;
   colo_g = 0; 
   colo_b = 0;

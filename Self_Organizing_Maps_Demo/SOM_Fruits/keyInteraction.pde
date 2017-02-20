@@ -10,12 +10,12 @@ void keyPressed()
   }
   if(key == '1')
   {
-    error_map = false; 
+    u_map = false; 
     color_map = true; 
   }
   if( key == '2')
   {
-    error_map = true; 
+    u_map = true; 
     color_map = false; 
   }
   if(key == '3')

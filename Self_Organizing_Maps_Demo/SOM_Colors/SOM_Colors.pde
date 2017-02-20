@@ -6,13 +6,13 @@
 /* INSTRUCTIONS*/
 // Press Space to start training    // 
 // Press 1 for color Map obtained by fruit color //
-// Press 2 for error Map //
+// Press 2 for Unified Matrix Map //
 // Press 3 to randomize //
 
 import java.util.*;
 
 //Kohonen Parameters
-float max_iterations = 250;
+float max_iterations = 300;
 float learningRate = 0.25;
 int iterationCounter = 0;
 //Margins
@@ -41,7 +41,7 @@ color[] random_colors_for_labelling = {#ff4d4d,#e65f10,#ffe41a,#2eb82e,#0099e6,#
 //Interaction
 boolean training_start= false; 
 boolean color_map = true; 
-boolean error_map = false;
+boolean u_map = false;
 boolean randomize = false;
 
 int colo_r,colo_g,colo_b;
@@ -83,9 +83,9 @@ void draw()
   draw_nodes();
   colo_r = colo_b = colo_g =255;
   }
-  if (error_map)
+  if (u_map)
   {
-  error_map();
+  u_map_draw();
   colo_r = 255;
   colo_g = 0; 
   colo_b = 0;
