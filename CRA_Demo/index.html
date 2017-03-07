@@ -1,0 +1,670 @@
+
+<!-- 
+**************************************************
+DEMO FOR CRA KOL SURVEY DATA 
+Author : Ambika Yadav
+**************************************************
+-->
+
+<html>
+<head>
+<title> KOL Data Viz Demo : CRA </title>
+<meta charset="UTF-8">
+<meta name ="author" content ="Ambika Yadav"></meta>
+</head>
+<link rel="stylesheet" href="Style_Sheets/dropdown.css">
+<link rel="stylesheet" href="Style_Sheets/main_style.css">
+<script src="https://d3js.org/d3.v4.min.js"></script>
+<script src="Scripts/helper_functions.js"></script>
+<body>
+
+<div class="dropdown">
+  <button onclick="myFunction()" class="dropbtn"> KOL INFLUENCE</button>
+  <div id="myDropdown" class="dropdown-content">
+    <a onclick="all_kol()">All</a>
+    <a onclick="national_kol()">National</a>
+    <a onclick="local_kol()">Local</a>
+    <a onclick="future_kol()">Future</a>
+    <a onclick="none_kol()">None</a>
+  </div>
+</div>
+
+<script src="Scripts/dropdown.js"></script>
+<script src="Scripts/buttons.js"></script>
+<script>
+
+var margin = {top:30,right:30,bottom:30,left:30};
+var padding = 20;
+var scroll_down_height = 400;
+var heading_height = 60;
+var innerWidth = 1680;
+var innerHeight = 1050;
+// Main Holder
+var main_svg =  d3.select("body")
+				.append("svg")
+				.attr("width", innerWidth)
+				.attr("height", innerHeight+scroll_down_height)
+				.attr("viewbox", "0 0 1680 1050")
+// Heading 
+
+var main_heading = main_svg.append("g")
+							.attr("id","heading");
+				main_heading.append("text")
+							.attr("id","main_heading")
+							.attr("x",innerWidth/2)
+							.attr("y",20)
+							.attr("font-size",25)
+							.text("VISUALIZING KEY OPINION LEADER SURVEY");
+				main_heading.append("text")
+							.attr("id","following_heading")
+							.attr("x",innerWidth/2)
+							.attr("y",40)
+							.attr("font-size",15)
+							.text("Demo for Charles River Associates");
+
+				main_heading.append("rect")
+							.attr("x",0)
+							.attr("y",50)
+							.attr("width",innerWidth)
+							.attr("height",0.5)
+							.attr("fill","white")
+							.attr("stroke","white")
+							.attr("stroke-width",0.01);
+
+// Panel 1 : Maps
+var map_y = margin.top + heading_height + padding;
+var map_x = margin.right;
+var map_area = main_svg.append("g")
+				.attr("id","map_area")
+				.attr("transform", "translate(" + map_x + "," + map_y + ")");
+
+var map_area_width = 5*innerWidth/8;
+var map_area_height = 7*innerHeight/8;
+var map_area_bg = map_area.append("rect")
+						.attr("class","backdrop_rect")
+						.attr("id","map_area_bg")
+						.attr("x",0)
+						.attr("y",0)
+						.attr("width",map_area_width)
+						.attr("height",map_area_height);
+
+
+// Panel 2 : Responders Category Bars
+var respond_y = margin.top + heading_height + padding;
+var respond_x = margin.right + map_area_width + padding;
+var responder_cat_bar_area = main_svg.append("g")
+				.attr("id","responder_cat_bar_area")
+				.attr("transform", "translate(" + respond_x + "," + respond_y + ")");
+
+var responders_area_bg_width = (3*innerWidth/8)-margin.left-margin.right-padding;
+var responders_area_bg_height = innerHeight/2;
+var responders_area_bg =  responder_cat_bar_area.append("rect")
+						.attr("class","backdrop_rect")
+						.attr("id","responders_area_bg")
+						.attr("x",0)
+						.attr("y",0)
+						.attr("width",responders_area_bg_width)
+						.attr("height",responders_area_bg_height);
+
+
+
+// Panel 3 : Segment Wise Distribution
+var segment_y = margin.top + heading_height + 2* padding + responders_area_bg_height;
+var segment_x = margin.right + map_area_width + padding;
+var segment_table_area = main_svg.append("g")
+				.attr("id","segment_table_area")
+				.attr("transform", "translate(" + segment_x + "," + segment_y + ")");
+var total_height = 7*innerHeight/8 + padding+ heading_height+margin.top;
+
+var segment_area_bg_width = (3*innerWidth/8)-margin.left-margin.right-padding;
+var segment_area_bg_height = total_height - segment_y;
+var segment_area_bg =  segment_table_area.append("rect")
+						.attr("class","backdrop_rect")
+						.attr("id","segment_area_bg")
+						.attr("x",0)
+						.attr("y",0)
+						.attr("width",segment_area_bg_width)
+						.attr("height",segment_area_bg_height);
+
+var cell_segment_width = (segment_area_bg_width-2*padding)/5;
+
+var start_segment_y = segment_area_bg_height/2;
+var cell_segment_height = 40 ;
+
+var segment_index = segment_table_area.append("g")
+						.attr("id","segment_index");
+
+segment_index.append("rect")
+				.attr("x",0)
+				.attr("y",start_segment_y+100)
+				.attr("width",segment_area_bg_width)
+				.attr("height",1)
+				.attr("fill","white");
+
+segment_index.append("text")
+				.attr("x",segment_area_bg_width/2)
+				.attr("y",start_segment_y+150)
+				.attr("class","index_font")
+				.attr("fill","white")
+				.attr("text-anchor","middle")
+				.text("SEGMENT BASED DISTRIBUTION OF RESPONDERS");
+
+
+
+var segment_table=segment_table_area.append("g")
+							.attr("id","segment_table");
+//hardcoded segment number 
+for( var a = 0 ; a<5 ;a++)
+{
+		segment_table.append("rect")
+				.attr("id","percent")
+				.attr("x",padding+a*cell_segment_width)
+				.attr("y",start_segment_y)
+				.attr("width",cell_segment_width)
+				.attr("height",cell_segment_height)
+				.attr("fill","white")
+				.attr("opacity",0.1)
+				.attr("stroke","white")
+				.attr("stroke-width",1);
+
+
+		segment_table.append("rect")
+				.attr("id","segment")
+				.attr("x",padding+a*cell_segment_width)
+				.attr("y",start_segment_y+cell_segment_height)
+				.attr("width",cell_segment_width)
+				.attr("height",cell_segment_height)
+				.attr("fill","white")
+				.attr("opacity",0.1)
+				.attr("stroke","white")
+				.attr("stroke-width",1);
+}
+
+
+// Making the Map in Panel 1
+main_function_reader();
+function main_function_reader()
+{
+d3.json("Data/us-states.json", function(state_boundary_data) {
+
+
+	var inner_map_padding = 5;
+	var padding_map = 20;
+	var chloropeth_map_bgk = map_area.append("rect")
+										.attr("id","chloropeth_map_bgk")
+										.attr("x",inner_map_padding)
+										.attr("y",inner_map_padding)
+										.attr("width",map_area_width-2*inner_map_padding)
+										.attr("height",5*
+											map_area_height/6)
+										.attr("fill","white");
+
+	var white_line = map_area.append("rect")
+							.attr("class","liner")
+							.attr("x",0)
+							.attr("y",inner_map_padding+5*
+									map_area_height/6)
+							.attr("width",map_area_width)
+							.attr("height",1)
+							.attr("fill","white");
+
+	var kol_text = map_area.append("text")
+							.attr("class","kol_text")
+							.attr("x",map_area_width/2)
+							.attr("y",inner_map_padding+5*
+									map_area_height/6 + 30)
+							.text("CHLOROPETH VISUALIZING DENSITY OF KOL STATE-WISE")
+
+	var kol_text_res = map_area.append("text")
+							.attr("class","kol_text")
+							.attr("x",map_area_width/2)
+							.attr("y",map_area_height-5)
+							.attr("opacity",0.4)
+							.text(" -- | Select upto 10 states from the Map || Filter KOL influence using KOL influence button | --")
+	
+
+	var projection = d3.geoAlbersUsa() 
+				   .fitExtent([[0,0],[map_area_width-2*inner_map_padding-padding_map,5*map_area_height/6-padding_map]],state_boundary_data) ;          
+        
+	var path = d3.geoPath()               
+		  	 .projection(projection); 
+
+d3.json("Data/data.json",function(c1_data) 
+{
+	// Data Filter Depending on the influence . 
+
+	if(influence_all)
+	{
+		c1_data = c1_data;
+	}
+	else if (influence_local)
+	{
+		c1_data = c1_data.filter(function(row){
+		return row['KOL_influence']=="Local";
+	})	
+	}
+	else if (influence_future)
+	{
+		c1_data = c1_data.filter(function(row){
+		return row['KOL_influence']=="Future";
+		})	
+	}
+	else if (influence_national)
+	{
+		c1_data = c1_data.filter(function(row){
+		return row['KOL_influence']=="National";
+		})
+	}
+	else if (influence_none)
+	{
+		c1_data = c1_data.filter(function(row){
+		return row['KOL_influence']=="None";
+		})
+	}
+	
+	// Making an array holding all the respondents data
+	var respondents_data = [];
+	for ( var a = 0 ; a <c1_data.length;a++)
+	{
+		var state = c1_data[a].State;
+		for ( var b = 0 ; b<c1_data[a].Respondents.length ;b++)
+		{
+			var object ={} ;
+			object.state = state;
+			object.id_number = c1_data[a].Respondents[b].ID;
+			object.cluster = c1_data[a].Respondents[b].Cluster;
+			object.category = c1_data[a].Respondents[b].Category;
+			object.speciality = c1_data[a].Respondents[b].Specialty;
+			respondents_data.push(object);
+		}
+	}
+
+	
+	//Clustering KOL data based on category
+	var respondents_all_cluster_data = d3.nest()
+	.key(function(d){return d.state})
+	.key(function(d){return d.category}).sortKeys(d3.ascending)
+	.entries(respondents_data);
+	
+	var current_states=['NY','CA','MA','OH','TX','FL','PA','NC','SC'];
+	
+
+	// Panel 2 Calculations
+	stack_data();
+	function stack_data()
+	{
+	responder_cat_bar_area.selectAll("g[id=respondent_stack]").remove();
+	responder_cat_bar_area.selectAll("g[id=respondent_axis]").remove();
+	responder_cat_bar_area.selectAll("g[id=respondent_axis_y]").remove();
+	map_area.selectAll("text[id=state_text]").remove();
+
+	var data_for_stack = [];
+	
+	var raw_text = "CURRENT STATES : ";
+
+	for ( var m = 0 ; m <current_states.length;m++)
+	{
+		raw_text = raw_text + " | " + current_states[m];
+	}
+
+	raw_text= raw_text + " |";
+	var state_text = map_area.append("text")
+							.attr("id","state_text")
+							.attr("class","kol_text")
+							.attr("x",map_area_width/2)
+							.attr("y",inner_map_padding+5*
+									map_area_height/6 + 60)
+							.attr("font-size",20)
+							.text(raw_text)
+
+	for ( var m = 0 ; m<respondents_all_cluster_data.length ;m++)
+	{
+		var state = respondents_all_cluster_data[m].key;
+		if(current_states.includes(state))
+		{
+		var has_patients = 0;
+		var highly_experienced_specialist=0;
+		var no_current_patients = 0;
+		for (var n = 0 ; n<respondents_all_cluster_data[m].values.length ; n++)
+		{	
+			var key = respondents_all_cluster_data[m].values[n].key;
+			if (key == "Has patient(s)")
+			{
+				has_patients = respondents_all_cluster_data[m].values[n].values.length;
+			}
+			else if (key == "Highly Experienced Specialist")
+			{
+				highly_experienced_specialist = respondents_all_cluster_data[m].values[n].values.length;
+			}
+			else if (key == "No current patients")
+			{
+				no_current_patients = respondents_all_cluster_data[m].values[n].values.length;
+			}
+		}
+		
+		var object = {};
+		object.state=state;
+		object.has_patients = has_patients;
+		object.highly_experienced_specialist =highly_experienced_specialist;
+		object.no_current_patients=no_current_patients;
+		object.total = has_patients+highly_experienced_specialist+no_current_patients;
+		data_for_stack.push(object);
+	}
+	}
+
+	var stack = d3.stack()
+				.keys(["has_patients","highly_experienced_specialist","no_current_patients"])
+				.order(d3.stackOrderNone)
+				.offset(d3.stackOffsetNone);
+
+	var data_series = stack(data_for_stack);
+	var color_for_stack = ["#900C3F","#C70039","#FF5733","#FFC30F","581845"];
+
+	var weight = current_states.length;
+	var a = 30;
+	var w = responders_area_bg_width -40;
+	var margin_left = 0 ;
+	var margin_right = 0 ;
+
+	margin_left = a+(10-weight)*w/20;
+	margin_right = w -margin_left+40;
+
+	var x = d3.scaleBand()
+    		.rangeRound([margin_left, margin_right])
+   		 	.paddingInner(0.2)
+    		.align(0.5);
+	
+	var y = d3.scaleLinear()
+    		.rangeRound([responders_area_bg_height-100,20]);
+
+	x.domain(data_for_stack.map(function(d){return d.state;}));
+	y.domain([0,d3.max(data_for_stack,function(d){return d.total;})]);
+
+	var respondent_stack = responder_cat_bar_area.append("g")
+									.attr("id","respondent_stack")
+									.selectAll("g")
+									.data(data_series)
+									.enter()
+									.append("g")
+									.attr("fill",function(d){return(color_for_stack[d.index]);})
+									.attr("opacity",0.7)
+									.selectAll("rect")
+									.data(function(d){return(d);})
+									.enter()
+									.append("rect")
+									.attr("x",function(d)
+									{
+										return x(d.data.state);
+									})
+									.attr("y",function(d)
+									{
+										// console.log(d);
+										return y(d[1]);
+									})
+									.attr("height",function(d)
+									{
+										var w = y(d[0])-y(d[1]);
+										return(w);
+									})
+									.attr("width",x.bandwidth());
+	var h = responders_area_bg_height-100;
+	var respondent_axis = responder_cat_bar_area.append("g")
+									.attr("class","axis")
+									.attr("id","respondent_axis")
+									.attr("transform", "translate(0," + h + ")")
+									.call(d3.axisBottom(x));
+	
+	var respondent_y_axis = responder_cat_bar_area.append("g")
+      						.attr("class", "axis")
+      						.attr("id","respondent_axis_y")
+      						.call(d3.axisRight(y).ticks(null, "s"))
+    						.append("text");
+
+ 	}
+
+
+ 	// Panel 3 Calculations
+
+ 	segment_data();
+ 	function segment_data()
+ 	{
+ 		segment_table_area.selectAll("g[id=segment_table_content]").remove();
+
+ 		var extracted_respondents_data = [];
+ 		// Take out data in the given states
+ 		for( var a = 0 ; a <respondents_data.length ;a++)
+ 		{
+ 			var states = respondents_data[a].state
+ 			if(current_states.includes(states))
+ 			{
+ 				extracted_respondents_data.push(respondents_data[a]);
+ 			}
+ 		}
+ 		
+ 		// segment clusters extracted data 
+ 		var segment_extract_data = d3.nest()
+		.key(function(d){return d.cluster})
+		.entries(extracted_respondents_data);
+
+		var total = extracted_respondents_data.length;
+		var final_segment_table =[];
+
+		for(var t = 0; t<segment_extract_data.length ;t++)
+		{
+			var object = {};
+			object.segment = segment_extract_data[t].key;
+			var percent_segment = segment_extract_data[t].values.length/total *100;
+			object.percent = Math.round(percent_segment);;
+			final_segment_table.push(object);
+		}
+
+		var segment_table_content=segment_table_area.append("g")
+							.attr("id","segment_table_content");
+
+
+		for (var a = 0 ; a < final_segment_table.length ;a++)
+		{
+			var seg = final_segment_table[a].segment;
+			var per = final_segment_table[a].percent;
+
+			var real_i ; 
+
+			switch(seg){
+				case("Segment 1"):
+				real_i =0 ; break;
+				case("Segment 2"):
+				real_i =1 ; break;
+				case("Segment 3"):
+				real_i =2 ; break;
+				case("Segment 4"):
+				real_i =3 ; break;
+				case("Segment 5"):
+				real_i =4 ; break;
+			}
+
+			segment_table_content.append("text")
+								.attr("class","table_text")
+								.attr("id","percent")
+								.attr("x",padding+real_i*cell_segment_width+cell_segment_width/2)
+								.attr("y",start_segment_y+2*cell_segment_height/3)
+								.text(per+"%");
+
+			segment_table_content.append("text")
+								.attr("class","table_text")
+								.attr("id","segment")
+								.attr("x",padding+real_i*cell_segment_width+cell_segment_width/2)
+								.attr("y",start_segment_y+2*cell_segment_height/3+cell_segment_height)
+								.text(seg);
+
+			segment_table_content.append("rect")
+								.attr("class","percent_bar")
+								.attr("x",padding+real_i*cell_segment_width)
+								.attr("y",start_segment_y-per)
+								.attr("width",cell_segment_width)
+								.attr("height",per)
+								.attr("fill","#581845")
+								.attr("opacity",0.6)
+								.attr("stroke","white")
+								.attr("stroke-width",0.5);
+		}
+
+ 	}
+
+	//Clustering KOL data 
+	var kol_density_state = d3.nest()
+	.key(function(d){return d.State}).sortKeys(d3.ascending)
+	.entries(c1_data);
+
+	kol_density_state.sort(function(x,y){return d3.descending(x.values.length,y.values.length)});
+
+	var max_density = kol_density_state[0].values.length;
+	var min_density = kol_density_state[kol_density_state.length-1].values.length;
+	var max_opacity = 0.9;
+	var min_opacity = 0.2;
+
+	// Mapping c1_kol_density_data to map data .
+	for (var c= 0 ; c <kol_density_state.length;c++)
+	{
+		for ( var b = 0 ; b<state_boundary_data.features.length ;b++)
+		{
+			var state_name = state_boundary_data.features[b].properties.name;
+			
+			if(state_boundary_data.features[b].properties.name == kol_density_state[c].key)
+			{
+				state_boundary_data.features[b].properties.density = convertToRange(kol_density_state[c].values.length,[min_density,max_density],[min_opacity,max_opacity]);
+				if(current_states.includes(state_boundary_data.features[b].properties.name))
+				{
+				state_boundary_data.features[b].properties.active = true; 
+				}
+				else
+				{
+				state_boundary_data.features[b].properties.active = false; 
+				}
+				break;
+			}
+		}
+	}
+
+	var trial_mapping = convertToRange(5,[min_density,max_density],[0.1,0.9]);
+
+	var chloropeth_map = map_area.append("g")
+							.attr("id","chloropeth_map")
+							.attr("transform", "translate(" + padding_map + "," + padding_map + ")");
+	
+
+	chloropeth_map.selectAll("path")
+				.data(state_boundary_data.features)
+				.enter()
+				.append("path")
+				.attr("d", path)
+				.attr("id",function(d,i){
+					var id_s = i+"_path";
+					return id_s;
+				})
+				.attr("class","map_style")
+				.attr("fill",function(d,i){
+					if(typeof(d.properties.density) == "undefined")
+					{
+						return "black";
+
+					}
+					else
+					{
+						return "#c70039";
+					}	
+
+					})
+				.attr("opacity",function(d,i){
+					if(typeof(d.properties.density) == "undefined")
+					{
+						return 0.4;
+
+					}
+					else
+					{
+						return d.properties.density;
+					}	
+				})
+				.attr("stroke",function(d,i)
+					{
+					if(d.properties.active)
+					{
+						return("#FFC30F");
+					}
+					else 
+					{
+						return("black");
+					}
+					}
+					)
+				.attr("stroke-width",function(d,i){
+					if(d.properties.active)
+					{
+						return 1.5;
+					}
+					else 
+					{
+						return 1.0;
+					}
+					})
+				.on("click",function(d,i){
+					var actual_color = "#FFC30F";
+					if(typeof(d.properties.density) != "undefined")
+						{
+							modified_color = "#FFC30F";
+							actual_color = "black";
+							modified_stroke = 1.5;
+							actual_stroke =1.0;
+						}
+					else 
+						{
+							modified_color = "black";
+							actual_color = "black";
+							modified_stroke = 1.0;
+							actual_stroke =1.0;
+						};
+					var state_name = d.properties.name;
+
+					d.properties.active = d.properties.active ? false:true;
+					if(typeof(d.properties.density) != "undefined")
+					{
+					if(d.properties.active)
+					{
+						if(current_states.length<10)
+						{
+						current_states.push(state_name);
+						stack_data();
+						segment_data();
+						}
+						else
+						{
+							console.log(error);
+						}
+
+					}
+					else
+					{
+						if(current_states.length<11)
+						{
+						var index = current_states.indexOf(state_name);
+						current_states.splice(index,1);
+						stack_data();
+						segment_data();
+						}
+					}
+					}
+
+					newColor = d.properties.active ? modified_color:actual_color;
+					newStroke = d.properties.active ? modified_stroke:actual_stroke;
+
+					d3.select(this).style("stroke",newColor);
+					d3.select(this).style("stroke-width",newStroke);
+				});
+})
+});
+}
+
+</script>
+<script src="Scripts/index.js"></script>
+</body>
+</html>

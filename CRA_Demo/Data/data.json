@@ -1,0 +1,4887 @@
+[  
+   {  
+      "Active":"Retired",
+      "KOL_influence":"Local",
+      "Respondents":[  
+         {  
+            "Cluster":"Segment 4",
+            "Category":"Has patient(s)",
+            "ID":12,
+            "Specialty":"Primary Care"
+         },
+         {  
+            "Cluster":"Segment 3",
+            "Category":"No current patients",
+            "ID":18,
+            "Specialty":"Primary Care"
+         },
+         {  
+            "Cluster":"Segment 4",
+            "Category":"Has patient(s)",
+            "ID":33,
+            "Specialty":"Pathology"
+         }
+      ],
+      "State":"MA",
+      "Years Experience":21.0,
+      "Degree":"Heavily influential",
+      "Interaction_type":[  
+         "Read a publication",
+         "Consulted about a patient",
+         "Referred a patient",
+         "No specified interaction"
+      ],
+      "Reason":[  
+         "No Company Or Product Advocacy",
+         "Focused Clinical Practice",
+         "Disease Training"
+      ]
+   },
+   {  
+      "Active":"Retired",
+      "KOL_influence":"Local",
+      "Respondents":[  
+         {  
+            "Cluster":"Segment 3",
+            "Category":"No current patients",
+            "ID":10,
+            "Specialty":"Pathology"
+         }
+      ],
+      "State":"CA",
+      "Years Experience":null,
+      "Degree":"Somewhat influential",
+      "Interaction_type":[  
+         "No specified interaction"
+      ],
+      "Reason":[  
+         "Clinical Trial Investigator",
+         "Focused Clinical Practice",
+         "Disease Training"
+      ]
+   },
+   {  
+      "Active":"Active",
+      "KOL_influence":"Local",
+      "Respondents":[  
+         {  
+            "Cluster":"Segment 4",
+            "Category":"Has patient(s)",
+            "ID":4,
+            "Specialty":"Family Medicine"
+         }
+      ],
+      "State":"TX",
+      "Years Experience":11.0,
+      "Degree":"Not specified",
+      "Interaction_type":[  
+         "No specified interaction"
+      ],
+      "Reason":[  
+         "Other"
+      ]
+   },
+   {  
+      "Active":"Retired",
+      "KOL_influence":"National",
+      "Respondents":[  
+         {  
+            "Cluster":"Segment 3",
+            "Category":"No current patients",
+            "ID":3,
+            "Specialty":"Pathology"
+         },
+         {  
+            "Cluster":"Segment 4",
+            "Category":"Has patient(s)",
+            "ID":8,
+            "Specialty":"Family Medicine"
+         },
+         {  
+            "Cluster":"Segment 3",
+            "Category":"No current patients",
+            "ID":10,
+            "Specialty":"Pathology"
+         },
+         {  
+            "Cluster":"Segment 3",
+            "Category":"No current patients",
+            "ID":5,
+            "Specialty":"Oncology"
+         }
+      ],
+      "State":"DE",
+      "Years Experience":10.0,
+      "Degree":"Heavily influential",
+      "Interaction_type":[  
+         "Read a publication",
+         "Observed conference presentation",
+         "Referred a patient",
+         "Speaker program interaction"
+      ],
+      "Reason":[  
+         "Published In Journals\/Textbooks",
+         "Focused Clinical Practice",
+         "Conference Presentations",
+         "Industry Sponsored Presentations",
+         "Disease Training",
+         "Disease Center Director"
+      ]
+   },
+   {  
+      "Active":"Active",
+      "KOL_influence":"None",
+      "Respondents":[  
+         {  
+            "Cluster":"Segment 2",
+            "Category":"Highly Experienced Specialist",
+            "ID":19,
+            "Specialty":"Family Medicine"
+         },
+         {  
+            "Cluster":"Segment 5",
+            "Category":"Has patient(s)",
+            "ID":35,
+            "Specialty":"Oncology"
+         }
+      ],
+      "State":"TN",
+      "Years Experience":19.0,
+      "Degree":"Not specified",
+      "Interaction_type":[  
+         "No specified interaction"
+      ],
+      "Reason":[  
+         "Other"
+      ]
+   },
+   {  
+      "Active":"Active",
+      "KOL_influence":"Local",
+      "Respondents":[  
+         {  
+            "Cluster":"Segment 4",
+            "Category":"Has patient(s)",
+            "ID":8,
+            "Specialty":"Family Medicine"
+         },
+         {  
+            "Cluster":"Segment 3",
+            "Category":"No current patients",
+            "ID":5,
+            "Specialty":"Oncology"
+         }
+      ],
+      "State":"SC",
+      "Years Experience":10.0,
+      "Degree":"Somewhat influential",
+      "Interaction_type":[  
+         "Consulted about a patient"
+      ],
+      "Reason":[  
+         "No Company Or Product Advocacy",
+         "Clinical Trial Investigator",
+         "Focused Clinical Practice"
+      ]
+   },
+   {  
+      "Active":"Active",
+      "KOL_influence":"Local",
+      "Respondents":[  
+         {  
+            "Cluster":"Segment 4",
+            "Category":"Has patient(s)",
+            "ID":12,
+            "Specialty":"Primary Care"
+         },
+         {  
+            "Cluster":"Segment 5",
+            "Category":"Has patient(s)",
+            "ID":14,
+            "Specialty":"Family Medicine"
+         },
+         {  
+            "Cluster":"Segment 3",
+            "Category":"No current patients",
+            "ID":10,
+            "Specialty":"Pathology"
+         },
+         {  
+            "Cluster":"Segment 5",
+            "Category":"Has patient(s)",
+            "ID":14,
+            "Specialty":"Family Medicine"
+         }
+      ],
+      "State":"CA",
+      "Years Experience":13.0,
+      "Degree":"Heavily influential",
+      "Interaction_type":[  
+         "Referred a patient"
+      ],
+      "Reason":[  
+         "No Company Or Product Advocacy",
+         "Focused Clinical Practice",
+         "Disease Training"
+      ]
+   },
+   {  
+      "Active":"Retired",
+      "KOL_influence":"National",
+      "Respondents":[  
+         {  
+            "Cluster":"Segment 4",
+            "Category":"Has patient(s)",
+            "ID":27,
+            "Specialty":"Pathology"
+         }
+      ],
+      "State":"PA",
+      "Years Experience":13.0,
+      "Degree":"Heavily influential",
+      "Interaction_type":[  
+         "Read a publication"
+      ],
+      "Reason":[  
+         "Published In Journals\/Textbooks",
+         "Focused Clinical Practice",
+         "Disease Training"
+      ]
+   },
+   {  
+      "Active":"Retired",
+      "KOL_influence":"National",
+      "Respondents":[  
+         {  
+            "Cluster":"Segment 4",
+            "Category":"Has patient(s)",
+            "ID":12,
+            "Specialty":"Primary Care"
+         },
+         {  
+            "Cluster":"Segment 3",
+            "Category":"No current patients",
+            "ID":3,
+            "Specialty":"Pathology"
+         }
+      ],
+      "State":"OH",
+      "Years Experience":43.0,
+      "Degree":"Somewhat influential",
+      "Interaction_type":[  
+         "Read a publication"
+      ],
+      "Reason":[  
+         "Published In Journals\/Textbooks",
+         "Guideline Development",
+         "Focused Clinical Practice"
+      ]
+   },
+   {  
+      "Active":"Active",
+      "KOL_influence":"National",
+      "Respondents":[  
+         {  
+            "Cluster":"Segment 4",
+            "Category":"Has patient(s)",
+            "ID":33,
+            "Specialty":"Pathology"
+         },
+         {  
+            "Cluster":"Segment 2",
+            "Category":"Highly Experienced Specialist",
+            "ID":19,
+            "Specialty":"Family Medicine"
+         },
+         {  
+            "Cluster":"Segment 1",
+            "Category":"Has patient(s)",
+            "ID":0,
+            "Specialty":"Primary Care"
+         }
+      ],
+      "State":"WA",
+      "Years Experience":45.0,
+      "Degree":"Somewhat influential",
+      "Interaction_type":[  
+         "Industry event interaction",
+         "Observed conference presentation",
+         "Referred a patient",
+         "Read a publication"
+      ],
+      "Reason":[  
+         "Published In Journals\/Textbooks",
+         "Guideline Development",
+         "Focused Clinical Practice",
+         "No Company Or Product Advocacy",
+         "Industry Sponsored Presentations",
+         "Disease Training"
+      ]
+   },
+   {  
+      "Active":"Active",
+      "KOL_influence":"National",
+      "Respondents":[  
+         {  
+            "Cluster":"Segment 3",
+            "Category":"No current patients",
+            "ID":25,
+            "Specialty":"Oncology"
+         },
+         {  
+            "Cluster":"Segment 4",
+            "Category":"Has patient(s)",
+            "ID":26,
+            "Specialty":"Pathology"
+         },
+         {  
+            "Cluster":"Segment 4",
+            "Category":"Has patient(s)",
+            "ID":4,
+            "Specialty":"Family Medicine"
+         },
+         {  
+            "Cluster":"Segment 5",
+            "Category":"Has patient(s)",
+            "ID":14,
+            "Specialty":"Family Medicine"
+         }
+      ],
+      "State":"MA",
+      "Years Experience":null,
+      "Degree":"Somewhat influential",
+      "Interaction_type":[  
+         "Referred a patient"
+      ],
+      "Reason":[  
+         "Guideline Development",
+         "Conference Presentations",
+         "Disease Training"
+      ]
+   },
+   {  
+      "Active":"Retired",
+      "KOL_influence":"Future",
+      "Respondents":[  
+         {  
+            "Cluster":"Segment 5",
+            "Category":"Has patient(s)",
+            "ID":35,
+            "Specialty":"Oncology"
+         }
+      ],
+      "State":"MI",
+      "Years Experience":25.0,
+      "Degree":"Not specified",
+      "Interaction_type":[  
+         "No specified interaction"
+      ],
+      "Reason":[  
+         "Other"
+      ]
+   },
+   {  
+      "Active":"Active",
+      "KOL_influence":"Local",
+      "Respondents":[  
+         {  
+            "Cluster":"Segment 3",
+            "Category":"No current patients",
+            "ID":10,
+            "Specialty":"Pathology"
+         },
+         {  
+            "Cluster":"Segment 3",
+            "Category":"No current patients",
+            "ID":22,
+            "Specialty":"Family Medicine"
+         }
+      ],
+      "State":"RI",
+      "Years Experience":32.0,
+      "Degree":"Not specified",
+      "Interaction_type":[  
+         "No specified interaction"
+      ],
+      "Reason":[  
+         "Other"
+      ]
+   },
+   {  
+      "Active":"Retired",
+      "KOL_influence":"Local",
+      "Respondents":[  
+         {  
+            "Cluster":"Segment 1",
+            "Category":"Has patient(s)",
+            "ID":24,
+            "Specialty":"Primary Care"
+         },
+         {  
+            "Cluster":"Segment 1",
+            "Category":"Has patient(s)",
+            "ID":16,
+            "Specialty":"Primary Care"
+         }
+      ],
+      "State":"FL",
+      "Years Experience":31.0,
+      "Degree":"Somewhat influential",
+      "Interaction_type":[  
+         "Other"
+      ],
+      "Reason":[  
+         "Industry Sponsored Presentations",
+         "Disease Center Director",
+         "Focused Clinical Practice"
+      ]
+   },
+   {  
+      "Active":"Active",
+      "KOL_influence":"Local",
+      "Respondents":[  
+         {  
+            "Cluster":"Segment 2",
+            "Category":"Highly Experienced Specialist",
+            "ID":32,
+            "Specialty":"Primary Care"
+         }
+      ],
+      "State":"KS",
+      "Years Experience":29.0,
+      "Degree":"Heavily influential",
+      "Interaction_type":[  
+         "Other"
+      ],
+      "Reason":[  
+         "Clinical Trial Investigator",
+         "Focused Clinical Practice",
+         "Disease Training"
+      ]
+   },
+   {  
+      "Active":"Active",
+      "KOL_influence":"None",
+      "Respondents":[  
+         {  
+            "Cluster":"Segment 5",
+            "Category":"Has patient(s)",
+            "ID":14,
+            "Specialty":"Family Medicine"
+         }
+      ],
+      "State":"TX",
+      "Years Experience":24.0,
+      "Degree":"Not specified",
+      "Interaction_type":[  
+         "No specified interaction"
+      ],
+      "Reason":[  
+         "Other"
+      ]
+   },
+   {  
+      "Active":"Retired",
+      "KOL_influence":"Local",
+      "Respondents":[  
+         {  
+            "Cluster":"Segment 4",
+            "Category":"Has patient(s)",
+            "ID":27,
+            "Specialty":"Pathology"
+         },
+         {  
+            "Cluster":"Segment 4",
+            "Category":"Has patient(s)",
+            "ID":31,
+            "Specialty":"Family Medicine"
+         },
+         {  
+            "Cluster":"Segment 4",
+            "Category":"Has patient(s)",
+            "ID":12,
+            "Specialty":"Primary Care"
+         },
+         {  
+            "Cluster":"Segment 3",
+            "Category":"No current patients",
+            "ID":22,
+            "Specialty":"Family Medicine"
+         }
+      ],
+      "State":"VA",
+      "Years Experience":35.0,
+      "Degree":"Somewhat influential",
+      "Interaction_type":[  
+         "Other"
+      ],
+      "Reason":[  
+         "Other",
+         "No Company Or Product Advocacy",
+         "Disease Training"
+      ]
+   },
+   {  
+      "Active":"Active",
+      "KOL_influence":"National",
+      "Respondents":[  
+         {  
+            "Cluster":"Segment 4",
+            "Category":"Has patient(s)",
+            "ID":33,
+            "Specialty":"Pathology"
+         },
+         {  
+            "Cluster":"Segment 5",
+            "Category":"Has patient(s)",
+            "ID":11,
+            "Specialty":"Pathology"
+         },
+         {  
+            "Cluster":"Segment 2",
+            "Category":"Highly Experienced Specialist",
+            "ID":9,
+            "Specialty":"Family Medicine"
+         }
+      ],
+      "State":"NY",
+      "Years Experience":33.0,
+      "Degree":"Not seek or utilize guidance",
+      "Interaction_type":[  
+         "Other"
+      ],
+      "Reason":[  
+         "Published In Journals\/Textbooks",
+         "Disease Center Director",
+         "Clinical Trial Investigator"
+      ]
+   },
+   {  
+      "Active":"Active",
+      "KOL_influence":"National",
+      "Respondents":[  
+         {  
+            "Cluster":"Segment 3",
+            "Category":"No current patients",
+            "ID":18,
+            "Specialty":"Primary Care"
+         },
+         {  
+            "Cluster":"Segment 5",
+            "Category":"Has patient(s)",
+            "ID":21,
+            "Specialty":"Oncology"
+         }
+      ],
+      "State":"CA",
+      "Years Experience":29.0,
+      "Degree":"Somewhat influential",
+      "Interaction_type":[  
+         "No specified interaction"
+      ],
+      "Reason":[  
+         "No Company Or Product Advocacy",
+         "Focused Clinical Practice",
+         "Disease Training"
+      ]
+   },
+   {  
+      "Active":"Active",
+      "KOL_influence":"National",
+      "Respondents":[  
+         {  
+            "Cluster":"Segment 5",
+            "Category":"Has patient(s)",
+            "ID":13,
+            "Specialty":"Oncology"
+         }
+      ],
+      "State":"OH",
+      "Years Experience":6.0,
+      "Degree":"Somewhat influential",
+      "Interaction_type":[  
+         "Referred a patient"
+      ],
+      "Reason":[  
+         "No Company Or Product Advocacy",
+         "Focused Clinical Practice",
+         "Disease Center Director",
+         "Disease Training"
+      ]
+   },
+   {  
+      "Active":"Retired",
+      "KOL_influence":"National",
+      "Respondents":[  
+         {  
+            "Cluster":"Segment 4",
+            "Category":"Has patient(s)",
+            "ID":12,
+            "Specialty":"Primary Care"
+         },
+         {  
+            "Cluster":"Segment 3",
+            "Category":"No current patients",
+            "ID":25,
+            "Specialty":"Oncology"
+         }
+      ],
+      "State":"MA",
+      "Years Experience":32.0,
+      "Degree":"Somewhat influential",
+      "Interaction_type":[  
+         "No specified interaction"
+      ],
+      "Reason":[  
+         "No Company Or Product Advocacy",
+         "Published In Journals\/Textbooks",
+         "Industry Sponsored Presentations"
+      ]
+   },
+   {  
+      "Active":"Active",
+      "KOL_influence":"Local",
+      "Respondents":[  
+         {  
+            "Cluster":"Segment 2",
+            "Category":"Highly Experienced Specialist",
+            "ID":15,
+            "Specialty":"Oncology"
+         },
+         {  
+            "Cluster":"Segment 1",
+            "Category":"Has patient(s)",
+            "ID":28,
+            "Specialty":"Pathology"
+         }
+      ],
+      "State":"FL",
+      "Years Experience":19.0,
+      "Degree":"Somewhat influential",
+      "Interaction_type":[  
+         "Other",
+         "Consulted about a patient"
+      ],
+      "Reason":[  
+         "Industry Sponsored Presentations",
+         "Disease Center Director",
+         "Conference Presentations"
+      ]
+   },
+   {  
+      "Active":"Active",
+      "KOL_influence":"Local",
+      "Respondents":[  
+         {  
+            "Cluster":"Segment 4",
+            "Category":"Has patient(s)",
+            "ID":33,
+            "Specialty":"Pathology"
+         },
+         {  
+            "Cluster":"Segment 5",
+            "Category":"Has patient(s)",
+            "ID":17,
+            "Specialty":"Family Medicine"
+         },
+         {  
+            "Cluster":"Segment 5",
+            "Category":"Has patient(s)",
+            "ID":7,
+            "Specialty":"Oncology"
+         },
+         {  
+            "Cluster":"Segment 2",
+            "Category":"Highly Experienced Specialist",
+            "ID":32,
+            "Specialty":"Primary Care"
+         }
+      ],
+      "State":"PA",
+      "Years Experience":44.0,
+      "Degree":"Somewhat influential",
+      "Interaction_type":[  
+         "Other"
+      ],
+      "Reason":[  
+         "Clinical Trial Investigator",
+         "Focused Clinical Practice",
+         "Disease Training"
+      ]
+   },
+   {  
+      "Active":"Active",
+      "KOL_influence":"Local",
+      "Respondents":[  
+         {  
+            "Cluster":"Segment 4",
+            "Category":"Has patient(s)",
+            "ID":23,
+            "Specialty":"Primary Care"
+         },
+         {  
+            "Cluster":"Segment 3",
+            "Category":"No current patients",
+            "ID":25,
+            "Specialty":"Oncology"
+         },
+         {  
+            "Cluster":"Segment 4",
+            "Category":"Has patient(s)",
+            "ID":27,
+            "Specialty":"Pathology"
+         },
+         {  
+            "Cluster":"Segment 5",
+            "Category":"Has patient(s)",
+            "ID":35,
+            "Specialty":"Oncology"
+         }
+      ],
+      "State":"IL",
+      "Years Experience":27.0,
+      "Degree":"Somewhat influential",
+      "Interaction_type":[  
+         "Consulted about a patient",
+         "Referred a patient"
+      ],
+      "Reason":[  
+         "No Company Or Product Advocacy",
+         "Focused Clinical Practice",
+         "Disease Training"
+      ]
+   },
+   {  
+      "Active":"Active",
+      "KOL_influence":"National",
+      "Respondents":[  
+         {  
+            "Cluster":"Segment 3",
+            "Category":"No current patients",
+            "ID":20,
+            "Specialty":"Primary Care"
+         },
+         {  
+            "Cluster":"Segment 3",
+            "Category":"No current patients",
+            "ID":5,
+            "Specialty":"Oncology"
+         },
+         {  
+            "Cluster":"Segment 3",
+            "Category":"No current patients",
+            "ID":30,
+            "Specialty":"Pathology"
+         },
+         {  
+            "Cluster":"Segment 3",
+            "Category":"No current patients",
+            "ID":25,
+            "Specialty":"Oncology"
+         }
+      ],
+      "State":"NC",
+      "Years Experience":38.0,
+      "Degree":"Somewhat influential",
+      "Interaction_type":[  
+         "Industry event interaction",
+         "Consulted about a patient",
+         "Observed conference presentation"
+      ],
+      "Reason":[  
+         "Published In Journals\/Textbooks",
+         "Guideline Development",
+         "Clinical Trial Investigator"
+      ]
+   },
+   {  
+      "Active":"Active",
+      "KOL_influence":"National",
+      "Respondents":[  
+         {  
+            "Cluster":"Segment 2",
+            "Category":"Highly Experienced Specialist",
+            "ID":15,
+            "Specialty":"Oncology"
+         }
+      ],
+      "State":"PA",
+      "Years Experience":17.0,
+      "Degree":"Somewhat influential",
+      "Interaction_type":[  
+         "No specified interaction"
+      ],
+      "Reason":[  
+         "Clinical Trial Investigator",
+         "Industry Sponsored Presentations",
+         "Guideline Development",
+         "Conference Presentations"
+      ]
+   },
+   {  
+      "Active":"Retired",
+      "KOL_influence":"National",
+      "Respondents":[  
+         {  
+            "Cluster":"Segment 3",
+            "Category":"No current patients",
+            "ID":18,
+            "Specialty":"Primary Care"
+         },
+         {  
+            "Cluster":"Segment 4",
+            "Category":"Has patient(s)",
+            "ID":23,
+            "Specialty":"Primary Care"
+         },
+         {  
+            "Cluster":"Segment 3",
+            "Category":"No current patients",
+            "ID":22,
+            "Specialty":"Family Medicine"
+         }
+      ],
+      "State":"CT",
+      "Years Experience":30.0,
+      "Degree":"Heavily influential",
+      "Interaction_type":[  
+         "Other",
+         "No specified interaction"
+      ],
+      "Reason":[  
+         "Published In Journals\/Textbooks",
+         "Guideline Development",
+         "Focused Clinical Practice",
+         "Industry Sponsored Presentations",
+         "Clinical Trial Investigator",
+         "Disease Center Director"
+      ]
+   },
+   {  
+      "Active":"Retired",
+      "KOL_influence":"National",
+      "Respondents":[  
+         {  
+            "Cluster":"Segment 3",
+            "Category":"No current patients",
+            "ID":3,
+            "Specialty":"Pathology"
+         },
+         {  
+            "Cluster":"Segment 1",
+            "Category":"Has patient(s)",
+            "ID":24,
+            "Specialty":"Primary Care"
+         },
+         {  
+            "Cluster":"Segment 1",
+            "Category":"Has patient(s)",
+            "ID":24,
+            "Specialty":"Primary Care"
+         }
+      ],
+      "State":"PA",
+      "Years Experience":null,
+      "Degree":"Not seek or utilize guidance",
+      "Interaction_type":[  
+         "No specified interaction"
+      ],
+      "Reason":[  
+         "Published In Journals\/Textbooks",
+         "Clinical Trial Investigator",
+         "Conference Presentations"
+      ]
+   },
+   {  
+      "Active":"Retired",
+      "KOL_influence":"Future",
+      "Respondents":[  
+         {  
+            "Cluster":"Segment 3",
+            "Category":"No current patients",
+            "ID":22,
+            "Specialty":"Family Medicine"
+         },
+         {  
+            "Cluster":"Segment 4",
+            "Category":"Has patient(s)",
+            "ID":4,
+            "Specialty":"Family Medicine"
+         },
+         {  
+            "Cluster":"Segment 4",
+            "Category":"Has patient(s)",
+            "ID":12,
+            "Specialty":"Primary Care"
+         }
+      ],
+      "State":"NY",
+      "Years Experience":null,
+      "Degree":"Not specified",
+      "Interaction_type":[  
+         "No specified interaction"
+      ],
+      "Reason":[  
+         "Other"
+      ]
+   },
+   {  
+      "Active":"Active",
+      "KOL_influence":"National",
+      "Respondents":[  
+         {  
+            "Cluster":"Segment 4",
+            "Category":"Has patient(s)",
+            "ID":23,
+            "Specialty":"Primary Care"
+         },
+         {  
+            "Cluster":"Segment 2",
+            "Category":"Highly Experienced Specialist",
+            "ID":32,
+            "Specialty":"Primary Care"
+         }
+      ],
+      "State":"NY",
+      "Years Experience":20.0,
+      "Degree":"Heavily influential",
+      "Interaction_type":[  
+         "Read a publication",
+         "Consulted about a patient",
+         "Observed conference presentation",
+         "Referred a patient"
+      ],
+      "Reason":[  
+         "Clinical Trial Investigator",
+         "Guideline Development",
+         "Conference Presentations"
+      ]
+   },
+   {  
+      "Active":"Retired",
+      "KOL_influence":"National",
+      "Respondents":[  
+         {  
+            "Cluster":"Segment 3",
+            "Category":"No current patients",
+            "ID":5,
+            "Specialty":"Oncology"
+         },
+         {  
+            "Cluster":"Segment 5",
+            "Category":"Has patient(s)",
+            "ID":21,
+            "Specialty":"Oncology"
+         },
+         {  
+            "Cluster":"Segment 5",
+            "Category":"Has patient(s)",
+            "ID":13,
+            "Specialty":"Oncology"
+         },
+         {  
+            "Cluster":"Segment 3",
+            "Category":"No current patients",
+            "ID":25,
+            "Specialty":"Oncology"
+         }
+      ],
+      "State":"NY",
+      "Years Experience":null,
+      "Degree":"Somewhat influential",
+      "Interaction_type":[  
+         "Consulted about a patient",
+         "Observed conference presentation",
+         "Speaker program interaction",
+         "Read a publication",
+         "Industry event interaction",
+         "No specified interaction"
+      ],
+      "Reason":[  
+         "Published In Journals\/Textbooks",
+         "Guideline Development",
+         "Conference Presentations",
+         "No Company Or Product Advocacy",
+         "Disease Training",
+         "Clinical Trial Investigator",
+         "Disease Center Director"
+      ]
+   },
+   {  
+      "Active":"Active",
+      "KOL_influence":"National",
+      "Respondents":[  
+         {  
+            "Cluster":"Segment 2",
+            "Category":"Highly Experienced Specialist",
+            "ID":34,
+            "Specialty":"Pathology"
+         }
+      ],
+      "State":"MA",
+      "Years Experience":29.0,
+      "Degree":"Somewhat influential",
+      "Interaction_type":[  
+         "Referred a patient"
+      ],
+      "Reason":[  
+         "Clinical Trial Investigator",
+         "Guideline Development",
+         "Focused Clinical Practice"
+      ]
+   },
+   {  
+      "Active":"Retired",
+      "KOL_influence":"National",
+      "Respondents":[  
+         {  
+            "Cluster":"Segment 5",
+            "Category":"Has patient(s)",
+            "ID":35,
+            "Specialty":"Oncology"
+         },
+         {  
+            "Cluster":"Segment 5",
+            "Category":"Has patient(s)",
+            "ID":7,
+            "Specialty":"Oncology"
+         },
+         {  
+            "Cluster":"Segment 5",
+            "Category":"Has patient(s)",
+            "ID":11,
+            "Specialty":"Pathology"
+         },
+         {  
+            "Cluster":"Segment 3",
+            "Category":"No current patients",
+            "ID":22,
+            "Specialty":"Family Medicine"
+         }
+      ],
+      "State":"OH",
+      "Years Experience":34.0,
+      "Degree":"Heavily influential",
+      "Interaction_type":[  
+         "Observed conference presentation"
+      ],
+      "Reason":[  
+         "Clinical Trial Investigator",
+         "Conference Presentations",
+         "Disease Training"
+      ]
+   },
+   {  
+      "Active":"Retired",
+      "KOL_influence":"National",
+      "Respondents":[  
+         {  
+            "Cluster":"Segment 4",
+            "Category":"Has patient(s)",
+            "ID":26,
+            "Specialty":"Pathology"
+         }
+      ],
+      "State":"MD",
+      "Years Experience":32.0,
+      "Degree":"Somewhat influential",
+      "Interaction_type":[  
+         "Read a publication",
+         "Observed conference presentation",
+         "Referred a patient"
+      ],
+      "Reason":[  
+         "No Company Or Product Advocacy",
+         "Disease Center Director",
+         "Focused Clinical Practice"
+      ]
+   },
+   {  
+      "Active":"Active",
+      "KOL_influence":"National",
+      "Respondents":[  
+         {  
+            "Cluster":"Segment 5",
+            "Category":"Has patient(s)",
+            "ID":17,
+            "Specialty":"Family Medicine"
+         },
+         {  
+            "Cluster":"Segment 4",
+            "Category":"Has patient(s)",
+            "ID":26,
+            "Specialty":"Pathology"
+         },
+         {  
+            "Cluster":"Segment 3",
+            "Category":"No current patients",
+            "ID":1,
+            "Specialty":"Pathology"
+         },
+         {  
+            "Cluster":"Segment 5",
+            "Category":"Has patient(s)",
+            "ID":21,
+            "Specialty":"Oncology"
+         }
+      ],
+      "State":"TX",
+      "Years Experience":11.0,
+      "Degree":"Somewhat influential",
+      "Interaction_type":[  
+         "Read a publication",
+         "Consulted about a patient",
+         "Observed conference presentation",
+         "Referred a patient",
+         "No specified interaction"
+      ],
+      "Reason":[  
+         "Published In Journals\/Textbooks",
+         "Guideline Development",
+         "Focused Clinical Practice",
+         "Conference Presentations",
+         "Industry Sponsored Presentations",
+         "Disease Training",
+         "Clinical Trial Investigator",
+         "Disease Center Director"
+      ]
+   },
+   {  
+      "Active":"Active",
+      "KOL_influence":"National",
+      "Respondents":[  
+         {  
+            "Cluster":"Segment 5",
+            "Category":"Has patient(s)",
+            "ID":7,
+            "Specialty":"Oncology"
+         },
+         {  
+            "Cluster":"Segment 3",
+            "Category":"No current patients",
+            "ID":20,
+            "Specialty":"Primary Care"
+         },
+         {  
+            "Cluster":"Segment 4",
+            "Category":"Has patient(s)",
+            "ID":4,
+            "Specialty":"Family Medicine"
+         },
+         {  
+            "Cluster":"Segment 3",
+            "Category":"No current patients",
+            "ID":18,
+            "Specialty":"Primary Care"
+         }
+      ],
+      "State":"NC",
+      "Years Experience":null,
+      "Degree":"Somewhat influential",
+      "Interaction_type":[  
+         "Consulted about a patient",
+         "Referred a patient",
+         "No specified interaction"
+      ],
+      "Reason":[  
+         "No Company Or Product Advocacy",
+         "Published In Journals\/Textbooks",
+         "Industry Sponsored Presentations",
+         "Guideline Development",
+         "Disease Training"
+      ]
+   },
+   {  
+      "Active":"Active",
+      "KOL_influence":"National",
+      "Respondents":[  
+         {  
+            "Cluster":"Segment 2",
+            "Category":"Highly Experienced Specialist",
+            "ID":19,
+            "Specialty":"Family Medicine"
+         }
+      ],
+      "State":"CA",
+      "Years Experience":null,
+      "Degree":"Not specified",
+      "Interaction_type":[  
+         "No specified interaction"
+      ],
+      "Reason":[  
+         "Other"
+      ]
+   },
+   {  
+      "Active":"Retired",
+      "KOL_influence":"National",
+      "Respondents":[  
+         {  
+            "Cluster":"Segment 4",
+            "Category":"Has patient(s)",
+            "ID":12,
+            "Specialty":"Primary Care"
+         },
+         {  
+            "Cluster":"Segment 2",
+            "Category":"Highly Experienced Specialist",
+            "ID":15,
+            "Specialty":"Oncology"
+         },
+         {  
+            "Cluster":"Segment 5",
+            "Category":"Has patient(s)",
+            "ID":14,
+            "Specialty":"Family Medicine"
+         },
+         {  
+            "Cluster":"Segment 2",
+            "Category":"Highly Experienced Specialist",
+            "ID":34,
+            "Specialty":"Pathology"
+         }
+      ],
+      "State":"CA",
+      "Years Experience":11.0,
+      "Degree":"Heavily influential",
+      "Interaction_type":[  
+         "No specified interaction"
+      ],
+      "Reason":[  
+         "Industry Sponsored Presentations",
+         "Disease Center Director",
+         "Focused Clinical Practice",
+         "Disease Training"
+      ]
+   },
+   {  
+      "Active":"Active",
+      "KOL_influence":"National",
+      "Respondents":[  
+         {  
+            "Cluster":"Segment 2",
+            "Category":"Highly Experienced Specialist",
+            "ID":19,
+            "Specialty":"Family Medicine"
+         },
+         {  
+            "Cluster":"Segment 3",
+            "Category":"No current patients",
+            "ID":10,
+            "Specialty":"Pathology"
+         }
+      ],
+      "State":"NC",
+      "Years Experience":21.0,
+      "Degree":"Heavily influential",
+      "Interaction_type":[  
+         "Observed conference presentation"
+      ],
+      "Reason":[  
+         "Published In Journals\/Textbooks",
+         "Focused Clinical Practice",
+         "Conference Presentations"
+      ]
+   },
+   {  
+      "Active":"Active",
+      "KOL_influence":"Local",
+      "Respondents":[  
+         {  
+            "Cluster":"Segment 1",
+            "Category":"Has patient(s)",
+            "ID":0,
+            "Specialty":"Primary Care"
+         },
+         {  
+            "Cluster":"Segment 2",
+            "Category":"Highly Experienced Specialist",
+            "ID":9,
+            "Specialty":"Family Medicine"
+         }
+      ],
+      "State":"TN",
+      "Years Experience":22.0,
+      "Degree":"Not specified",
+      "Interaction_type":[  
+         "No specified interaction"
+      ],
+      "Reason":[  
+         "Other"
+      ]
+   },
+   {  
+      "Active":"Active",
+      "KOL_influence":"Local",
+      "Respondents":[  
+         {  
+            "Cluster":"Segment 5",
+            "Category":"Has patient(s)",
+            "ID":21,
+            "Specialty":"Oncology"
+         }
+      ],
+      "State":"MO",
+      "Years Experience":33.0,
+      "Degree":"Somewhat influential",
+      "Interaction_type":[  
+         "No specified interaction"
+      ],
+      "Reason":[  
+         "Industry Sponsored Presentations",
+         "Guideline Development",
+         "Conference Presentations"
+      ]
+   },
+   {  
+      "Active":"Active",
+      "KOL_influence":"Local",
+      "Respondents":[  
+         {  
+            "Cluster":"Segment 2",
+            "Category":"Highly Experienced Specialist",
+            "ID":32,
+            "Specialty":"Primary Care"
+         },
+         {  
+            "Cluster":"Segment 5",
+            "Category":"Has patient(s)",
+            "ID":17,
+            "Specialty":"Family Medicine"
+         },
+         {  
+            "Cluster":"Segment 5",
+            "Category":"Has patient(s)",
+            "ID":14,
+            "Specialty":"Family Medicine"
+         },
+         {  
+            "Cluster":"Segment 4",
+            "Category":"Has patient(s)",
+            "ID":8,
+            "Specialty":"Family Medicine"
+         }
+      ],
+      "State":"CA",
+      "Years Experience":13.0,
+      "Degree":"Heavily influential",
+      "Interaction_type":[  
+         "No specified interaction"
+      ],
+      "Reason":[  
+         "Disease Center Director",
+         "Focused Clinical Practice",
+         "Disease Training"
+      ]
+   },
+   {  
+      "Active":"Active",
+      "KOL_influence":"National",
+      "Respondents":[  
+         {  
+            "Cluster":"Segment 4",
+            "Category":"Has patient(s)",
+            "ID":27,
+            "Specialty":"Pathology"
+         }
+      ],
+      "State":"GA",
+      "Years Experience":40.0,
+      "Degree":"Somewhat influential",
+      "Interaction_type":[  
+         "Observed conference presentation",
+         "Speaker program interaction"
+      ],
+      "Reason":[  
+         "Clinical Trial Investigator",
+         "Guideline Development",
+         "Focused Clinical Practice"
+      ]
+   },
+   {  
+      "Active":"Active",
+      "KOL_influence":"Local",
+      "Respondents":[  
+         {  
+            "Cluster":"Segment 1",
+            "Category":"Has patient(s)",
+            "ID":28,
+            "Specialty":"Pathology"
+         }
+      ],
+      "State":"NC",
+      "Years Experience":13.0,
+      "Degree":"Not specified",
+      "Interaction_type":[  
+         "No specified interaction"
+      ],
+      "Reason":[  
+         "Other"
+      ]
+   },
+   {  
+      "Active":"Retired",
+      "KOL_influence":"Local",
+      "Respondents":[  
+         {  
+            "Cluster":"Segment 2",
+            "Category":"Highly Experienced Specialist",
+            "ID":9,
+            "Specialty":"Family Medicine"
+         },
+         {  
+            "Cluster":"Segment 3",
+            "Category":"No current patients",
+            "ID":30,
+            "Specialty":"Pathology"
+         },
+         {  
+            "Cluster":"Segment 5",
+            "Category":"Has patient(s)",
+            "ID":14,
+            "Specialty":"Family Medicine"
+         },
+         {  
+            "Cluster":"Segment 3",
+            "Category":"No current patients",
+            "ID":22,
+            "Specialty":"Family Medicine"
+         }
+      ],
+      "State":"OH",
+      "Years Experience":11.0,
+      "Degree":"Not specified",
+      "Interaction_type":[  
+         "No specified interaction"
+      ],
+      "Reason":[  
+         "Other"
+      ]
+   },
+   {  
+      "Active":"Active",
+      "KOL_influence":"Local",
+      "Respondents":[  
+         {  
+            "Cluster":"Segment 2",
+            "Category":"Highly Experienced Specialist",
+            "ID":15,
+            "Specialty":"Oncology"
+         },
+         {  
+            "Cluster":"Segment 4",
+            "Category":"Has patient(s)",
+            "ID":8,
+            "Specialty":"Family Medicine"
+         }
+      ],
+      "State":"NY",
+      "Years Experience":42.0,
+      "Degree":"Not seek or utilize guidance",
+      "Interaction_type":[  
+         "Consulted about a patient"
+      ],
+      "Reason":[  
+         "Other",
+         "No Company Or Product Advocacy",
+         "Disease Center Director"
+      ]
+   },
+   {  
+      "Active":"Active",
+      "KOL_influence":"National",
+      "Respondents":[  
+         {  
+            "Cluster":"Segment 1",
+            "Category":"Has patient(s)",
+            "ID":24,
+            "Specialty":"Primary Care"
+         },
+         {  
+            "Cluster":"Segment 5",
+            "Category":"Has patient(s)",
+            "ID":13,
+            "Specialty":"Oncology"
+         },
+         {  
+            "Cluster":"Segment 4",
+            "Category":"Has patient(s)",
+            "ID":23,
+            "Specialty":"Primary Care"
+         }
+      ],
+      "State":"FL",
+      "Years Experience":36.0,
+      "Degree":"Somewhat influential",
+      "Interaction_type":[  
+         "Other",
+         "Read a publication",
+         "Observed conference presentation"
+      ],
+      "Reason":[  
+         "Other",
+         "Published In Journals\/Textbooks",
+         "Conference Presentations"
+      ]
+   },
+   {  
+      "Active":"Active",
+      "KOL_influence":"Local",
+      "Respondents":[  
+         {  
+            "Cluster":"Segment 5",
+            "Category":"Has patient(s)",
+            "ID":21,
+            "Specialty":"Oncology"
+         },
+         {  
+            "Cluster":"Segment 1",
+            "Category":"Has patient(s)",
+            "ID":0,
+            "Specialty":"Primary Care"
+         },
+         {  
+            "Cluster":"Segment 4",
+            "Category":"Has patient(s)",
+            "ID":26,
+            "Specialty":"Pathology"
+         },
+         {  
+            "Cluster":"Segment 3",
+            "Category":"No current patients",
+            "ID":18,
+            "Specialty":"Primary Care"
+         }
+      ],
+      "State":"IL",
+      "Years Experience":null,
+      "Degree":"Not specified",
+      "Interaction_type":[  
+         "No specified interaction"
+      ],
+      "Reason":[  
+         "Other"
+      ]
+   },
+   {  
+      "Active":"Retired",
+      "KOL_influence":"National",
+      "Respondents":[  
+         {  
+            "Cluster":"Segment 1",
+            "Category":"Has patient(s)",
+            "ID":16,
+            "Specialty":"Primary Care"
+         },
+         {  
+            "Cluster":"Segment 3",
+            "Category":"No current patients",
+            "ID":25,
+            "Specialty":"Oncology"
+         },
+         {  
+            "Cluster":"Segment 4",
+            "Category":"Has patient(s)",
+            "ID":33,
+            "Specialty":"Pathology"
+         },
+         {  
+            "Cluster":"Segment 1",
+            "Category":"Has patient(s)",
+            "ID":24,
+            "Specialty":"Primary Care"
+         }
+      ],
+      "State":"NY",
+      "Years Experience":4.0,
+      "Degree":"Not specified",
+      "Interaction_type":[  
+         "No specified interaction"
+      ],
+      "Reason":[  
+         "Other"
+      ]
+   },
+   {  
+      "Active":"Active",
+      "KOL_influence":"National",
+      "Respondents":[  
+         {  
+            "Cluster":"Segment 5",
+            "Category":"Has patient(s)",
+            "ID":13,
+            "Specialty":"Oncology"
+         },
+         {  
+            "Cluster":"Segment 1",
+            "Category":"Has patient(s)",
+            "ID":24,
+            "Specialty":"Primary Care"
+         },
+         {  
+            "Cluster":"Segment 3",
+            "Category":"No current patients",
+            "ID":30,
+            "Specialty":"Pathology"
+         },
+         {  
+            "Cluster":"Segment 2",
+            "Category":"Highly Experienced Specialist",
+            "ID":32,
+            "Specialty":"Primary Care"
+         }
+      ],
+      "State":"IL",
+      "Years Experience":40.0,
+      "Degree":"Somewhat influential",
+      "Interaction_type":[  
+         "Consulted about a patient",
+         "Observed conference presentation",
+         "Speaker program interaction",
+         "Read a publication",
+         "Referred a patient",
+         "No specified interaction"
+      ],
+      "Reason":[  
+         "Published In Journals\/Textbooks",
+         "Guideline Development",
+         "Focused Clinical Practice",
+         "Industry Sponsored Presentations",
+         "Disease Training",
+         "Clinical Trial Investigator"
+      ]
+   },
+   {  
+      "Active":"Retired",
+      "KOL_influence":"National",
+      "Respondents":[  
+         {  
+            "Cluster":"Segment 1",
+            "Category":"Has patient(s)",
+            "ID":24,
+            "Specialty":"Primary Care"
+         },
+         {  
+            "Cluster":"Segment 4",
+            "Category":"Has patient(s)",
+            "ID":4,
+            "Specialty":"Family Medicine"
+         },
+         {  
+            "Cluster":"Segment 5",
+            "Category":"Has patient(s)",
+            "ID":21,
+            "Specialty":"Oncology"
+         },
+         {  
+            "Cluster":"Segment 3",
+            "Category":"No current patients",
+            "ID":3,
+            "Specialty":"Pathology"
+         }
+      ],
+      "State":"NY",
+      "Years Experience":31.0,
+      "Degree":"Somewhat influential",
+      "Interaction_type":[  
+         "Read a publication",
+         "Consulted about a patient",
+         "Observed conference presentation",
+         "Industry event interaction",
+         "Speaker program interaction"
+      ],
+      "Reason":[  
+         "Guideline Development",
+         "Focused Clinical Practice",
+         "Conference Presentations",
+         "No Company Or Product Advocacy",
+         "Industry Sponsored Presentations",
+         "Disease Training",
+         "Clinical Trial Investigator",
+         "Disease Center Director"
+      ]
+   },
+   {  
+      "Active":"Active",
+      "KOL_influence":"Local",
+      "Respondents":[  
+         {  
+            "Cluster":"Segment 3",
+            "Category":"No current patients",
+            "ID":18,
+            "Specialty":"Primary Care"
+         },
+         {  
+            "Cluster":"Segment 5",
+            "Category":"Has patient(s)",
+            "ID":17,
+            "Specialty":"Family Medicine"
+         }
+      ],
+      "State":"NC",
+      "Years Experience":30.0,
+      "Degree":"Heavily influential",
+      "Interaction_type":[  
+         "Consulted about a patient",
+         "Referred a patient"
+      ],
+      "Reason":[  
+         "Clinical Trial Investigator",
+         "Focused Clinical Practice",
+         "Disease Training"
+      ]
+   },
+   {  
+      "Active":"Active",
+      "KOL_influence":"Local",
+      "Respondents":[  
+         {  
+            "Cluster":"Segment 3",
+            "Category":"No current patients",
+            "ID":29,
+            "Specialty":"Primary Care"
+         },
+         {  
+            "Cluster":"Segment 4",
+            "Category":"Has patient(s)",
+            "ID":33,
+            "Specialty":"Pathology"
+         },
+         {  
+            "Cluster":"Segment 4",
+            "Category":"Has patient(s)",
+            "ID":8,
+            "Specialty":"Family Medicine"
+         }
+      ],
+      "State":"FL",
+      "Years Experience":35.0,
+      "Degree":"Heavily influential",
+      "Interaction_type":[  
+         "No specified interaction"
+      ],
+      "Reason":[  
+         "No Company Or Product Advocacy",
+         "Focused Clinical Practice",
+         "Disease Training"
+      ]
+   },
+   {  
+      "Active":"Retired",
+      "KOL_influence":"Local",
+      "Respondents":[  
+         {  
+            "Cluster":"Segment 2",
+            "Category":"Highly Experienced Specialist",
+            "ID":34,
+            "Specialty":"Pathology"
+         },
+         {  
+            "Cluster":"Segment 2",
+            "Category":"Highly Experienced Specialist",
+            "ID":32,
+            "Specialty":"Primary Care"
+         },
+         {  
+            "Cluster":"Segment 5",
+            "Category":"Has patient(s)",
+            "ID":2,
+            "Specialty":"Pathology"
+         }
+      ],
+      "State":"FL",
+      "Years Experience":null,
+      "Degree":"Not specified",
+      "Interaction_type":[  
+         "No specified interaction"
+      ],
+      "Reason":[  
+         "Other"
+      ]
+   },
+   {  
+      "Active":"Retired",
+      "KOL_influence":"Local",
+      "Respondents":[  
+         {  
+            "Cluster":"Segment 2",
+            "Category":"Highly Experienced Specialist",
+            "ID":34,
+            "Specialty":"Pathology"
+         },
+         {  
+            "Cluster":"Segment 3",
+            "Category":"No current patients",
+            "ID":20,
+            "Specialty":"Primary Care"
+         }
+      ],
+      "State":"MT",
+      "Years Experience":41.0,
+      "Degree":"Heavily influential",
+      "Interaction_type":[  
+         "No specified interaction"
+      ],
+      "Reason":[  
+         "No Company Or Product Advocacy",
+         "Focused Clinical Practice",
+         "Disease Training"
+      ]
+   },
+   {  
+      "Active":"Active",
+      "KOL_influence":"Local",
+      "Respondents":[  
+         {  
+            "Cluster":"Segment 5",
+            "Category":"Has patient(s)",
+            "ID":13,
+            "Specialty":"Oncology"
+         },
+         {  
+            "Cluster":"Segment 4",
+            "Category":"Has patient(s)",
+            "ID":4,
+            "Specialty":"Family Medicine"
+         }
+      ],
+      "State":"ID",
+      "Years Experience":47.0,
+      "Degree":"Somewhat influential",
+      "Interaction_type":[  
+         "Observed conference presentation",
+         "Speaker program interaction",
+         "No specified interaction"
+      ],
+      "Reason":[  
+         "Other",
+         "No Company Or Product Advocacy",
+         "Focused Clinical Practice",
+         "Disease Training"
+      ]
+   },
+   {  
+      "Active":"Active",
+      "KOL_influence":"National",
+      "Respondents":[  
+         {  
+            "Cluster":"Segment 3",
+            "Category":"No current patients",
+            "ID":20,
+            "Specialty":"Primary Care"
+         },
+         {  
+            "Cluster":"Segment 4",
+            "Category":"Has patient(s)",
+            "ID":4,
+            "Specialty":"Family Medicine"
+         }
+      ],
+      "State":"NY",
+      "Years Experience":37.0,
+      "Degree":"Heavily influential",
+      "Interaction_type":[  
+         "Referred a patient",
+         "Speaker program interaction"
+      ],
+      "Reason":[  
+         "Other",
+         "Clinical Trial Investigator",
+         "Focused Clinical Practice",
+         "Disease Training"
+      ]
+   },
+   {  
+      "Active":"Active",
+      "KOL_influence":"National",
+      "Respondents":[  
+         {  
+            "Cluster":"Segment 3",
+            "Category":"No current patients",
+            "ID":3,
+            "Specialty":"Pathology"
+         }
+      ],
+      "State":"CA",
+      "Years Experience":36.0,
+      "Degree":"Somewhat influential",
+      "Interaction_type":[  
+         "No specified interaction"
+      ],
+      "Reason":[  
+         "Published In Journals\/Textbooks",
+         "Conference Presentations",
+         "Disease Training"
+      ]
+   },
+   {  
+      "Active":"Active",
+      "KOL_influence":"Local",
+      "Respondents":[  
+         {  
+            "Cluster":"Segment 3",
+            "Category":"No current patients",
+            "ID":20,
+            "Specialty":"Primary Care"
+         },
+         {  
+            "Cluster":"Segment 5",
+            "Category":"Has patient(s)",
+            "ID":7,
+            "Specialty":"Oncology"
+         }
+      ],
+      "State":"IL",
+      "Years Experience":10.0,
+      "Degree":"Heavily influential",
+      "Interaction_type":[  
+         "Consulted about a patient",
+         "Referred a patient"
+      ],
+      "Reason":[  
+         "No Company Or Product Advocacy",
+         "Focused Clinical Practice",
+         "Disease Training"
+      ]
+   },
+   {  
+      "Active":"Retired",
+      "KOL_influence":"National",
+      "Respondents":[  
+         {  
+            "Cluster":"Segment 1",
+            "Category":"Has patient(s)",
+            "ID":28,
+            "Specialty":"Pathology"
+         },
+         {  
+            "Cluster":"Segment 2",
+            "Category":"Highly Experienced Specialist",
+            "ID":19,
+            "Specialty":"Family Medicine"
+         },
+         {  
+            "Cluster":"Segment 3",
+            "Category":"No current patients",
+            "ID":29,
+            "Specialty":"Primary Care"
+         }
+      ],
+      "State":"CA",
+      "Years Experience":20.0,
+      "Degree":"Somewhat influential",
+      "Interaction_type":[  
+         "Read a publication",
+         "Speaker program interaction"
+      ],
+      "Reason":[  
+         "Focused Clinical Practice",
+         "Published In Journals\/Textbooks",
+         "No Company Or Product Advocacy",
+         "Disease Center Director",
+         "Conference Presentations"
+      ]
+   },
+   {  
+      "Active":"Active",
+      "KOL_influence":"Local",
+      "Respondents":[  
+         {  
+            "Cluster":"Segment 3",
+            "Category":"No current patients",
+            "ID":10,
+            "Specialty":"Pathology"
+         },
+         {  
+            "Cluster":"Segment 4",
+            "Category":"Has patient(s)",
+            "ID":23,
+            "Specialty":"Primary Care"
+         }
+      ],
+      "State":"CO",
+      "Years Experience":null,
+      "Degree":"Heavily influential",
+      "Interaction_type":[  
+         "Other"
+      ],
+      "Reason":[  
+         "Other",
+         "Clinical Trial Investigator",
+         "Disease Training"
+      ]
+   },
+   {  
+      "Active":"Active",
+      "KOL_influence":"Local",
+      "Respondents":[  
+         {  
+            "Cluster":"Segment 2",
+            "Category":"Highly Experienced Specialist",
+            "ID":32,
+            "Specialty":"Primary Care"
+         }
+      ],
+      "State":"MI",
+      "Years Experience":21.0,
+      "Degree":"Heavily influential",
+      "Interaction_type":[  
+         "Consulted about a patient",
+         "Referred a patient"
+      ],
+      "Reason":[  
+         "No Company Or Product Advocacy",
+         "Published In Journals\/Textbooks",
+         "Focused Clinical Practice"
+      ]
+   },
+   {  
+      "Active":"Active",
+      "KOL_influence":"Future",
+      "Respondents":[  
+         {  
+            "Cluster":"Segment 1",
+            "Category":"Has patient(s)",
+            "ID":6,
+            "Specialty":"Oncology"
+         },
+         {  
+            "Cluster":"Segment 5",
+            "Category":"Has patient(s)",
+            "ID":11,
+            "Specialty":"Pathology"
+         },
+         {  
+            "Cluster":"Segment 1",
+            "Category":"Has patient(s)",
+            "ID":6,
+            "Specialty":"Oncology"
+         }
+      ],
+      "State":"PA",
+      "Years Experience":3.0,
+      "Degree":"Not specified",
+      "Interaction_type":[  
+         "No specified interaction"
+      ],
+      "Reason":[  
+         "Other"
+      ]
+   },
+   {  
+      "Active":"Active",
+      "KOL_influence":"National",
+      "Respondents":[  
+         {  
+            "Cluster":"Segment 3",
+            "Category":"No current patients",
+            "ID":18,
+            "Specialty":"Primary Care"
+         },
+         {  
+            "Cluster":"Segment 4",
+            "Category":"Has patient(s)",
+            "ID":8,
+            "Specialty":"Family Medicine"
+         },
+         {  
+            "Cluster":"Segment 3",
+            "Category":"No current patients",
+            "ID":25,
+            "Specialty":"Oncology"
+         }
+      ],
+      "State":"TN",
+      "Years Experience":54.0,
+      "Degree":"Somewhat influential",
+      "Interaction_type":[  
+         "Consulted about a patient"
+      ],
+      "Reason":[  
+         "Clinical Trial Investigator",
+         "Focused Clinical Practice",
+         "Disease Training"
+      ]
+   },
+   {  
+      "Active":"Active",
+      "KOL_influence":"Local",
+      "Respondents":[  
+         {  
+            "Cluster":"Segment 5",
+            "Category":"Has patient(s)",
+            "ID":11,
+            "Specialty":"Pathology"
+         },
+         {  
+            "Cluster":"Segment 2",
+            "Category":"Highly Experienced Specialist",
+            "ID":32,
+            "Specialty":"Primary Care"
+         },
+         {  
+            "Cluster":"Segment 3",
+            "Category":"No current patients",
+            "ID":10,
+            "Specialty":"Pathology"
+         },
+         {  
+            "Cluster":"Segment 3",
+            "Category":"No current patients",
+            "ID":18,
+            "Specialty":"Primary Care"
+         }
+      ],
+      "State":"CT",
+      "Years Experience":7.0,
+      "Degree":"Heavily influential",
+      "Interaction_type":[  
+         "Other"
+      ],
+      "Reason":[  
+         "Other",
+         "Focused Clinical Practice",
+         "Disease Training"
+      ]
+   },
+   {  
+      "Active":"Retired",
+      "KOL_influence":"Local",
+      "Respondents":[  
+         {  
+            "Cluster":"Segment 2",
+            "Category":"Highly Experienced Specialist",
+            "ID":32,
+            "Specialty":"Primary Care"
+         },
+         {  
+            "Cluster":"Segment 3",
+            "Category":"No current patients",
+            "ID":25,
+            "Specialty":"Oncology"
+         },
+         {  
+            "Cluster":"Segment 1",
+            "Category":"Has patient(s)",
+            "ID":6,
+            "Specialty":"Oncology"
+         }
+      ],
+      "State":"CO",
+      "Years Experience":30.0,
+      "Degree":"Somewhat influential",
+      "Interaction_type":[  
+         "Other"
+      ],
+      "Reason":[  
+         "No Company Or Product Advocacy",
+         "Focused Clinical Practice",
+         "Disease Training"
+      ]
+   },
+   {  
+      "Active":"Active",
+      "KOL_influence":"National",
+      "Respondents":[  
+         {  
+            "Cluster":"Segment 4",
+            "Category":"Has patient(s)",
+            "ID":8,
+            "Specialty":"Family Medicine"
+         },
+         {  
+            "Cluster":"Segment 3",
+            "Category":"No current patients",
+            "ID":22,
+            "Specialty":"Family Medicine"
+         }
+      ],
+      "State":"TX",
+      "Years Experience":null,
+      "Degree":"Heavily influential",
+      "Interaction_type":[  
+         "No specified interaction"
+      ],
+      "Reason":[  
+         "Clinical Trial Investigator",
+         "Focused Clinical Practice",
+         "Disease Training"
+      ]
+   },
+   {  
+      "Active":"Active",
+      "KOL_influence":"Local",
+      "Respondents":[  
+         {  
+            "Cluster":"Segment 3",
+            "Category":"No current patients",
+            "ID":25,
+            "Specialty":"Oncology"
+         },
+         {  
+            "Cluster":"Segment 1",
+            "Category":"Has patient(s)",
+            "ID":16,
+            "Specialty":"Primary Care"
+         }
+      ],
+      "State":"MD",
+      "Years Experience":39.0,
+      "Degree":"Not specified",
+      "Interaction_type":[  
+         "Consulted about a patient",
+         "Referred a patient"
+      ],
+      "Reason":[  
+         "Published In Journals\/Textbooks",
+         "Focused Clinical Practice",
+         "Clinical Trial Investigator"
+      ]
+   },
+   {  
+      "Active":"Retired",
+      "KOL_influence":"National",
+      "Respondents":[  
+         {  
+            "Cluster":"Segment 2",
+            "Category":"Highly Experienced Specialist",
+            "ID":9,
+            "Specialty":"Family Medicine"
+         },
+         {  
+            "Cluster":"Segment 4",
+            "Category":"Has patient(s)",
+            "ID":26,
+            "Specialty":"Pathology"
+         }
+      ],
+      "State":"TX",
+      "Years Experience":19.0,
+      "Degree":"Heavily influential",
+      "Interaction_type":[  
+         "Other",
+         "Read a publication",
+         "Observed conference presentation"
+      ],
+      "Reason":[  
+         "Published In Journals\/Textbooks",
+         "Guideline Development",
+         "Focused Clinical Practice",
+         "Conference Presentations",
+         "Industry Sponsored Presentations",
+         "Clinical Trial Investigator",
+         "Disease Center Director"
+      ]
+   },
+   {  
+      "Active":"Retired",
+      "KOL_influence":"National",
+      "Respondents":[  
+         {  
+            "Cluster":"Segment 1",
+            "Category":"Has patient(s)",
+            "ID":0,
+            "Specialty":"Primary Care"
+         },
+         {  
+            "Cluster":"Segment 2",
+            "Category":"Highly Experienced Specialist",
+            "ID":15,
+            "Specialty":"Oncology"
+         },
+         {  
+            "Cluster":"Segment 3",
+            "Category":"No current patients",
+            "ID":20,
+            "Specialty":"Primary Care"
+         }
+      ],
+      "State":"MT",
+      "Years Experience":19.0,
+      "Degree":"Somewhat influential",
+      "Interaction_type":[  
+         "Referred a patient"
+      ],
+      "Reason":[  
+         "Published In Journals\/Textbooks",
+         "Conference Presentations",
+         "Disease Training"
+      ]
+   },
+   {  
+      "Active":"Retired",
+      "KOL_influence":"None",
+      "Respondents":[  
+         {  
+            "Cluster":"Segment 2",
+            "Category":"Highly Experienced Specialist",
+            "ID":15,
+            "Specialty":"Oncology"
+         },
+         {  
+            "Cluster":"Segment 5",
+            "Category":"Has patient(s)",
+            "ID":2,
+            "Specialty":"Pathology"
+         },
+         {  
+            "Cluster":"Segment 5",
+            "Category":"Has patient(s)",
+            "ID":14,
+            "Specialty":"Family Medicine"
+         },
+         {  
+            "Cluster":"Segment 2",
+            "Category":"Highly Experienced Specialist",
+            "ID":32,
+            "Specialty":"Primary Care"
+         }
+      ],
+      "State":"PA",
+      "Years Experience":34.0,
+      "Degree":"Not specified",
+      "Interaction_type":[  
+         "No specified interaction"
+      ],
+      "Reason":[  
+         "Other"
+      ]
+   },
+   {  
+      "Active":"Active",
+      "KOL_influence":"National",
+      "Respondents":[  
+         {  
+            "Cluster":"Segment 1",
+            "Category":"Has patient(s)",
+            "ID":28,
+            "Specialty":"Pathology"
+         },
+         {  
+            "Cluster":"Segment 4",
+            "Category":"Has patient(s)",
+            "ID":8,
+            "Specialty":"Family Medicine"
+         },
+         {  
+            "Cluster":"Segment 2",
+            "Category":"Highly Experienced Specialist",
+            "ID":34,
+            "Specialty":"Pathology"
+         },
+         {  
+            "Cluster":"Segment 1",
+            "Category":"Has patient(s)",
+            "ID":16,
+            "Specialty":"Primary Care"
+         }
+      ],
+      "State":"NJ",
+      "Years Experience":33.0,
+      "Degree":"Not specified",
+      "Interaction_type":[  
+         "No specified interaction"
+      ],
+      "Reason":[  
+         "Other"
+      ]
+   },
+   {  
+      "Active":"Active",
+      "KOL_influence":"None",
+      "Respondents":[  
+         {  
+            "Cluster":"Segment 1",
+            "Category":"Has patient(s)",
+            "ID":28,
+            "Specialty":"Pathology"
+         }
+      ],
+      "State":"NY",
+      "Years Experience":27.0,
+      "Degree":"Not specified",
+      "Interaction_type":[  
+         "No specified interaction"
+      ],
+      "Reason":[  
+         "Other"
+      ]
+   },
+   {  
+      "Active":"Retired",
+      "KOL_influence":"National",
+      "Respondents":[  
+         {  
+            "Cluster":"Segment 1",
+            "Category":"Has patient(s)",
+            "ID":28,
+            "Specialty":"Pathology"
+         },
+         {  
+            "Cluster":"Segment 3",
+            "Category":"No current patients",
+            "ID":18,
+            "Specialty":"Primary Care"
+         },
+         {  
+            "Cluster":"Segment 3",
+            "Category":"No current patients",
+            "ID":30,
+            "Specialty":"Pathology"
+         }
+      ],
+      "State":"PA",
+      "Years Experience":39.0,
+      "Degree":"Heavily influential",
+      "Interaction_type":[  
+         "Consulted about a patient",
+         "Referred a patient"
+      ],
+      "Reason":[  
+         "Guideline Development",
+         "Conference Presentations",
+         "Disease Training"
+      ]
+   },
+   {  
+      "Active":"Active",
+      "KOL_influence":"National",
+      "Respondents":[  
+         {  
+            "Cluster":"Segment 3",
+            "Category":"No current patients",
+            "ID":5,
+            "Specialty":"Oncology"
+         },
+         {  
+            "Cluster":"Segment 1",
+            "Category":"Has patient(s)",
+            "ID":16,
+            "Specialty":"Primary Care"
+         },
+         {  
+            "Cluster":"Segment 2",
+            "Category":"Highly Experienced Specialist",
+            "ID":9,
+            "Specialty":"Family Medicine"
+         },
+         {  
+            "Cluster":"Segment 3",
+            "Category":"No current patients",
+            "ID":10,
+            "Specialty":"Pathology"
+         }
+      ],
+      "State":"NY",
+      "Years Experience":33.0,
+      "Degree":"Somewhat influential",
+      "Interaction_type":[  
+         "No specified interaction"
+      ],
+      "Reason":[  
+         "Clinical Trial Investigator",
+         "Guideline Development",
+         "Disease Center Director"
+      ]
+   },
+   {  
+      "Active":"Retired",
+      "KOL_influence":"National",
+      "Respondents":[  
+         {  
+            "Cluster":"Segment 5",
+            "Category":"Has patient(s)",
+            "ID":7,
+            "Specialty":"Oncology"
+         },
+         {  
+            "Cluster":"Segment 3",
+            "Category":"No current patients",
+            "ID":1,
+            "Specialty":"Pathology"
+         },
+         {  
+            "Cluster":"Segment 3",
+            "Category":"No current patients",
+            "ID":18,
+            "Specialty":"Primary Care"
+         }
+      ],
+      "State":"PA",
+      "Years Experience":20.0,
+      "Degree":"Somewhat influential",
+      "Interaction_type":[  
+         "Read a publication",
+         "Consulted about a patient",
+         "Referred a patient"
+      ],
+      "Reason":[  
+         "Published In Journals\/Textbooks",
+         "Guideline Development",
+         "Focused Clinical Practice",
+         "Disease Training"
+      ]
+   },
+   {  
+      "Active":"Active",
+      "KOL_influence":"National",
+      "Respondents":[  
+         {  
+            "Cluster":"Segment 3",
+            "Category":"No current patients",
+            "ID":3,
+            "Specialty":"Pathology"
+         },
+         {  
+            "Cluster":"Segment 5",
+            "Category":"Has patient(s)",
+            "ID":7,
+            "Specialty":"Oncology"
+         },
+         {  
+            "Cluster":"Segment 5",
+            "Category":"Has patient(s)",
+            "ID":13,
+            "Specialty":"Oncology"
+         }
+      ],
+      "State":"NC",
+      "Years Experience":21.0,
+      "Degree":"Heavily influential",
+      "Interaction_type":[  
+         "Consulted about a patient",
+         "Speaker program interaction"
+      ],
+      "Reason":[  
+         "Clinical Trial Investigator",
+         "Focused Clinical Practice",
+         "Disease Training"
+      ]
+   },
+   {  
+      "Active":"Retired",
+      "KOL_influence":"Local",
+      "Respondents":[  
+         {  
+            "Cluster":"Segment 3",
+            "Category":"No current patients",
+            "ID":3,
+            "Specialty":"Pathology"
+         },
+         {  
+            "Cluster":"Segment 4",
+            "Category":"Has patient(s)",
+            "ID":27,
+            "Specialty":"Pathology"
+         }
+      ],
+      "State":"CA",
+      "Years Experience":18.0,
+      "Degree":"Somewhat influential",
+      "Interaction_type":[  
+         "No specified interaction"
+      ],
+      "Reason":[  
+         "Other",
+         "No Company Or Product Advocacy",
+         "Disease Training"
+      ]
+   },
+   {  
+      "Active":"Active",
+      "KOL_influence":"Local",
+      "Respondents":[  
+         {  
+            "Cluster":"Segment 2",
+            "Category":"Highly Experienced Specialist",
+            "ID":32,
+            "Specialty":"Primary Care"
+         }
+      ],
+      "State":"TX",
+      "Years Experience":20.0,
+      "Degree":"Somewhat influential",
+      "Interaction_type":[  
+         "No specified interaction"
+      ],
+      "Reason":[  
+         "Clinical Trial Investigator",
+         "Industry Sponsored Presentations",
+         "Disease Center Director"
+      ]
+   },
+   {  
+      "Active":"Retired",
+      "KOL_influence":"National",
+      "Respondents":[  
+         {  
+            "Cluster":"Segment 3",
+            "Category":"No current patients",
+            "ID":29,
+            "Specialty":"Primary Care"
+         },
+         {  
+            "Cluster":"Segment 5",
+            "Category":"Has patient(s)",
+            "ID":2,
+            "Specialty":"Pathology"
+         },
+         {  
+            "Cluster":"Segment 5",
+            "Category":"Has patient(s)",
+            "ID":21,
+            "Specialty":"Oncology"
+         }
+      ],
+      "State":"NE",
+      "Years Experience":24.0,
+      "Degree":"Heavily influential",
+      "Interaction_type":[  
+         "No specified interaction"
+      ],
+      "Reason":[  
+         "Published In Journals\/Textbooks",
+         "Clinical Trial Investigator",
+         "Conference Presentations"
+      ]
+   },
+   {  
+      "Active":"Active",
+      "KOL_influence":"Local",
+      "Respondents":[  
+         {  
+            "Cluster":"Segment 4",
+            "Category":"Has patient(s)",
+            "ID":4,
+            "Specialty":"Family Medicine"
+         }
+      ],
+      "State":"TX",
+      "Years Experience":37.0,
+      "Degree":"Heavily influential",
+      "Interaction_type":[  
+         "Referred a patient"
+      ],
+      "Reason":[  
+         "Published In Journals\/Textbooks",
+         "Focused Clinical Practice",
+         "Disease Training"
+      ]
+   },
+   {  
+      "Active":"Active",
+      "KOL_influence":"Local",
+      "Respondents":[  
+         {  
+            "Cluster":"Segment 4",
+            "Category":"Has patient(s)",
+            "ID":12,
+            "Specialty":"Primary Care"
+         }
+      ],
+      "State":"DC",
+      "Years Experience":null,
+      "Degree":"Not specified",
+      "Interaction_type":[  
+         "No specified interaction"
+      ],
+      "Reason":[  
+         "Other"
+      ]
+   },
+   {  
+      "Active":"Retired",
+      "KOL_influence":"Local",
+      "Respondents":[  
+         {  
+            "Cluster":"Segment 5",
+            "Category":"Has patient(s)",
+            "ID":7,
+            "Specialty":"Oncology"
+         },
+         {  
+            "Cluster":"Segment 2",
+            "Category":"Highly Experienced Specialist",
+            "ID":9,
+            "Specialty":"Family Medicine"
+         },
+         {  
+            "Cluster":"Segment 1",
+            "Category":"Has patient(s)",
+            "ID":6,
+            "Specialty":"Oncology"
+         },
+         {  
+            "Cluster":"Segment 5",
+            "Category":"Has patient(s)",
+            "ID":17,
+            "Specialty":"Family Medicine"
+         }
+      ],
+      "State":"NY",
+      "Years Experience":23.0,
+      "Degree":"Somewhat influential",
+      "Interaction_type":[  
+         "Other"
+      ],
+      "Reason":[  
+         "Disease Center Director",
+         "Focused Clinical Practice",
+         "Disease Training"
+      ]
+   },
+   {  
+      "Active":"Active",
+      "KOL_influence":"Future",
+      "Respondents":[  
+         {  
+            "Cluster":"Segment 3",
+            "Category":"No current patients",
+            "ID":10,
+            "Specialty":"Pathology"
+         },
+         {  
+            "Cluster":"Segment 3",
+            "Category":"No current patients",
+            "ID":20,
+            "Specialty":"Primary Care"
+         },
+         {  
+            "Cluster":"Segment 4",
+            "Category":"Has patient(s)",
+            "ID":23,
+            "Specialty":"Primary Care"
+         },
+         {  
+            "Cluster":"Segment 4",
+            "Category":"Has patient(s)",
+            "ID":12,
+            "Specialty":"Primary Care"
+         }
+      ],
+      "State":"NY",
+      "Years Experience":42.0,
+      "Degree":"Not specified",
+      "Interaction_type":[  
+         "No specified interaction"
+      ],
+      "Reason":[  
+         "Other"
+      ]
+   },
+   {  
+      "Active":"Retired",
+      "KOL_influence":"National",
+      "Respondents":[  
+         {  
+            "Cluster":"Segment 1",
+            "Category":"Has patient(s)",
+            "ID":0,
+            "Specialty":"Primary Care"
+         },
+         {  
+            "Cluster":"Segment 5",
+            "Category":"Has patient(s)",
+            "ID":13,
+            "Specialty":"Oncology"
+         },
+         {  
+            "Cluster":"Segment 2",
+            "Category":"Highly Experienced Specialist",
+            "ID":34,
+            "Specialty":"Pathology"
+         }
+      ],
+      "State":"GA",
+      "Years Experience":26.0,
+      "Degree":"Not specified",
+      "Interaction_type":[  
+         "No specified interaction"
+      ],
+      "Reason":[  
+         "Other"
+      ]
+   },
+   {  
+      "Active":"Active",
+      "KOL_influence":"National",
+      "Respondents":[  
+         {  
+            "Cluster":"Segment 4",
+            "Category":"Has patient(s)",
+            "ID":8,
+            "Specialty":"Family Medicine"
+         },
+         {  
+            "Cluster":"Segment 2",
+            "Category":"Highly Experienced Specialist",
+            "ID":9,
+            "Specialty":"Family Medicine"
+         },
+         {  
+            "Cluster":"Segment 5",
+            "Category":"Has patient(s)",
+            "ID":13,
+            "Specialty":"Oncology"
+         }
+      ],
+      "State":"FL",
+      "Years Experience":44.0,
+      "Degree":"Heavily influential",
+      "Interaction_type":[  
+         "Read a publication",
+         "Consulted about a patient",
+         "Referred a patient"
+      ],
+      "Reason":[  
+         "Guideline Development",
+         "Conference Presentations",
+         "Disease Training"
+      ]
+   },
+   {  
+      "Active":"Active",
+      "KOL_influence":"Local",
+      "Respondents":[  
+         {  
+            "Cluster":"Segment 2",
+            "Category":"Highly Experienced Specialist",
+            "ID":15,
+            "Specialty":"Oncology"
+         },
+         {  
+            "Cluster":"Segment 5",
+            "Category":"Has patient(s)",
+            "ID":11,
+            "Specialty":"Pathology"
+         },
+         {  
+            "Cluster":"Segment 4",
+            "Category":"Has patient(s)",
+            "ID":26,
+            "Specialty":"Pathology"
+         }
+      ],
+      "State":"NJ",
+      "Years Experience":20.0,
+      "Degree":"Not seek or utilize guidance",
+      "Interaction_type":[  
+         "Observed conference presentation"
+      ],
+      "Reason":[  
+         "Other",
+         "Published In Journals\/Textbooks",
+         "Industry Sponsored Presentations"
+      ]
+   },
+   {  
+      "Active":"Active",
+      "KOL_influence":"Local",
+      "Respondents":[  
+         {  
+            "Cluster":"Segment 4",
+            "Category":"Has patient(s)",
+            "ID":26,
+            "Specialty":"Pathology"
+         },
+         {  
+            "Cluster":"Segment 4",
+            "Category":"Has patient(s)",
+            "ID":4,
+            "Specialty":"Family Medicine"
+         },
+         {  
+            "Cluster":"Segment 5",
+            "Category":"Has patient(s)",
+            "ID":7,
+            "Specialty":"Oncology"
+         },
+         {  
+            "Cluster":"Segment 5",
+            "Category":"Has patient(s)",
+            "ID":13,
+            "Specialty":"Oncology"
+         }
+      ],
+      "State":"CA",
+      "Years Experience":30.0,
+      "Degree":"Heavily influential",
+      "Interaction_type":[  
+         "No specified interaction"
+      ],
+      "Reason":[  
+         "Clinical Trial Investigator",
+         "Guideline Development",
+         "Disease Training"
+      ]
+   },
+   {  
+      "Active":"Retired",
+      "KOL_influence":"Local",
+      "Respondents":[  
+         {  
+            "Cluster":"Segment 5",
+            "Category":"Has patient(s)",
+            "ID":21,
+            "Specialty":"Oncology"
+         }
+      ],
+      "State":"OH",
+      "Years Experience":33.0,
+      "Degree":"Heavily influential",
+      "Interaction_type":[  
+         "Consulted about a patient",
+         "Observed conference presentation"
+      ],
+      "Reason":[  
+         "Other",
+         "Focused Clinical Practice",
+         "Disease Training"
+      ]
+   },
+   {  
+      "Active":"Active",
+      "KOL_influence":"Local",
+      "Respondents":[  
+         {  
+            "Cluster":"Segment 4",
+            "Category":"Has patient(s)",
+            "ID":12,
+            "Specialty":"Primary Care"
+         },
+         {  
+            "Cluster":"Segment 2",
+            "Category":"Highly Experienced Specialist",
+            "ID":15,
+            "Specialty":"Oncology"
+         },
+         {  
+            "Cluster":"Segment 3",
+            "Category":"No current patients",
+            "ID":5,
+            "Specialty":"Oncology"
+         },
+         {  
+            "Cluster":"Segment 1",
+            "Category":"Has patient(s)",
+            "ID":16,
+            "Specialty":"Primary Care"
+         }
+      ],
+      "State":"ID",
+      "Years Experience":null,
+      "Degree":"Not specified",
+      "Interaction_type":[  
+         "No specified interaction"
+      ],
+      "Reason":[  
+         "Other"
+      ]
+   },
+   {  
+      "Active":"Active",
+      "KOL_influence":"Local",
+      "Respondents":[  
+         {  
+            "Cluster":"Segment 5",
+            "Category":"Has patient(s)",
+            "ID":21,
+            "Specialty":"Oncology"
+         }
+      ],
+      "State":"IN",
+      "Years Experience":11.0,
+      "Degree":"Heavily influential",
+      "Interaction_type":[  
+         "Consulted about a patient",
+         "Referred a patient"
+      ],
+      "Reason":[  
+         "No Company Or Product Advocacy",
+         "Focused Clinical Practice",
+         "Disease Training"
+      ]
+   },
+   {  
+      "Active":"Active",
+      "KOL_influence":"None",
+      "Respondents":[  
+         {  
+            "Cluster":"Segment 3",
+            "Category":"No current patients",
+            "ID":18,
+            "Specialty":"Primary Care"
+         },
+         {  
+            "Cluster":"Segment 5",
+            "Category":"Has patient(s)",
+            "ID":11,
+            "Specialty":"Pathology"
+         },
+         {  
+            "Cluster":"Segment 1",
+            "Category":"Has patient(s)",
+            "ID":24,
+            "Specialty":"Primary Care"
+         },
+         {  
+            "Cluster":"Segment 1",
+            "Category":"Has patient(s)",
+            "ID":28,
+            "Specialty":"Pathology"
+         }
+      ],
+      "State":"NY",
+      "Years Experience":29.0,
+      "Degree":"Not specified",
+      "Interaction_type":[  
+         "No specified interaction"
+      ],
+      "Reason":[  
+         "Other"
+      ]
+   },
+   {  
+      "Active":"Active",
+      "KOL_influence":"National",
+      "Respondents":[  
+         {  
+            "Cluster":"Segment 3",
+            "Category":"No current patients",
+            "ID":29,
+            "Specialty":"Primary Care"
+         },
+         {  
+            "Cluster":"Segment 3",
+            "Category":"No current patients",
+            "ID":29,
+            "Specialty":"Primary Care"
+         }
+      ],
+      "State":"AL",
+      "Years Experience":32.0,
+      "Degree":"Not specified",
+      "Interaction_type":[  
+         "No specified interaction"
+      ],
+      "Reason":[  
+         "Other"
+      ]
+   },
+   {  
+      "Active":"Active",
+      "KOL_influence":"Local",
+      "Respondents":[  
+         {  
+            "Cluster":"Segment 4",
+            "Category":"Has patient(s)",
+            "ID":27,
+            "Specialty":"Pathology"
+         },
+         {  
+            "Cluster":"Segment 3",
+            "Category":"No current patients",
+            "ID":22,
+            "Specialty":"Family Medicine"
+         }
+      ],
+      "State":"DC",
+      "Years Experience":37.0,
+      "Degree":"Not specified",
+      "Interaction_type":[  
+         "Consulted about a patient",
+         "Referred a patient"
+      ],
+      "Reason":[  
+         "Clinical Trial Investigator",
+         "Focused Clinical Practice",
+         "Disease Training"
+      ]
+   },
+   {  
+      "Active":"Active",
+      "KOL_influence":"National",
+      "Respondents":[  
+         {  
+            "Cluster":"Segment 4",
+            "Category":"Has patient(s)",
+            "ID":23,
+            "Specialty":"Primary Care"
+         }
+      ],
+      "State":"PA",
+      "Years Experience":12.0,
+      "Degree":"Somewhat influential",
+      "Interaction_type":[  
+         "No specified interaction"
+      ],
+      "Reason":[  
+         "No Company Or Product Advocacy",
+         "Focused Clinical Practice",
+         "Disease Training"
+      ]
+   },
+   {  
+      "Active":"Active",
+      "KOL_influence":"Local",
+      "Respondents":[  
+         {  
+            "Cluster":"Segment 3",
+            "Category":"No current patients",
+            "ID":10,
+            "Specialty":"Pathology"
+         },
+         {  
+            "Cluster":"Segment 5",
+            "Category":"Has patient(s)",
+            "ID":21,
+            "Specialty":"Oncology"
+         },
+         {  
+            "Cluster":"Segment 2",
+            "Category":"Highly Experienced Specialist",
+            "ID":32,
+            "Specialty":"Primary Care"
+         },
+         {  
+            "Cluster":"Segment 4",
+            "Category":"Has patient(s)",
+            "ID":31,
+            "Specialty":"Family Medicine"
+         }
+      ],
+      "State":"NY",
+      "Years Experience":41.0,
+      "Degree":"Somewhat influential",
+      "Interaction_type":[  
+         "Consulted about a patient"
+      ],
+      "Reason":[  
+         "Clinical Trial Investigator",
+         "Industry Sponsored Presentations",
+         "Disease Training"
+      ]
+   },
+   {  
+      "Active":"Active",
+      "KOL_influence":"Local",
+      "Respondents":[  
+         {  
+            "Cluster":"Segment 4",
+            "Category":"Has patient(s)",
+            "ID":23,
+            "Specialty":"Primary Care"
+         },
+         {  
+            "Cluster":"Segment 3",
+            "Category":"No current patients",
+            "ID":30,
+            "Specialty":"Pathology"
+         },
+         {  
+            "Cluster":"Segment 4",
+            "Category":"Has patient(s)",
+            "ID":27,
+            "Specialty":"Pathology"
+         }
+      ],
+      "State":"NY",
+      "Years Experience":14.0,
+      "Degree":"Not specified",
+      "Interaction_type":[  
+         "No specified interaction"
+      ],
+      "Reason":[  
+         "Other"
+      ]
+   },
+   {  
+      "Active":"Active",
+      "KOL_influence":"National",
+      "Respondents":[  
+         {  
+            "Cluster":"Segment 2",
+            "Category":"Highly Experienced Specialist",
+            "ID":15,
+            "Specialty":"Oncology"
+         },
+         {  
+            "Cluster":"Segment 1",
+            "Category":"Has patient(s)",
+            "ID":28,
+            "Specialty":"Pathology"
+         }
+      ],
+      "State":"MO",
+      "Years Experience":50.0,
+      "Degree":"Somewhat influential",
+      "Interaction_type":[  
+         "Other",
+         "Consulted about a patient",
+         "Observed conference presentation",
+         "Speaker program interaction",
+         "Read a publication",
+         "Industry event interaction"
+      ],
+      "Reason":[  
+         "Conference Presentations",
+         "Published In Journals\/Textbooks",
+         "Guideline Development",
+         "Focused Clinical Practice",
+         "Clinical Trial Investigator"
+      ]
+   },
+   {  
+      "Active":"Active",
+      "KOL_influence":"National",
+      "Respondents":[  
+         {  
+            "Cluster":"Segment 4",
+            "Category":"Has patient(s)",
+            "ID":23,
+            "Specialty":"Primary Care"
+         },
+         {  
+            "Cluster":"Segment 5",
+            "Category":"Has patient(s)",
+            "ID":11,
+            "Specialty":"Pathology"
+         },
+         {  
+            "Cluster":"Segment 2",
+            "Category":"Highly Experienced Specialist",
+            "ID":34,
+            "Specialty":"Pathology"
+         },
+         {  
+            "Cluster":"Segment 5",
+            "Category":"Has patient(s)",
+            "ID":7,
+            "Specialty":"Oncology"
+         }
+      ],
+      "State":"NC",
+      "Years Experience":34.0,
+      "Degree":"Not specified",
+      "Interaction_type":[  
+         "No specified interaction"
+      ],
+      "Reason":[  
+         "Other"
+      ]
+   },
+   {  
+      "Active":"Active",
+      "KOL_influence":"National",
+      "Respondents":[  
+         {  
+            "Cluster":"Segment 3",
+            "Category":"No current patients",
+            "ID":5,
+            "Specialty":"Oncology"
+         },
+         {  
+            "Cluster":"Segment 4",
+            "Category":"Has patient(s)",
+            "ID":23,
+            "Specialty":"Primary Care"
+         },
+         {  
+            "Cluster":"Segment 3",
+            "Category":"No current patients",
+            "ID":20,
+            "Specialty":"Primary Care"
+         }
+      ],
+      "State":"OH",
+      "Years Experience":19.0,
+      "Degree":"Not specified",
+      "Interaction_type":[  
+         "No specified interaction"
+      ],
+      "Reason":[  
+         "Other"
+      ]
+   },
+   {  
+      "Active":"Active",
+      "KOL_influence":"Local",
+      "Respondents":[  
+         {  
+            "Cluster":"Segment 5",
+            "Category":"Has patient(s)",
+            "ID":13,
+            "Specialty":"Oncology"
+         },
+         {  
+            "Cluster":"Segment 4",
+            "Category":"Has patient(s)",
+            "ID":31,
+            "Specialty":"Family Medicine"
+         },
+         {  
+            "Cluster":"Segment 2",
+            "Category":"Highly Experienced Specialist",
+            "ID":15,
+            "Specialty":"Oncology"
+         }
+      ],
+      "State":"OH",
+      "Years Experience":24.0,
+      "Degree":"Heavily influential",
+      "Interaction_type":[  
+         "No specified interaction"
+      ],
+      "Reason":[  
+         "Published In Journals\/Textbooks",
+         "Disease Center Director",
+         "Focused Clinical Practice"
+      ]
+   },
+   {  
+      "Active":"Active",
+      "KOL_influence":"None",
+      "Respondents":[  
+         {  
+            "Cluster":"Segment 1",
+            "Category":"Has patient(s)",
+            "ID":28,
+            "Specialty":"Pathology"
+         },
+         {  
+            "Cluster":"Segment 4",
+            "Category":"Has patient(s)",
+            "ID":4,
+            "Specialty":"Family Medicine"
+         }
+      ],
+      "State":"PA",
+      "Years Experience":26.0,
+      "Degree":"Not specified",
+      "Interaction_type":[  
+         "No specified interaction"
+      ],
+      "Reason":[  
+         "Other"
+      ]
+   },
+   {  
+      "Active":"Active",
+      "KOL_influence":"National",
+      "Respondents":[  
+         {  
+            "Cluster":"Segment 1",
+            "Category":"Has patient(s)",
+            "ID":24,
+            "Specialty":"Primary Care"
+         },
+         {  
+            "Cluster":"Segment 2",
+            "Category":"Highly Experienced Specialist",
+            "ID":19,
+            "Specialty":"Family Medicine"
+         },
+         {  
+            "Cluster":"Segment 3",
+            "Category":"No current patients",
+            "ID":30,
+            "Specialty":"Pathology"
+         }
+      ],
+      "State":"CO",
+      "Years Experience":null,
+      "Degree":"Heavily influential",
+      "Interaction_type":[  
+         "Other",
+         "Read a publication",
+         "Consulted about a patient",
+         "Observed conference presentation"
+      ],
+      "Reason":[  
+         "Published In Journals\/Textbooks",
+         "Clinical Trial Investigator",
+         "Guideline Development",
+         "Focused Clinical Practice",
+         "Conference Presentations"
+      ]
+   },
+   {  
+      "Active":"Active",
+      "KOL_influence":"National",
+      "Respondents":[  
+         {  
+            "Cluster":"Segment 2",
+            "Category":"Highly Experienced Specialist",
+            "ID":15,
+            "Specialty":"Oncology"
+         },
+         {  
+            "Cluster":"Segment 2",
+            "Category":"Highly Experienced Specialist",
+            "ID":9,
+            "Specialty":"Family Medicine"
+         }
+      ],
+      "State":"MI",
+      "Years Experience":40.0,
+      "Degree":"Heavily influential",
+      "Interaction_type":[  
+         "Industry event interaction",
+         "Consulted about a patient",
+         "Observed conference presentation",
+         "Referred a patient"
+      ],
+      "Reason":[  
+         "Industry Sponsored Presentations",
+         "Focused Clinical Practice",
+         "Conference Presentations",
+         "Disease Training"
+      ]
+   },
+   {  
+      "Active":"Active",
+      "KOL_influence":"Local",
+      "Respondents":[  
+         {  
+            "Cluster":"Segment 5",
+            "Category":"Has patient(s)",
+            "ID":21,
+            "Specialty":"Oncology"
+         },
+         {  
+            "Cluster":"Segment 1",
+            "Category":"Has patient(s)",
+            "ID":16,
+            "Specialty":"Primary Care"
+         }
+      ],
+      "State":"NE",
+      "Years Experience":28.0,
+      "Degree":"Heavily influential",
+      "Interaction_type":[  
+         "Consulted about a patient",
+         "Referred a patient"
+      ],
+      "Reason":[  
+         "No Company Or Product Advocacy",
+         "Focused Clinical Practice",
+         "Disease Training"
+      ]
+   },
+   {  
+      "Active":"Retired",
+      "KOL_influence":"Future",
+      "Respondents":[  
+         {  
+            "Cluster":"Segment 3",
+            "Category":"No current patients",
+            "ID":5,
+            "Specialty":"Oncology"
+         }
+      ],
+      "State":"IL",
+      "Years Experience":11.0,
+      "Degree":"Not specified",
+      "Interaction_type":[  
+         "No specified interaction"
+      ],
+      "Reason":[  
+         "Other"
+      ]
+   },
+   {  
+      "Active":"Retired",
+      "KOL_influence":"National",
+      "Respondents":[  
+         {  
+            "Cluster":"Segment 4",
+            "Category":"Has patient(s)",
+            "ID":23,
+            "Specialty":"Primary Care"
+         },
+         {  
+            "Cluster":"Segment 1",
+            "Category":"Has patient(s)",
+            "ID":16,
+            "Specialty":"Primary Care"
+         },
+         {  
+            "Cluster":"Segment 3",
+            "Category":"No current patients",
+            "ID":3,
+            "Specialty":"Pathology"
+         },
+         {  
+            "Cluster":"Segment 3",
+            "Category":"No current patients",
+            "ID":3,
+            "Specialty":"Pathology"
+         }
+      ],
+      "State":"UT",
+      "Years Experience":null,
+      "Degree":"Heavily influential",
+      "Interaction_type":[  
+         "Consulted about a patient",
+         "Referred a patient"
+      ],
+      "Reason":[  
+         "Published In Journals\/Textbooks",
+         "Focused Clinical Practice",
+         "Disease Training"
+      ]
+   },
+   {  
+      "Active":"Active",
+      "KOL_influence":"National",
+      "Respondents":[  
+         {  
+            "Cluster":"Segment 3",
+            "Category":"No current patients",
+            "ID":30,
+            "Specialty":"Pathology"
+         },
+         {  
+            "Cluster":"Segment 3",
+            "Category":"No current patients",
+            "ID":3,
+            "Specialty":"Pathology"
+         },
+         {  
+            "Cluster":"Segment 1",
+            "Category":"Has patient(s)",
+            "ID":16,
+            "Specialty":"Primary Care"
+         }
+      ],
+      "State":"WA",
+      "Years Experience":30.0,
+      "Degree":"Heavily influential",
+      "Interaction_type":[  
+         "Industry event interaction",
+         "Speaker program interaction"
+      ],
+      "Reason":[  
+         "Guideline Development",
+         "Focused Clinical Practice",
+         "Conference Presentations"
+      ]
+   },
+   {  
+      "Active":"Active",
+      "KOL_influence":"National",
+      "Respondents":[  
+         {  
+            "Cluster":"Segment 5",
+            "Category":"Has patient(s)",
+            "ID":17,
+            "Specialty":"Family Medicine"
+         },
+         {  
+            "Cluster":"Segment 1",
+            "Category":"Has patient(s)",
+            "ID":0,
+            "Specialty":"Primary Care"
+         }
+      ],
+      "State":"MN",
+      "Years Experience":32.0,
+      "Degree":"Somewhat influential",
+      "Interaction_type":[  
+         "Read a publication"
+      ],
+      "Reason":[  
+         "Industry Sponsored Presentations",
+         "Guideline Development",
+         "Disease Training"
+      ]
+   },
+   {  
+      "Active":"Retired",
+      "KOL_influence":"National",
+      "Respondents":[  
+         {  
+            "Cluster":"Segment 5",
+            "Category":"Has patient(s)",
+            "ID":2,
+            "Specialty":"Pathology"
+         },
+         {  
+            "Cluster":"Segment 4",
+            "Category":"Has patient(s)",
+            "ID":26,
+            "Specialty":"Pathology"
+         },
+         {  
+            "Cluster":"Segment 3",
+            "Category":"No current patients",
+            "ID":3,
+            "Specialty":"Pathology"
+         },
+         {  
+            "Cluster":"Segment 3",
+            "Category":"No current patients",
+            "ID":25,
+            "Specialty":"Oncology"
+         }
+      ],
+      "State":"NJ",
+      "Years Experience":12.0,
+      "Degree":"Somewhat influential",
+      "Interaction_type":[  
+         "Consulted about a patient",
+         "Observed conference presentation",
+         "Speaker program interaction",
+         "Industry event interaction",
+         "Referred a patient",
+         "Read a publication",
+         "No specified interaction"
+      ],
+      "Reason":[  
+         "Published In Journals\/Textbooks",
+         "Guideline Development",
+         "Focused Clinical Practice",
+         "Conference Presentations",
+         "Industry Sponsored Presentations",
+         "Disease Training",
+         "Clinical Trial Investigator",
+         "Disease Center Director"
+      ]
+   },
+   {  
+      "Active":"Active",
+      "KOL_influence":"None",
+      "Respondents":[  
+         {  
+            "Cluster":"Segment 4",
+            "Category":"Has patient(s)",
+            "ID":26,
+            "Specialty":"Pathology"
+         },
+         {  
+            "Cluster":"Segment 5",
+            "Category":"Has patient(s)",
+            "ID":11,
+            "Specialty":"Pathology"
+         },
+         {  
+            "Cluster":"Segment 1",
+            "Category":"Has patient(s)",
+            "ID":16,
+            "Specialty":"Primary Care"
+         },
+         {  
+            "Cluster":"Segment 3",
+            "Category":"No current patients",
+            "ID":30,
+            "Specialty":"Pathology"
+         }
+      ],
+      "State":"NJ",
+      "Years Experience":19.0,
+      "Degree":"Not specified",
+      "Interaction_type":[  
+         "No specified interaction"
+      ],
+      "Reason":[  
+         "Other"
+      ]
+   },
+   {  
+      "Active":"Active",
+      "KOL_influence":"National",
+      "Respondents":[  
+         {  
+            "Cluster":"Segment 5",
+            "Category":"Has patient(s)",
+            "ID":7,
+            "Specialty":"Oncology"
+         },
+         {  
+            "Cluster":"Segment 2",
+            "Category":"Highly Experienced Specialist",
+            "ID":9,
+            "Specialty":"Family Medicine"
+         }
+      ],
+      "State":"SC",
+      "Years Experience":null,
+      "Degree":"Somewhat influential",
+      "Interaction_type":[  
+         "Consulted about a patient",
+         "Observed conference presentation",
+         "Speaker program interaction",
+         "Industry event interaction",
+         "Referred a patient",
+         "Read a publication"
+      ],
+      "Reason":[  
+         "Published In Journals\/Textbooks",
+         "Guideline Development",
+         "Focused Clinical Practice",
+         "Conference Presentations",
+         "Industry Sponsored Presentations",
+         "Disease Training",
+         "Clinical Trial Investigator",
+         "Disease Center Director"
+      ]
+   },
+   {  
+      "Active":"Active",
+      "KOL_influence":"National",
+      "Respondents":[  
+         {  
+            "Cluster":"Segment 1",
+            "Category":"Has patient(s)",
+            "ID":28,
+            "Specialty":"Pathology"
+         },
+         {  
+            "Cluster":"Segment 3",
+            "Category":"No current patients",
+            "ID":25,
+            "Specialty":"Oncology"
+         },
+         {  
+            "Cluster":"Segment 1",
+            "Category":"Has patient(s)",
+            "ID":24,
+            "Specialty":"Primary Care"
+         }
+      ],
+      "State":"NY",
+      "Years Experience":14.0,
+      "Degree":"Heavily influential",
+      "Interaction_type":[  
+         "Consulted about a patient"
+      ],
+      "Reason":[  
+         "Published In Journals\/Textbooks",
+         "Clinical Trial Investigator",
+         "Disease Center Director",
+         "Focused Clinical Practice",
+         "Disease Training"
+      ]
+   },
+   {  
+      "Active":"Active",
+      "KOL_influence":"National",
+      "Respondents":[  
+         {  
+            "Cluster":"Segment 2",
+            "Category":"Highly Experienced Specialist",
+            "ID":34,
+            "Specialty":"Pathology"
+         },
+         {  
+            "Cluster":"Segment 3",
+            "Category":"No current patients",
+            "ID":3,
+            "Specialty":"Pathology"
+         },
+         {  
+            "Cluster":"Segment 2",
+            "Category":"Highly Experienced Specialist",
+            "ID":19,
+            "Specialty":"Family Medicine"
+         }
+      ],
+      "State":"MO",
+      "Years Experience":16.0,
+      "Degree":"Heavily influential",
+      "Interaction_type":[  
+         "Referred a patient"
+      ],
+      "Reason":[  
+         "Guideline Development",
+         "Focused Clinical Practice",
+         "Disease Training"
+      ]
+   },
+   {  
+      "Active":"Active",
+      "KOL_influence":"National",
+      "Respondents":[  
+         {  
+            "Cluster":"Segment 5",
+            "Category":"Has patient(s)",
+            "ID":35,
+            "Specialty":"Oncology"
+         },
+         {  
+            "Cluster":"Segment 4",
+            "Category":"Has patient(s)",
+            "ID":4,
+            "Specialty":"Family Medicine"
+         }
+      ],
+      "State":"NY",
+      "Years Experience":36.0,
+      "Degree":"Somewhat influential",
+      "Interaction_type":[  
+         "Read a publication",
+         "Observed conference presentation"
+      ],
+      "Reason":[  
+         "Published In Journals\/Textbooks",
+         "Clinical Trial Investigator",
+         "Conference Presentations"
+      ]
+   },
+   {  
+      "Active":"Active",
+      "KOL_influence":"National",
+      "Respondents":[  
+         {  
+            "Cluster":"Segment 3",
+            "Category":"No current patients",
+            "ID":1,
+            "Specialty":"Pathology"
+         }
+      ],
+      "State":"IN",
+      "Years Experience":19.0,
+      "Degree":"Somewhat influential",
+      "Interaction_type":[  
+         "Consulted about a patient",
+         "Referred a patient"
+      ],
+      "Reason":[  
+         "Published In Journals\/Textbooks",
+         "Focused Clinical Practice",
+         "Disease Training"
+      ]
+   },
+   {  
+      "Active":"Retired",
+      "KOL_influence":"Local",
+      "Respondents":[  
+         {  
+            "Cluster":"Segment 3",
+            "Category":"No current patients",
+            "ID":22,
+            "Specialty":"Family Medicine"
+         },
+         {  
+            "Cluster":"Segment 1",
+            "Category":"Has patient(s)",
+            "ID":6,
+            "Specialty":"Oncology"
+         }
+      ],
+      "State":"IN",
+      "Years Experience":52.0,
+      "Degree":"Heavily influential",
+      "Interaction_type":[  
+         "Consulted about a patient",
+         "Referred a patient"
+      ],
+      "Reason":[  
+         "No Company Or Product Advocacy",
+         "Clinical Trial Investigator",
+         "Focused Clinical Practice"
+      ]
+   },
+   {  
+      "Active":"Active",
+      "KOL_influence":"Future",
+      "Respondents":[  
+         {  
+            "Cluster":"Segment 3",
+            "Category":"No current patients",
+            "ID":30,
+            "Specialty":"Pathology"
+         }
+      ],
+      "State":"MD",
+      "Years Experience":23.0,
+      "Degree":"Not specified",
+      "Interaction_type":[  
+         "No specified interaction"
+      ],
+      "Reason":[  
+         "Other"
+      ]
+   },
+   {  
+      "Active":"Active",
+      "KOL_influence":"Local",
+      "Respondents":[  
+         {  
+            "Cluster":"Segment 4",
+            "Category":"Has patient(s)",
+            "ID":31,
+            "Specialty":"Family Medicine"
+         },
+         {  
+            "Cluster":"Segment 2",
+            "Category":"Highly Experienced Specialist",
+            "ID":32,
+            "Specialty":"Primary Care"
+         },
+         {  
+            "Cluster":"Segment 2",
+            "Category":"Highly Experienced Specialist",
+            "ID":34,
+            "Specialty":"Pathology"
+         },
+         {  
+            "Cluster":"Segment 3",
+            "Category":"No current patients",
+            "ID":5,
+            "Specialty":"Oncology"
+         }
+      ],
+      "State":"CA",
+      "Years Experience":32.0,
+      "Degree":"Not specified",
+      "Interaction_type":[  
+         "Consulted about a patient",
+         "Observed conference presentation",
+         "Referred a patient"
+      ],
+      "Reason":[  
+         "No Company Or Product Advocacy",
+         "Focused Clinical Practice",
+         "Disease Training"
+      ]
+   },
+   {  
+      "Active":"Active",
+      "KOL_influence":"National",
+      "Respondents":[  
+         {  
+            "Cluster":"Segment 2",
+            "Category":"Highly Experienced Specialist",
+            "ID":34,
+            "Specialty":"Pathology"
+         },
+         {  
+            "Cluster":"Segment 3",
+            "Category":"No current patients",
+            "ID":1,
+            "Specialty":"Pathology"
+         },
+         {  
+            "Cluster":"Segment 4",
+            "Category":"Has patient(s)",
+            "ID":33,
+            "Specialty":"Pathology"
+         }
+      ],
+      "State":"MD",
+      "Years Experience":25.0,
+      "Degree":"Heavily influential",
+      "Interaction_type":[  
+         "Read a publication",
+         "Observed conference presentation",
+         "Referred a patient"
+      ],
+      "Reason":[  
+         "Published In Journals\/Textbooks",
+         "Disease Center Director",
+         "Focused Clinical Practice"
+      ]
+   },
+   {  
+      "Active":"Active",
+      "KOL_influence":"Local",
+      "Respondents":[  
+         {  
+            "Cluster":"Segment 4",
+            "Category":"Has patient(s)",
+            "ID":8,
+            "Specialty":"Family Medicine"
+         },
+         {  
+            "Cluster":"Segment 5",
+            "Category":"Has patient(s)",
+            "ID":35,
+            "Specialty":"Oncology"
+         },
+         {  
+            "Cluster":"Segment 5",
+            "Category":"Has patient(s)",
+            "ID":17,
+            "Specialty":"Family Medicine"
+         },
+         {  
+            "Cluster":"Segment 4",
+            "Category":"Has patient(s)",
+            "ID":31,
+            "Specialty":"Family Medicine"
+         }
+      ],
+      "State":"GA",
+      "Years Experience":31.0,
+      "Degree":"Heavily influential",
+      "Interaction_type":[  
+         "Read a publication",
+         "Consulted about a patient",
+         "Observed conference presentation",
+         "Speaker program interaction"
+      ],
+      "Reason":[  
+         "No Company Or Product Advocacy",
+         "Focused Clinical Practice",
+         "Disease Training"
+      ]
+   },
+   {  
+      "Active":"Retired",
+      "KOL_influence":"National",
+      "Respondents":[  
+         {  
+            "Cluster":"Segment 2",
+            "Category":"Highly Experienced Specialist",
+            "ID":32,
+            "Specialty":"Primary Care"
+         }
+      ],
+      "State":"TX",
+      "Years Experience":44.0,
+      "Degree":"Somewhat influential",
+      "Interaction_type":[  
+         "Other",
+         "Read a publication",
+         "Observed conference presentation"
+      ],
+      "Reason":[  
+         "Conference Presentations",
+         "Published In Journals\/Textbooks",
+         "Guideline Development",
+         "Focused Clinical Practice",
+         "Clinical Trial Investigator"
+      ]
+   },
+   {  
+      "Active":"Retired",
+      "KOL_influence":"None",
+      "Respondents":[  
+         {  
+            "Cluster":"Segment 5",
+            "Category":"Has patient(s)",
+            "ID":17,
+            "Specialty":"Family Medicine"
+         },
+         {  
+            "Cluster":"Segment 5",
+            "Category":"Has patient(s)",
+            "ID":11,
+            "Specialty":"Pathology"
+         },
+         {  
+            "Cluster":"Segment 3",
+            "Category":"No current patients",
+            "ID":3,
+            "Specialty":"Pathology"
+         }
+      ],
+      "State":"PA",
+      "Years Experience":34.0,
+      "Degree":"Not specified",
+      "Interaction_type":[  
+         "No specified interaction"
+      ],
+      "Reason":[  
+         "Other"
+      ]
+   },
+   {  
+      "Active":"Active",
+      "KOL_influence":"Local",
+      "Respondents":[  
+         {  
+            "Cluster":"Segment 4",
+            "Category":"Has patient(s)",
+            "ID":27,
+            "Specialty":"Pathology"
+         },
+         {  
+            "Cluster":"Segment 2",
+            "Category":"Highly Experienced Specialist",
+            "ID":15,
+            "Specialty":"Oncology"
+         }
+      ],
+      "State":"NY",
+      "Years Experience":44.0,
+      "Degree":"Heavily influential",
+      "Interaction_type":[  
+         "Consulted about a patient"
+      ],
+      "Reason":[  
+         "No Company Or Product Advocacy",
+         "Clinical Trial Investigator",
+         "Disease Training"
+      ]
+   },
+   {  
+      "Active":"Active",
+      "KOL_influence":"Local",
+      "Respondents":[  
+         {  
+            "Cluster":"Segment 2",
+            "Category":"Highly Experienced Specialist",
+            "ID":32,
+            "Specialty":"Primary Care"
+         },
+         {  
+            "Cluster":"Segment 3",
+            "Category":"No current patients",
+            "ID":1,
+            "Specialty":"Pathology"
+         }
+      ],
+      "State":"GA",
+      "Years Experience":null,
+      "Degree":"Not seek or utilize guidance",
+      "Interaction_type":[  
+         "Consulted about a patient"
+      ],
+      "Reason":[  
+         "No Company Or Product Advocacy",
+         "Clinical Trial Investigator",
+         "Focused Clinical Practice"
+      ]
+   },
+   {  
+      "Active":"Active",
+      "KOL_influence":"Local",
+      "Respondents":[  
+         {  
+            "Cluster":"Segment 4",
+            "Category":"Has patient(s)",
+            "ID":23,
+            "Specialty":"Primary Care"
+         },
+         {  
+            "Cluster":"Segment 2",
+            "Category":"Highly Experienced Specialist",
+            "ID":19,
+            "Specialty":"Family Medicine"
+         }
+      ],
+      "State":"TX",
+      "Years Experience":6.0,
+      "Degree":"Not specified",
+      "Interaction_type":[  
+         "No specified interaction"
+      ],
+      "Reason":[  
+         "Other"
+      ]
+   },
+   {  
+      "Active":"Retired",
+      "KOL_influence":"Local",
+      "Respondents":[  
+         {  
+            "Cluster":"Segment 3",
+            "Category":"No current patients",
+            "ID":30,
+            "Specialty":"Pathology"
+         },
+         {  
+            "Cluster":"Segment 2",
+            "Category":"Highly Experienced Specialist",
+            "ID":34,
+            "Specialty":"Pathology"
+         },
+         {  
+            "Cluster":"Segment 3",
+            "Category":"No current patients",
+            "ID":25,
+            "Specialty":"Oncology"
+         }
+      ],
+      "State":"NY",
+      "Years Experience":32.0,
+      "Degree":"Heavily influential",
+      "Interaction_type":[  
+         "Observed conference presentation"
+      ],
+      "Reason":[  
+         "Other",
+         "No Company Or Product Advocacy",
+         "Clinical Trial Investigator"
+      ]
+   },
+   {  
+      "Active":"Active",
+      "KOL_influence":"Local",
+      "Respondents":[  
+         {  
+            "Cluster":"Segment 4",
+            "Category":"Has patient(s)",
+            "ID":31,
+            "Specialty":"Family Medicine"
+         }
+      ],
+      "State":"NY",
+      "Years Experience":48.0,
+      "Degree":"Not specified",
+      "Interaction_type":[  
+         "No specified interaction"
+      ],
+      "Reason":[  
+         "Other"
+      ]
+   },
+   {  
+      "Active":"Retired",
+      "KOL_influence":"Local",
+      "Respondents":[  
+         {  
+            "Cluster":"Segment 4",
+            "Category":"Has patient(s)",
+            "ID":27,
+            "Specialty":"Pathology"
+         },
+         {  
+            "Cluster":"Segment 2",
+            "Category":"Highly Experienced Specialist",
+            "ID":19,
+            "Specialty":"Family Medicine"
+         },
+         {  
+            "Cluster":"Segment 4",
+            "Category":"Has patient(s)",
+            "ID":8,
+            "Specialty":"Family Medicine"
+         }
+      ],
+      "State":"NY",
+      "Years Experience":29.0,
+      "Degree":"Heavily influential",
+      "Interaction_type":[  
+         "Read a publication",
+         "Consulted about a patient",
+         "Observed conference presentation",
+         "Referred a patient"
+      ],
+      "Reason":[  
+         "Other",
+         "No Company Or Product Advocacy",
+         "Disease Training"
+      ]
+   },
+   {  
+      "Active":"Retired",
+      "KOL_influence":"Local",
+      "Respondents":[  
+         {  
+            "Cluster":"Segment 2",
+            "Category":"Highly Experienced Specialist",
+            "ID":34,
+            "Specialty":"Pathology"
+         },
+         {  
+            "Cluster":"Segment 5",
+            "Category":"Has patient(s)",
+            "ID":21,
+            "Specialty":"Oncology"
+         },
+         {  
+            "Cluster":"Segment 3",
+            "Category":"No current patients",
+            "ID":3,
+            "Specialty":"Pathology"
+         }
+      ],
+      "State":"CA",
+      "Years Experience":null,
+      "Degree":"Heavily influential",
+      "Interaction_type":[  
+         "Consulted about a patient",
+         "Referred a patient",
+         "Speaker program interaction"
+      ],
+      "Reason":[  
+         "No Company Or Product Advocacy",
+         "Focused Clinical Practice",
+         "Disease Training"
+      ]
+   },
+   {  
+      "Active":"Retired",
+      "KOL_influence":"National",
+      "Respondents":[  
+         {  
+            "Cluster":"Segment 3",
+            "Category":"No current patients",
+            "ID":29,
+            "Specialty":"Primary Care"
+         }
+      ],
+      "State":"MD",
+      "Years Experience":33.0,
+      "Degree":"Heavily influential",
+      "Interaction_type":[  
+         "Read a publication",
+         "Consulted about a patient",
+         "Observed conference presentation",
+         "Referred a patient",
+         "Speaker program interaction"
+      ],
+      "Reason":[  
+         "Published In Journals\/Textbooks",
+         "Clinical Trial Investigator",
+         "Guideline Development",
+         "Conference Presentations",
+         "Disease Training"
+      ]
+   },
+   {  
+      "Active":"Active",
+      "KOL_influence":"Local",
+      "Respondents":[  
+         {  
+            "Cluster":"Segment 1",
+            "Category":"Has patient(s)",
+            "ID":16,
+            "Specialty":"Primary Care"
+         }
+      ],
+      "State":"GA",
+      "Years Experience":11.0,
+      "Degree":"Somewhat influential",
+      "Interaction_type":[  
+         "Read a publication",
+         "Consulted about a patient",
+         "Referred a patient"
+      ],
+      "Reason":[  
+         "Published In Journals\/Textbooks",
+         "Guideline Development",
+         "Focused Clinical Practice",
+         "Disease Training"
+      ]
+   },
+   {  
+      "Active":"Active",
+      "KOL_influence":"National",
+      "Respondents":[  
+         {  
+            "Cluster":"Segment 1",
+            "Category":"Has patient(s)",
+            "ID":6,
+            "Specialty":"Oncology"
+         },
+         {  
+            "Cluster":"Segment 1",
+            "Category":"Has patient(s)",
+            "ID":24,
+            "Specialty":"Primary Care"
+         },
+         {  
+            "Cluster":"Segment 5",
+            "Category":"Has patient(s)",
+            "ID":11,
+            "Specialty":"Pathology"
+         },
+         {  
+            "Cluster":"Segment 1",
+            "Category":"Has patient(s)",
+            "ID":24,
+            "Specialty":"Primary Care"
+         }
+      ],
+      "State":"KS",
+      "Years Experience":35.0,
+      "Degree":"Heavily influential",
+      "Interaction_type":[  
+         "Consulted about a patient"
+      ],
+      "Reason":[  
+         "Published In Journals\/Textbooks",
+         "Industry Sponsored Presentations",
+         "Focused Clinical Practice"
+      ]
+   },
+   {  
+      "Active":"Active",
+      "KOL_influence":"Future",
+      "Respondents":[  
+         {  
+            "Cluster":"Segment 1",
+            "Category":"Has patient(s)",
+            "ID":0,
+            "Specialty":"Primary Care"
+         },
+         {  
+            "Cluster":"Segment 4",
+            "Category":"Has patient(s)",
+            "ID":26,
+            "Specialty":"Pathology"
+         }
+      ],
+      "State":"NY",
+      "Years Experience":10.0,
+      "Degree":"Not specified",
+      "Interaction_type":[  
+         "No specified interaction"
+      ],
+      "Reason":[  
+         "Other"
+      ]
+   },
+   {  
+      "Active":"Retired",
+      "KOL_influence":"Local",
+      "Respondents":[  
+         {  
+            "Cluster":"Segment 4",
+            "Category":"Has patient(s)",
+            "ID":26,
+            "Specialty":"Pathology"
+         },
+         {  
+            "Cluster":"Segment 2",
+            "Category":"Highly Experienced Specialist",
+            "ID":15,
+            "Specialty":"Oncology"
+         },
+         {  
+            "Cluster":"Segment 3",
+            "Category":"No current patients",
+            "ID":5,
+            "Specialty":"Oncology"
+         }
+      ],
+      "State":"NY",
+      "Years Experience":38.0,
+      "Degree":"Heavily influential",
+      "Interaction_type":[  
+         "Referred a patient"
+      ],
+      "Reason":[  
+         "Published In Journals\/Textbooks",
+         "Focused Clinical Practice",
+         "Disease Training"
+      ]
+   },
+   {  
+      "Active":"Retired",
+      "KOL_influence":"Local",
+      "Respondents":[  
+         {  
+            "Cluster":"Segment 5",
+            "Category":"Has patient(s)",
+            "ID":21,
+            "Specialty":"Oncology"
+         }
+      ],
+      "State":"MD",
+      "Years Experience":32.0,
+      "Degree":"Heavily influential",
+      "Interaction_type":[  
+         "Consulted about a patient"
+      ],
+      "Reason":[  
+         "Other",
+         "No Company Or Product Advocacy",
+         "Disease Training"
+      ]
+   },
+   {  
+      "Active":"Active",
+      "KOL_influence":"National",
+      "Respondents":[  
+         {  
+            "Cluster":"Segment 3",
+            "Category":"No current patients",
+            "ID":20,
+            "Specialty":"Primary Care"
+         },
+         {  
+            "Cluster":"Segment 2",
+            "Category":"Highly Experienced Specialist",
+            "ID":15,
+            "Specialty":"Oncology"
+         }
+      ],
+      "State":"TN",
+      "Years Experience":11.0,
+      "Degree":"Somewhat influential",
+      "Interaction_type":[  
+         "Read a publication"
+      ],
+      "Reason":[  
+         "Published In Journals\/Textbooks",
+         "Focused Clinical Practice",
+         "Disease Training"
+      ]
+   },
+   {  
+      "Active":"Active",
+      "KOL_influence":"None",
+      "Respondents":[  
+         {  
+            "Cluster":"Segment 3",
+            "Category":"No current patients",
+            "ID":10,
+            "Specialty":"Pathology"
+         }
+      ],
+      "State":"FL",
+      "Years Experience":20.0,
+      "Degree":"Not specified",
+      "Interaction_type":[  
+         "No specified interaction"
+      ],
+      "Reason":[  
+         "Other"
+      ]
+   },
+   {  
+      "Active":"Active",
+      "KOL_influence":"Local",
+      "Respondents":[  
+         {  
+            "Cluster":"Segment 2",
+            "Category":"Highly Experienced Specialist",
+            "ID":32,
+            "Specialty":"Primary Care"
+         },
+         {  
+            "Cluster":"Segment 1",
+            "Category":"Has patient(s)",
+            "ID":16,
+            "Specialty":"Primary Care"
+         }
+      ],
+      "State":"CA",
+      "Years Experience":13.0,
+      "Degree":"Heavily influential",
+      "Interaction_type":[  
+         "No specified interaction"
+      ],
+      "Reason":[  
+         "No Company Or Product Advocacy",
+         "Published In Journals\/Textbooks",
+         "Focused Clinical Practice"
+      ]
+   },
+   {  
+      "Active":"Retired",
+      "KOL_influence":"Local",
+      "Respondents":[  
+         {  
+            "Cluster":"Segment 2",
+            "Category":"Highly Experienced Specialist",
+            "ID":19,
+            "Specialty":"Family Medicine"
+         },
+         {  
+            "Cluster":"Segment 4",
+            "Category":"Has patient(s)",
+            "ID":27,
+            "Specialty":"Pathology"
+         },
+         {  
+            "Cluster":"Segment 3",
+            "Category":"No current patients",
+            "ID":5,
+            "Specialty":"Oncology"
+         }
+      ],
+      "State":"VA",
+      "Years Experience":31.0,
+      "Degree":"Not specified",
+      "Interaction_type":[  
+         "No specified interaction"
+      ],
+      "Reason":[  
+         "Other"
+      ]
+   },
+   {  
+      "Active":"Active",
+      "KOL_influence":"Local",
+      "Respondents":[  
+         {  
+            "Cluster":"Segment 1",
+            "Category":"Has patient(s)",
+            "ID":24,
+            "Specialty":"Primary Care"
+         },
+         {  
+            "Cluster":"Segment 2",
+            "Category":"Highly Experienced Specialist",
+            "ID":15,
+            "Specialty":"Oncology"
+         },
+         {  
+            "Cluster":"Segment 3",
+            "Category":"No current patients",
+            "ID":20,
+            "Specialty":"Primary Care"
+         },
+         {  
+            "Cluster":"Segment 3",
+            "Category":"No current patients",
+            "ID":1,
+            "Specialty":"Pathology"
+         }
+      ],
+      "State":"AR",
+      "Years Experience":30.0,
+      "Degree":"Heavily influential",
+      "Interaction_type":[  
+         "Industry event interaction",
+         "Referred a patient"
+      ],
+      "Reason":[  
+         "No Company Or Product Advocacy",
+         "Clinical Trial Investigator",
+         "Disease Training"
+      ]
+   },
+   {  
+      "Active":"Active",
+      "KOL_influence":"None",
+      "Respondents":[  
+         {  
+            "Cluster":"Segment 5",
+            "Category":"Has patient(s)",
+            "ID":21,
+            "Specialty":"Oncology"
+         },
+         {  
+            "Cluster":"Segment 4",
+            "Category":"Has patient(s)",
+            "ID":23,
+            "Specialty":"Primary Care"
+         }
+      ],
+      "State":"NC",
+      "Years Experience":null,
+      "Degree":"Not specified",
+      "Interaction_type":[  
+         "No specified interaction"
+      ],
+      "Reason":[  
+         "Other"
+      ]
+   },
+   {  
+      "Active":"Active",
+      "KOL_influence":"National",
+      "Respondents":[  
+         {  
+            "Cluster":"Segment 2",
+            "Category":"Highly Experienced Specialist",
+            "ID":15,
+            "Specialty":"Oncology"
+         },
+         {  
+            "Cluster":"Segment 3",
+            "Category":"No current patients",
+            "ID":22,
+            "Specialty":"Family Medicine"
+         },
+         {  
+            "Cluster":"Segment 2",
+            "Category":"Highly Experienced Specialist",
+            "ID":19,
+            "Specialty":"Family Medicine"
+         },
+         {  
+            "Cluster":"Segment 4",
+            "Category":"Has patient(s)",
+            "ID":8,
+            "Specialty":"Family Medicine"
+         }
+      ],
+      "State":"PA",
+      "Years Experience":24.0,
+      "Degree":"Heavily influential",
+      "Interaction_type":[  
+         "Consulted about a patient"
+      ],
+      "Reason":[  
+         "Published In Journals\/Textbooks",
+         "Focused Clinical Practice",
+         "Clinical Trial Investigator"
+      ]
+   },
+   {  
+      "Active":"Retired",
+      "KOL_influence":"Local",
+      "Respondents":[  
+         {  
+            "Cluster":"Segment 2",
+            "Category":"Highly Experienced Specialist",
+            "ID":9,
+            "Specialty":"Family Medicine"
+         },
+         {  
+            "Cluster":"Segment 5",
+            "Category":"Has patient(s)",
+            "ID":35,
+            "Specialty":"Oncology"
+         }
+      ],
+      "State":"NC",
+      "Years Experience":6.0,
+      "Degree":"Heavily influential",
+      "Interaction_type":[  
+         "Consulted about a patient",
+         "Referred a patient"
+      ],
+      "Reason":[  
+         "No Company Or Product Advocacy",
+         "Focused Clinical Practice",
+         "Disease Training"
+      ]
+   },
+   {  
+      "Active":"Active",
+      "KOL_influence":"National",
+      "Respondents":[  
+         {  
+            "Cluster":"Segment 3",
+            "Category":"No current patients",
+            "ID":10,
+            "Specialty":"Pathology"
+         },
+         {  
+            "Cluster":"Segment 3",
+            "Category":"No current patients",
+            "ID":25,
+            "Specialty":"Oncology"
+         },
+         {  
+            "Cluster":"Segment 4",
+            "Category":"Has patient(s)",
+            "ID":31,
+            "Specialty":"Family Medicine"
+         },
+         {  
+            "Cluster":"Segment 1",
+            "Category":"Has patient(s)",
+            "ID":24,
+            "Specialty":"Primary Care"
+         }
+      ],
+      "State":"KS",
+      "Years Experience":null,
+      "Degree":"Not specified",
+      "Interaction_type":[  
+         "No specified interaction"
+      ],
+      "Reason":[  
+         "Other"
+      ]
+   },
+   {  
+      "Active":"Active",
+      "KOL_influence":"Local",
+      "Respondents":[  
+         {  
+            "Cluster":"Segment 2",
+            "Category":"Highly Experienced Specialist",
+            "ID":34,
+            "Specialty":"Pathology"
+         },
+         {  
+            "Cluster":"Segment 1",
+            "Category":"Has patient(s)",
+            "ID":24,
+            "Specialty":"Primary Care"
+         }
+      ],
+      "State":"MI",
+      "Years Experience":39.0,
+      "Degree":"Heavily influential",
+      "Interaction_type":[  
+         "No specified interaction"
+      ],
+      "Reason":[  
+         "Other",
+         "Disease Center Director",
+         "Focused Clinical Practice"
+      ]
+   },
+   {  
+      "Active":"Retired",
+      "KOL_influence":"National",
+      "Respondents":[  
+         {  
+            "Cluster":"Segment 4",
+            "Category":"Has patient(s)",
+            "ID":26,
+            "Specialty":"Pathology"
+         },
+         {  
+            "Cluster":"Segment 1",
+            "Category":"Has patient(s)",
+            "ID":0,
+            "Specialty":"Primary Care"
+         },
+         {  
+            "Cluster":"Segment 3",
+            "Category":"No current patients",
+            "ID":10,
+            "Specialty":"Pathology"
+         },
+         {  
+            "Cluster":"Segment 4",
+            "Category":"Has patient(s)",
+            "ID":31,
+            "Specialty":"Family Medicine"
+         }
+      ],
+      "State":"MI",
+      "Years Experience":39.0,
+      "Degree":"Somewhat influential",
+      "Interaction_type":[  
+         "Other",
+         "Consulted about a patient",
+         "Observed conference presentation",
+         "Referred a patient"
+      ],
+      "Reason":[  
+         "Published In Journals\/Textbooks",
+         "Guideline Development",
+         "Focused Clinical Practice",
+         "Disease Center Director"
+      ]
+   },
+   {  
+      "Active":"Active",
+      "KOL_influence":"National",
+      "Respondents":[  
+         {  
+            "Cluster":"Segment 1",
+            "Category":"Has patient(s)",
+            "ID":6,
+            "Specialty":"Oncology"
+         },
+         {  
+            "Cluster":"Segment 4",
+            "Category":"Has patient(s)",
+            "ID":4,
+            "Specialty":"Family Medicine"
+         },
+         {  
+            "Cluster":"Segment 4",
+            "Category":"Has patient(s)",
+            "ID":23,
+            "Specialty":"Primary Care"
+         }
+      ],
+      "State":"WA",
+      "Years Experience":29.0,
+      "Degree":"Somewhat influential",
+      "Interaction_type":[  
+         "No specified interaction"
+      ],
+      "Reason":[  
+         "Clinical Trial Investigator",
+         "Industry Sponsored Presentations",
+         "Disease Training"
+      ]
+   }
+]
