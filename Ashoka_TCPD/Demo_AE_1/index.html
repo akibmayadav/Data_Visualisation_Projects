@@ -1,0 +1,524 @@
+<!DOCTYPE HTML>
+
+<!-- 
+********** 
+Optimisations to do later on :
+1. Sorting constituencies and making their width dependent on the number of votes in that constituency . 
+
+**********
+-->
+
+<html>
+	<head>
+
+	</head>
+
+	<style>
+
+	.mainsvg
+	{
+		background: #404040;
+	}
+
+	#main_heading_line
+	{
+		fill : white !important;
+		opacity: 1.0 !important;
+		font-family: sans-serif;
+		font-size: 30px;
+		text-anchor: middle;
+	}
+
+	#leading_heading_line
+	{
+		fill : white !important;
+		opacity: 1.0 !important;
+		font-family: sans-serif;
+		font-size: 20px;
+		text-anchor: middle;
+	}
+
+	#current_state
+	{
+		fill : white !important;
+		opacity: 1.0 !important;
+		font-family: sans-serif;
+		font-size: 15px;
+		text-anchor: middle;
+	}
+
+	.current_data_text
+	{
+		fill : white !important;
+		opacity: 0.8 !important;
+		font-family: sans-serif;
+		font-size: 10px;
+	}
+
+	.ac_rect
+	{
+		stroke : white;
+		stroke-width : 0.4px;
+	}
+
+	.break-lines
+	{
+		fill :white ;
+		opacity : 0.6;
+		stroke : white;
+		stroke-width : 0.4px;
+	}
+	.label_rect
+	{
+		fill: black;
+		opacity: 0.4;
+		stroke: white;
+		stroke-width :0.4px;
+
+	}
+	.constituency_label
+	{
+		fill : white !important;
+		opacity: 1.0 !important;
+		font-family: sans-serif;
+		font-size: 8px;
+		text-anchor: middle;
+	}
+	.candidate_lines
+	{
+		border-radius: 25px;
+	}
+
+	.candidate_lines:hover
+	{
+		stroke :black;
+		stroke-width : 0.8px;
+	}
+
+	.ui_background
+	{
+		fill : black;
+		opacity : 0.4;
+		stroke : white;
+		stroke-width : 0.4px;
+	}
+
+	</style>
+	<script src="https://d3js.org/d3.v4.min.js"></script>
+	<script src="https://d3js.org/d3-color.v0.5.min.js"></script>
+	<script src="https://d3js.org/d3-hsv.v0.0.min.js"></script>
+	<script src="https://code.jquery.com/jquery-1.10.2.js"></script>
+	<body>
+	<script>
+
+	/*** INTIAL SETUP OF CANVAS ***/
+	var margin = {top: 130, right:30,bottom:50,left:300};
+
+	var width = innerWidth - margin.left -margin.right;
+	var height = innerHeight - margin.top - margin.bottom;
+
+	var visualization_canvas_main = d3.select("body").append("svg")
+     .attr("id","main")
+     .attr("width", width + margin.left + margin.right)
+     .attr("height", height + margin.top + margin.bottom+1000)
+     .attr("class", "mainsvg");
+  	
+
+  	// UI THINGS 
+
+
+  	var ui_parts = visualization_canvas_main.append("g")
+  							.attr("id","ui_parts");
+
+  	var heading = ui_parts.append("g")
+  							.attr("class","heading");
+
+  	var main_heading_line = heading.append("text")
+  							.attr("id","main_heading_line")
+  							.attr("x",innerWidth/2)
+  							.attr("y",50)
+  							.text("ASSEMBLY ELECTION DATA VISUALIZATION");
+  	var leading_heading_line = heading.append("text")
+  								.attr("id","leading_heading_line")
+  								.attr("x",innerWidth/2)
+  								.attr("y",80)
+  								.text("Trivedi Center of Political Data")
+
+  	var mid_line = heading.append("rect")
+  							.attr("class","break-lines")
+  							.attr("x",0)
+  							.attr("y",100)
+  							.attr("width",innerWidth)
+  							.attr("height",1);
+  							
+  	var current_selected_data =	ui_parts.append("g")
+  								.attr("id","current_whole");
+  	
+
+  	var current_state_container = current_selected_data.append("rect")
+  							.attr("id","current_selected_data")
+  							.attr("x",20)
+  							.attr("y",margin.top)
+  							.attr("width",margin.left-60)
+  							.attr("height",150)
+  							.attr("class","ui_background");
+
+  	var current_state_data =  current_selected_data.append("text")
+			.attr("x",(margin.left-60)/2 + 20)
+			.attr("y", margin.top+20)
+			.attr("id","current_state")
+			.text("ANDHRA PRADESH");
+
+
+  	var color_constituency_rect = ["#d8d8d8","#6d6d6d","#303030"]
+
+
+  	
+
+	/** Parsing through the csv file **/
+	d3.csv("Data/Andhra_Pradesh.csv",function(data)
+	{
+	// Removing Data points with percentage votes less than 1%
+	data = data.filter(function(row){
+		return row['vote_percent']>1;
+	})	
+
+	
+	var distinct_years = d3.nest()
+	.key(function(d){return d.year;}).sortKeys(d3.ascending)
+	.entries(data);
+
+	// if you want to choose only certain years
+	// distinct_years= distinct_years.slice(2,3);
+
+	var distinct_parties = d3.nest()
+		.key(function(d) {return d.party1;}).sortKeys(d3.ascending)
+		.entries(data);
+
+	distinct_parties.sort(function(x,y){return d3.descending(x.values.length,y.values.length)});
+
+	// Color Assignment for Different Parties 
+	// Divide in groups 10 and rotate around HSV. 
+	// Ideally must be derived from the parties color . Random for now . 
+	var color_party =[]; 
+	var breaker = 10;
+	var Q = distinct_parties.length/breaker;
+	var R = distinct_parties.length%breaker; 
+	if( R != 0) {Q=Q+1}
+
+	var N_1 = 360/Q;
+	for (var i =0 ;i<Q ;i++){
+		for( var j = 0 ; j <breaker ;j++)
+		{
+			color_party[i*10+j]=(N_1*i/10)+(N_1*j);
+		}
+	}
+
+	var nested_data = d3.nest()
+						.key(function(d) {return d.ac_name;}).sortKeys(d3.ascending)
+						.key(function(d) {return d.year;}).sortKeys(d3.ascending)
+						.entries(data);
+
+	nested_data.sort(function(x,y){
+		var a =0, b=0;
+		for ( var m = 0 ; m < x.values.length; m++)
+		{
+			a = a+x.values[m].values.length;
+		}
+		for ( var m = 0 ; m < y.values.length; m++)
+		{
+			b = b+y.values[m].values.length;
+		}
+
+		return d3.descending(a,b);
+	})
+
+	// var prominent_constituencies = distinct_ac_name.slice(0,ac_start_num);
+	var ac_start_num = 10; // Intialized Number of Constituencies
+	var starting_const = 10;
+	var prominent_constituencies = nested_data.slice(starting_const,starting_const+ac_start_num);
+	var max_number_of_candidates = 0;
+	for ( var p_1 = 0 ; p_1< prominent_constituencies.length ;p_1++)
+	{
+		for (var p_2 = 0 ; p_2<prominent_constituencies[p_1].values.length ;p_2++)
+		{
+			if (max_number_of_candidates < prominent_constituencies[p_1].values[p_2].values.length)
+			{
+				max_number_of_candidates = prominent_constituencies[p_1].values[p_2].values.length;
+			}
+		}
+	}
+	
+	var rect_width = width/(ac_start_num);
+	var rect_height = height/distinct_years.length;
+
+	visualization_canvas_main.append("rect")
+		.attr("id","viz_background")
+		.attr("x",margin.left)
+		.attr("y",margin.top)
+		.attr("height",height)
+		.attr("width",width)
+		.attr("fill","#d8d8d8");
+
+	/*** Add a column for every constituency ***/
+	var constituencies = visualization_canvas_main.append("g").attr("id","ac_rectangles");
+
+	var cont_group =constituencies.selectAll("rect")
+		.data(prominent_constituencies)
+		.enter()
+		.append("g")
+
+	cont_group.attr("id",function(d){return d.key})
+		.attr('transform',function(d,i){
+				var x = (i)*rect_width+margin.left;
+				var y = innerHeight-margin.bottom;
+				return 'translate(' + x + ',' + y +')' ;})
+		.each(draw_rectangles);
+		
+	cont_group.append("rect")
+		.attr("class","label_rect")
+		.attr("x",0)
+		.attr("y",0)
+		.attr("height",20)
+		.attr("width",rect_width);
+
+	cont_group.append("text")
+		.attr("class","constituency_label")
+		.text(function(d){return(d.key);})
+		.attr("x",rect_width/2)
+		.attr("y",15);
+
+	cont_group.append("g")
+			 .attr("id",function(d,i)
+			 {
+			 	var which_const = d.key+"_candidate_lines";
+			 	return which_const;
+			 })
+			 .each(draw_candidates);
+		
+	
+
+	function draw_rectangles(d)
+	{
+		// Making a rectangle for each constituency . Basically going over all the years.
+		var constitutency = d3.select(this).selectAll("rect")
+		.data(d.values)
+		.enter()
+		.append("rect");
+
+
+		var constitutency_rect = constitutency
+		.attr("id",function(data){return(data.key);})
+		.attr("x",0)
+		.attr("y",function(data,i){
+			var index=0;
+			for (var m = 0 ; m< distinct_years.length ;m++)
+			{
+				if(data.key == distinct_years[m].key)
+					{
+						index = m ;
+						break;
+					}
+			}
+			return (rect_height*(index+1)*(-1)); })
+		.attr("height",rect_height)
+		.attr("width",rect_width)
+		.attr("class","ac_rect")
+		.attr("fill",function(data){
+			var category = data.values[0].ac_type ;
+			var filler;
+			switch(category)
+			{
+				case ("GEN"):
+				{
+				 filler = color_constituency_rect[0];
+				 break;
+				}
+				case ("SC"):
+				{
+				 filler = color_constituency_rect[1];
+				 break;
+				}
+				case ("ST"):
+				{
+				 filler = color_constituency_rect[2];
+				 break;
+				}
+			} 
+			return filler;
+
+		})
+
+		}
+
+		function draw_candidates(d)
+		{
+			// Making a rectangle for every candidate
+			var margin_inside_rect = {top :2 ,bottom:1,left:15,right:5};
+			var cand_rect_height = (rect_height - margin_inside_rect.top -margin_inside_rect.bottom)/max_number_of_candidates;
+			var candidate_lines = d3.select(this).selectAll("rect")
+									.data(d.values)
+									.enter()
+									.append("g")
+									.attr("id",function(data_2,i){return(data_2.key);})
+									.each(sorter);
+
+			function sorter(data_2)
+			{
+				data_2.values.sort(function(x,y){
+					return (x.vote_percent-y.vote_percent)});
+				data_2.values.reverse();
+			}
+
+
+			candidate_lines.selectAll("rect")
+						   .data(function(data,i){
+						   	return data.values;})
+						   .enter()
+						   .append("rect")
+						   .attr("x",function(data_1,i){
+						   		var x_value = cand_x_pos(data_1,i);
+						   		return(x_value);
+							})
+							.attr("y",(function(data_1,i){
+								var y_value = cand_y_pos(data_1,i);
+								return(y_value);
+							}))
+							.attr("height",cand_rect_height)
+							.attr("width",function(data_1,i){
+								return(rect_width*data_1.vote_percent/100)})
+							.attr("class","candidate_lines")
+							.attr("rx",2)
+							.attr("ry",2)
+							.attr("fill",function(d,i){
+								var party_index ; 
+								var comparor = "INC";
+								for ( var a = 0 ; a<distinct_parties.length ;a++)
+								{
+									if (distinct_parties[a].key ==d.party1)
+									{
+										party_index=a;
+										break;
+									}
+								}
+								// For filtering party data
+								// var fill_col = d3.hsv(10,10,0);
+								// if( d.party1 == comparor)
+								// {
+								// 	fill_col = d3.hsv(10,1,1);
+								// }
+
+								var h = color_party[party_index];
+								var s = 1.0;
+								var l = 1.0;
+								var opacity = 0.7;
+								var fill_col = d3.hsv(h,s,l,opacity);
+								return(fill_col);
+							})
+							.on("mouseover",function(data_1,i)
+							{
+							mouse_add_text(data_1,i);
+							d3.event.stopPropagation();	
+							})
+							.on("mouseout",function(data_1,i)
+							{
+							mouse_remove_text(data_1,i);
+							d3.event.stopPropagation();
+							}); // Put whatever you want to be written here .
+		
+	function cand_x_pos(data_1,i)
+	{
+		var factor = data_1.vote_percent;
+		var output = (rect_width/2)-(rect_width*factor/200);
+		return(output);
+	}
+
+	function cand_y_pos(data_1,i)
+	{
+		var index = 0 ; 
+		for (var c = 0 ; c <distinct_years.length ;c++)
+		{
+			if(data_1.year == distinct_years[c].key)
+			{
+				index = c; 
+				break;
+			}
+				else
+			{
+				index = 30;
+			}
+		}
+		var final_y = -margin_inside_rect.top+((index+1)*rect_height)-(cand_rect_height*i);
+		return(-1*final_y);
+	}
+
+	function mouse_add_text(data_1,i)
+	{
+		var x = 20 ; 
+		var y = margin.top;
+		current_selected_data.append("text")
+						.attr("class","current_data_text")
+						.attr("id","current_data_text_cand_name")
+						.attr("x",x+10)
+						.attr("y",y+50)
+						.text(function(){
+							var string = "Candidate Name : "+ data_1.cand1;
+							return string;
+						});
+
+		current_selected_data.append("text")
+						.attr("class","current_data_text")
+						.attr("id","current_data_text_party_name")
+						.attr("x",x+10)
+						.attr("y",y+70)
+						.text(function(){
+							var string = "Party Name : "+ data_1.party1;
+							return string;
+						});
+
+		current_selected_data.append("text")
+						.attr("class","current_data_text")
+						.attr("id","current_data_text_position")
+						.attr("x",x+10)
+						.attr("y",y+90)
+						.text(function(){
+							var string = "Position : "+ data_1.position;
+							return string;
+						});
+		current_selected_data.append("text")
+						.attr("class","current_data_text")
+						.attr("id","current_data_text_votes")
+						.attr("x",x+10)
+						.attr("y",y+110)
+						.text(function(){
+							var string = "Votes_Number : "+ data_1.votes1;
+							return string;
+						});
+
+						
+	}
+	function mouse_remove_text(data_1,i)
+	{
+		current_selected_data.selectAll("text[id=current_data_text_cand_name]").remove(); 
+		current_selected_data.selectAll("text[id=current_data_text_party_name]").remove(); 
+		current_selected_data.selectAll("text[id=current_data_text_position]").remove(); 
+		current_selected_data.selectAll("text[id=current_data_text_votes]").remove(); 
+	}
+	}	
+	});
+ 	
+ 	// // JQUERY FUNCTIONS 
+ 	// $(document).ready(function()
+ 	// {
+ 	// $("svg").find(".candidate_lines").click
+ 	//  ( 
+ 	//  	function()
+ 	//  	{
+ 	//  	console.log("it is there");
+ 	//     }
+ 	// )});
+
+
+	</script>
+	</body>
+</html>
