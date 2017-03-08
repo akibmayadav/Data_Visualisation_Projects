@@ -1,0 +1,13 @@
+"State_Name","Year","month","sa_no","DelimID","AC_No","Position","Cand1","Sex1","Party1","Votes1","Age","Caste","Valid_Votes","Electors","AC_Name","AC_Type","District_Name","Sub_Region","N_Cand","Turnout","Vote_Sh","Deposit_Lost","Margin","Margin_Percent","Jati","Caste_Rec","Rel","New.Caste","Old_Jati"
+"Assam",1967,2,4,2,2,1,"A . THANGLURA","M","INC",0,NA,NA,0,54871,"AIJAL EAST","ST",NA,NA,1,0,NA,"no",0,NA,"5 OTHERS","ST","",NA,NA
+"Assam",1967,2,4,2,3,1,"A . THANGLURA","M","INC",0,NA,NA,0,47081,"AIJAL WEST","ST",NA,NA,1,0,NA,"no",0,NA,"5 OTHERS","ST","",NA,NA
+"Assam",1967,2,4,2,24,1,"B . B . LYNGDOH","M","AHL",0,NA,NA,0,46293,"NONGPOH","SC",NA,NA,1,0,NA,"no",0,NA,"4 OTHERS","SC","",NA,NA
+"Assam",1967,2,4,2,26,1,"S . D . D . N . ROY","M","AHL",0,NA,NA,0,51155,"CHERRAPUNJI","ST",NA,NA,1,0,NA,"no",0,NA,"5 OTHERS","ST","",NA,NA
+"Assam",1967,2,4,2,61,1,"B . R . MEDHI","M","INC",0,NA,NA,0,53341,"HAJO","GEN",NA,NA,1,0,NA,"no",0,NA,"6 MUSLIM","MUSLIM","M",NA,NA
+"Assam",1972,2,5,2,15,1,"JAGANNATH SINHA","M","INC",0,NA,NA,0,57762,"UDHARBOND","GEN",NA,NA,1,0,NA,"no",0,NA,"","","",NA,NA
+"Assam",1972,2,5,2,18,1,"J. B. HAGJER","M","INC",0,NA,NA,0,33426,"HAFLONG","ST",NA,NA,1,0,NA,"no",0,NA,"5 BHIL","ST","",NA,NA
+"Assam",1983,2,7,3,42,1,"RABI RAM DAS","M","INC",0,NA,NA,0,77778,"PATACHARKUCHI","GEN",NA,NA,1,0,NA,"no",0,NA,"","","",NA,NA
+"Assam",1983,2,7,3,48,1,"UPENDRA DAS","M","INC",0,NA,NA,0,72729,"BOKO","SC",NA,NA,1,0,NA,"no",0,NA,"4 JATAV","SC","H",NA,NA
+"Assam",1983,2,7,3,50,1,"MOHAN BASUMATARI","M","INC",0,NA,NA,0,73291,"PALASBARI","GEN",NA,NA,1,0,NA,"no",0,NA,"5 MINA","ST","H",NA,NA
+"Assam",1983,2,7,3,67,1,"KARTIK SARKAR","M","INC",0,NA,NA,0,74362,"MANGALDOI","SC",NA,NA,1,0,NA,"no",0,NA,"4 OTHERS","SC","H",NA,NA
+"Assam",1991,2,9,3,29,1,"PARAMESWAR BRAHMA","M","IND",0,NA,NA,0,99805,"KOKRAJHAR WEST","ST",NA,NA,1,0,NA,"no",0,NA,"5 MINA","ST","H",NA,NA

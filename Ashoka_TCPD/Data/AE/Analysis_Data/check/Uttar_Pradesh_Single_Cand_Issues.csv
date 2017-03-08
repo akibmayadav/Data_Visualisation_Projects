@@ -1,0 +1,4 @@
+"State_Name","Year","month","sa_no","DelimID","AC_No","Position","Cand1","Sex1","Party1","Votes1","Age","Caste","Valid_Votes","Electors","AC_Name","AC_Type","District_Name","Sub_Region","N_Cand","Turnout","Vote_Sh","Deposit_Lost","Margin","Margin_Percent","Jati","Caste_Rec","Rel","New.Caste","Old_Jati"
+"Uttar_Pradesh",1985,2,9,3,425,1,"GULAB SINGH","M","INC",0,NA,NA,0,126847,"CHAKRATA","ST",NA,NA,1,0,NA,"no",0,NA,"5 OTHERS","ST","H",NA,NA
+"Uttar_Pradesh",1993,2,12,3,233,1,"RAJ BAHADUR","M","BSP",NA,NA,NA,NA,NA,"GHAZIPUR","GEN",NA,NA,1,NA,NA,"no",0,NA,"1 RAJPUT","UC","H",NA,NA
+"Uttar_Pradesh",1993,2,12,3,394,1,"ATUL KUMAR","M","BHP",NA,NA,NA,NA,NA,"HASTINAPUR","SC",NA,NA,1,NA,NA,"no",0,NA,"4 KHATIK","SC","H",NA,NA

@@ -1,0 +1,3397 @@
+"State_name","Year","AC_no","AC_name","AC_type","Electors"
+"Maharashtra",1962,1,"COLABA","GEN",69617
+"Maharashtra",1962,2,"MANDVI","GEN",73764
+"Maharashtra",1962,3,"DONGRI","GEN",63408
+"Maharashtra",1962,4,"KUMBHARWADA","GEN",84070
+"Maharashtra",1962,5,"DHOBITALAO","GEN",54857
+"Maharashtra",1962,6,"GIRGAUM","GEN",77750
+"Maharashtra",1962,7,"WALKESHWAR","GEN",86275
+"Maharashtra",1962,8,"MAHALAXMI","GEN",74080
+"Maharashtra",1962,9,"BYCULLA","GEN",93494
+"Maharashtra",1962,10,"LOVEGROVE","SC",94737
+"Maharashtra",1962,11,"NAGPADA","GEN",77302
+"Maharashtra",1962,12,"MAZGAON","GEN",70114
+"Maharashtra",1962,13,"SEWREE","GEN",103345
+"Maharashtra",1962,14,"PAREL","GEN",71943
+"Maharashtra",1962,15,"MATUNGA","GEN",69953
+"Maharashtra",1962,16,"NAIGAUM","SC",96171
+"Maharashtra",1962,17,"WORLI","GEN",90906
+"Maharashtra",1962,18,"DADAR","GEN",81426
+"Maharashtra",1962,19,"MAHIM","GEN",81679
+"Maharashtra",1962,20,"PARLE ANDHERI","GEN",119190
+"Maharashtra",1962,21,"BANDRA","GEN",112330
+"Maharashtra",1962,22,"KURLA","GEN",126537
+"Maharashtra",1962,23,"CHEMBUR","GEN",168390
+"Maharashtra",1962,24,"BORIVALI","GEN",155890
+"Maharashtra",1962,25,"THANA","GEN",81924
+"Maharashtra",1962,26,"BASSEIN","GEN",81664
+"Maharashtra",1962,27,"PALGHAR","GEN",76232
+"Maharashtra",1962,28,"DAHANU","GEN",50801
+"Maharashtra",1962,29,"KASA","ST",54504
+"Maharashtra",1962,30,"JAWHAR","ST",73347
+"Maharashtra",1962,31,"BHIWANDI","GEN",91148
+"Maharashtra",1962,32,"MOKHADA","ST",70337
+"Maharashtra",1962,33,"MURBAD","GEN",65494
+"Maharashtra",1962,34,"KALYAN","GEN",70134
+"Maharashtra",1962,35,"ULHASNAGAR","GEN",69879
+"Maharashtra",1962,36,"PANVEL","GEN",72957
+"Maharashtra",1962,37,"PEN","GEN",73039
+"Maharashtra",1962,38,"KHALAPUR","ST",68984
+"Maharashtra",1962,39,"ALIBAG","GEN",56068
+"Maharashtra",1962,40,"ROHA","GEN",60831
+"Maharashtra",1962,41,"SHRIWARDHAN","GEN",47986
+"Maharashtra",1962,42,"MANGAON","SC",61380
+"Maharashtra",1962,43,"MAHAD","GEN",58162
+"Maharashtra",1962,44,"SHUKRAWAR PETH","GEN",83449
+"Maharashtra",1962,45,"KASBA PETH","GEN",70855
+"Maharashtra",1962,46,"SHIVAJINAGAR","GEN",72040
+"Maharashtra",1962,47,"POONA CANTONMENT","GEN",64323
+"Maharashtra",1962,48,"HAVELI","GEN",84691
+"Maharashtra",1962,49,"KIRKEE","SC",59453
+"Maharashtra",1962,50,"INDAPUR","GEN",70263
+"Maharashtra",1962,51,"BARAMATI","GEN",66316
+"Maharashtra",1962,52,"DHOND","SC",65935
+"Maharashtra",1962,53,"SIRUR","GEN",59409
+"Maharashtra",1962,54,"JUNNAR","GEN",69964
+"Maharashtra",1962,55,"AMBEGAON","GEN",62193
+"Maharashtra",1962,56,"KHED","GEN",75314
+"Maharashtra",1962,57,"MAVAL","GEN",76771
+"Maharashtra",1962,58,"BHOR","GEN",75565
+"Maharashtra",1962,59,"PURANDHAR","GEN",61662
+"Maharashtra",1962,60,"RATNAGIRI KHED","GEN",67449
+"Maharashtra",1962,61,"DAPOLI","GEN",60675
+"Maharashtra",1962,62,"GUHAGAR","GEN",55454
+"Maharashtra",1962,63,"CHIPLUN","GEN",61690
+"Maharashtra",1962,64,"MAKHAJAN","SC",59698
+"Maharashtra",1962,65,"SANGAMESHWAR","GEN",66582
+"Maharashtra",1962,66,"RATNAGIRI","GEN",66461
+"Maharashtra",1962,67,"LANJA","GEN",54876
+"Maharashtra",1962,68,"RAJAPUR","GEN",52007
+"Maharashtra",1962,69,"MALWAN","GEN",60653
+"Maharashtra",1962,70,"DEOGAD","GEN",62265
+"Maharashtra",1962,71,"KANKAOLI","GEN",66240
+"Maharashtra",1962,72,"VENGURLA","GEN",62847
+"Maharashtra",1962,73,"SAWANTWADI","GEN",67597
+"Maharashtra",1962,74,"CHANDGAD","GEN",66505
+"Maharashtra",1962,75,"GADHINGLAJ","GEN",65173
+"Maharashtra",1962,76,"KAGAL","GEN",64440
+"Maharashtra",1962,77,"BHUDARGAD","GEN",63578
+"Maharashtra",1962,78,"RADHANAGARI","GEN",60661
+"Maharashtra",1962,79,"PANHALA","GEN",61136
+"Maharashtra",1962,80,"SHAHUWADI","GEN",69402
+"Maharashtra",1962,81,"KOLHAPUR","GEN",68213
+"Maharashtra",1962,82,"KARVIR","GEN",74163
+"Maharashtra",1962,83,"HATKANANGLE","SC",76368
+"Maharashtra",1962,84,"SHIROL","GEN",72007
+"Maharashtra",1962,85,"JATH","GEN",84822
+"Maharashtra",1962,86,"MIRAJ","GEN",77215
+"Maharashtra",1962,87,"SANGLI","GEN",83746
+"Maharashtra",1962,88,"TASGAON","GEN",69538
+"Maharashtra",1962,89,"KHANAPUR","GEN",73588
+"Maharashtra",1962,90,"VITA","SC",69022
+"Maharashtra",1962,91,"WALWA","GEN",74662
+"Maharashtra",1962,92,"SHIRALA","GEN",75191
+"Maharashtra",1962,93,"KARAD NORTH","GEN",71321
+"Maharashtra",1962,94,"KARAD SOUTH","GEN",62451
+"Maharashtra",1962,95,"PATAN","GEN",71168
+"Maharashtra",1962,96,"JAOLI","GEN",55404
+"Maharashtra",1962,97,"WAI","GEN",72162
+"Maharashtra",1962,98,"SATARA","GEN",70878
+"Maharashtra",1962,99,"KOREGAON","GEN",67190
+"Maharashtra",1962,100,"KHATAV","GEN",74610
+"Maharashtra",1962,101,"PHALTAN","GEN",71122
+"Maharashtra",1962,102,"MAN","SC",68485
+"Maharashtra",1962,103,"AKALKOT","GEN",64967
+"Maharashtra",1962,104,"SOUTH SHOLAPUR","GEN",64211
+"Maharashtra",1962,105,"NORTH SHOLAPUR","GEN",64156
+"Maharashtra",1962,106,"BARSI","GEN",73889
+"Maharashtra",1962,107,"SHOLAPUR CITY NORTH","GEN",89540
+"Maharashtra",1962,108,"SHOLAPUR CITY SOUTH","GEN",69955
+"Maharashtra",1962,109,"PANDHARPUR","GEN",77867
+"Maharashtra",1962,110,"MALSIRAS","GEN",78196
+"Maharashtra",1962,111,"SANGOLA","GEN",76040
+"Maharashtra",1962,112,"MANGALWEDHA","SC",65374
+"Maharashtra",1962,113,"KARMALA","GEN",75855
+"Maharashtra",1962,114,"MADHA","SC",72715
+"Maharashtra",1962,115,"KARJAT","GEN",70615
+"Maharashtra",1962,116,"SHRIGONDA","SC",63684
+"Maharashtra",1962,117,"PATHARDI","GEN",68271
+"Maharashtra",1962,118,"SHEVGAON","GEN",69041
+"Maharashtra",1962,119,"AHMEDNAGAR NORTH","GEN",68663
+"Maharashtra",1962,120,"AHMEDNAGAR SOUTH","GEN",63639
+"Maharashtra",1962,121,"PARNER","GEN",57988
+"Maharashtra",1962,122,"RAHURI","GEN",68091
+"Maharashtra",1962,123,"SHIRDI","GEN",66145
+"Maharashtra",1962,124,"SHRIRAMPUR","SC",66037
+"Maharashtra",1962,125,"SANGAMNER","GEN",71604
+"Maharashtra",1962,126,"NAGAR AKOLA","ST",64593
+"Maharashtra",1962,127,"NASIK","GEN",73893
+"Maharashtra",1962,128,"BHAGUR","SC",56303
+"Maharashtra",1962,129,"IGATPURI","GEN",62639
+"Maharashtra",1962,130,"KALWAN","ST",75331
+"Maharashtra",1962,131,"DINDORI","GEN",48186
+"Maharashtra",1962,132,"PEINT","ST",56932
+"Maharashtra",1962,133,"MALEGAON","GEN",95695
+"Maharashtra",1962,134,"NANDGAON","GEN",82465
+"Maharashtra",1962,135,"BAGLAN","GEN",71125
+"Maharashtra",1962,136,"YEOLA","GEN",76216
+"Maharashtra",1962,137,"NIPHAD","GEN",68911
+"Maharashtra",1962,138,"SINNAR","GEN",67938
+"Maharashtra",1962,139,"NANDURBAR","GEN",75764
+"Maharashtra",1962,140,"SAKRI","ST",85683
+"Maharashtra",1962,141,"NAWAPUR","ST",46256
+"Maharashtra",1962,142,"TALODA","ST",51666
+"Maharashtra",1962,143,"SHIRPUR","GEN",73350
+"Maharashtra",1962,144,"AKRANI","ST",69050
+"Maharashtra",1962,145,"SINDKHEDA","GEN",86602
+"Maharashtra",1962,146,"DHULIA SOUTH","GEN",72227
+"Maharashtra",1962,147,"DHULIA NORTH","GEN",81945
+"Maharashtra",1962,148,"CHOPDA","GEN",75524
+"Maharashtra",1962,149,"AMALNER","ST",71387
+"Maharashtra",1962,150,"PAROLA","GEN",80006
+"Maharashtra",1962,151,"CHALISGAON","GEN",74048
+"Maharashtra",1962,152,"PACHORA","GEN",71549
+"Maharashtra",1962,153,"JAMNER","GEN",74992
+"Maharashtra",1962,154,"ERANDOL","GEN",74236
+"Maharashtra",1962,155,"JALGAON","GEN",66834
+"Maharashtra",1962,156,"BHUSAVAL","GEN",66634
+"Maharashtra",1962,157,"YAWAL","GEN",65761
+"Maharashtra",1962,158,"RAVER","GEN",65948
+"Maharashtra",1962,159,"EDLABAD","SC",73097
+"Maharashtra",1962,160,"CHIKHLI","GEN",80917
+"Maharashtra",1962,161,"BULDANA","GEN",68103
+"Maharashtra",1962,162,"MALKAPUR","GEN",74640
+"Maharashtra",1962,163,"JALAMB","GEN",83554
+"Maharashtra",1962,164,"KHAMGAON","GEN",86695
+"Maharashtra",1962,165,"MEHKAR","GEN",71067
+"Maharashtra",1962,166,"JANEFAL","SC",69688
+"Maharashtra",1962,167,"WASHIM","GEN",67179
+"Maharashtra",1962,168,"GOWARDHAN","SC",68975
+"Maharashtra",1962,169,"MANGRULPIR","GEN",66847
+"Maharashtra",1962,170,"MURTAJAPUR","GEN",78781
+"Maharashtra",1962,171,"BORGAON","SC",84995
+"Maharashtra",1962,172,"AKOLA","GEN",64667
+"Maharashtra",1962,173,"BALAPUR","GEN",73795
+"Maharashtra",1962,174,"AKOT","GEN",81056
+"Maharashtra",1962,175,"DARYAPUR","GEN",71008
+"Maharashtra",1962,176,"ASHTI","SC",76418
+"Maharashtra",1962,177,"MELGHAT","GEN",83858
+"Maharashtra",1962,178,"AMRAVATI","GEN",79098
+"Maharashtra",1962,179,"BADNERA","GEN",80567
+"Maharashtra",1962,180,"CHANDUR","GEN",84380
+"Maharashtra",1962,181,"ACHALPUR","GEN",79805
+"Maharashtra",1962,182,"MORSI","GEN",81148
+"Maharashtra",1962,183,"KATOL","GEN",71842
+"Maharashtra",1962,184,"KALAMESHWAR","GEN",76687
+"Maharashtra",1962,185,"SAONER","GEN",71128
+"Maharashtra",1962,186,"RAMTEK","GEN",71286
+"Maharashtra",1962,187,"NAGPUR I","GEN",94575
+"Maharashtra",1962,188,"NAGPUR I I","GEN",84209
+"Maharashtra",1962,189,"NAGPUR","GEN",66600
+"Maharashtra",1962,190,"NAGPUR I I I","SC",89458
+"Maharashtra",1962,191,"UMRER","GEN",82485
+"Maharashtra",1962,192,"KAMPTEE","SC",73352
+"Maharashtra",1962,193,"BHANDARA","GEN",67828
+"Maharashtra",1962,194,"ADYAR","SC",69149
+"Maharashtra",1962,195,"TUMSAR","GEN",81445
+"Maharashtra",1962,196,"TIRORA","GEN",68932
+"Maharashtra",1962,197,"GONDI","GEN",77952
+"Maharashtra",1962,198,"GOREGAON","GEN",74026
+"Maharashtra",1962,199,"AMGAON","GEN",82812
+"Maharashtra",1962,200,"SAKOLI","GEN",81904
+"Maharashtra",1962,201,"SADAK ARJUNI","SC",76744
+"Maharashtra",1962,202,"BHADRAWATI","GEN",74845
+"Maharashtra",1962,203,"CHIMUR","GEN",73081
+"Maharashtra",1962,204,"BRAHMAPURI","SC",72755
+"Maharashtra",1962,205,"ARMORI","GEN",73181
+"Maharashtra",1962,206,"SIRONCHA","GEN",63779
+"Maharashtra",1962,207,"DHANORA","ST",60356
+"Maharashtra",1962,208,"SAOLI","GEN",70330
+"Maharashtra",1962,209,"RAJURA","GEN",90807
+"Maharashtra",1962,210,"CHANDA","GEN",65854
+"Maharashtra",1962,211,"HINGANGHAT","GEN",90070
+"Maharashtra",1962,212,"WARDHA","GEN",76841
+"Maharashtra",1962,213,"PULGAON","SC",78575
+"Maharashtra",1962,214,"ARVI","GEN",96902
+"Maharashtra",1962,215,"WANI","GEN",75200
+"Maharashtra",1962,216,"YELABARA","ST",75603
+"Maharashtra",1962,217,"KELAPUR","GEN",64783
+"Maharashtra",1962,218,"YEOTMAL","GEN",65021
+"Maharashtra",1962,219,"DARWHA","GEN",71503
+"Maharashtra",1962,220,"DIGRAS","GEN",73021
+"Maharashtra",1962,221,"PUSAD","GEN",71225
+"Maharashtra",1962,222,"UMERKHED","SC",61502
+"Maharashtra",1962,223,"KINWAT","GEN",77256
+"Maharashtra",1962,224,"HADGAON","GEN",82527
+"Maharashtra",1962,225,"NANDED","GEN",75430
+"Maharashtra",1962,226,"DHARMABAD","GEN",73938
+"Maharashtra",1962,227,"BILOLI","GEN",83354
+"Maharashtra",1962,228,"MUKHED","SC",85969
+"Maharashtra",1962,229,"KANDHAR","GEN",71782
+"Maharashtra",1962,230,"AHMADPUR","GEN",82250
+"Maharashtra",1962,231,"UDGIR","SC",66560
+"Maharashtra",1962,232,"NILANGA","GEN",82153
+"Maharashtra",1962,233,"LATUR","GEN",68463
+"Maharashtra",1962,234,"AUSA","GEN",75504
+"Maharashtra",1962,235,"OMERGA","GEN",69398
+"Maharashtra",1962,236,"TULJAPUR","GEN",82725
+"Maharashtra",1962,237,"OSMANABAD","GEN",67591
+"Maharashtra",1962,238,"PARENDA","GEN",76118
+"Maharashtra",1962,239,"KALLAM","SC",60861
+"Maharashtra",1962,240,"ASHTI","GEN",80464
+"Maharashtra",1962,241,"BHIR","GEN",81060
+"Maharashtra",1962,242,"GEORAI","GEN",67473
+"Maharashtra",1962,243,"MANJLEGAON","GEN",69460
+"Maharashtra",1962,244,"CHAUSALA","GEN",69984
+"Maharashtra",1962,245,"KAIJ","SC",67150
+"Maharashtra",1962,246,"RENAPUR","GEN",69862
+"Maharashtra",1962,247,"PATHRI","GEN",78170
+"Maharashtra",1962,248,"GANGAKHED","SC",68426
+"Maharashtra",1962,249,"PARBHANI","GEN",71746
+"Maharashtra",1962,250,"BASMATH","GEN",66395
+"Maharashtra",1962,251,"HINGOLI","GEN",80875
+"Maharashtra",1962,252,"KALAMNURI","SC",66550
+"Maharashtra",1962,253,"PARTUR","GEN",73759
+"Maharashtra",1962,254,"JINTUR","GEN",84335
+"Maharashtra",1962,255,"AMBAD","GEN",64536
+"Maharashtra",1962,256,"JALNA","GEN",60099
+"Maharashtra",1962,257,"BADNAPUR","SC",71322
+"Maharashtra",1962,258,"BHOKERDAN","GEN",93985
+"Maharashtra",1962,259,"AURANGABAD","GEN",63954
+"Maharashtra",1962,260,"PAITHAN","GEN",74477
+"Maharashtra",1962,261,"GANGAPUR","GEN",69446
+"Maharashtra",1962,262,"VAIJAPUR","GEN",81431
+"Maharashtra",1962,263,"KANNAD","GEN",83489
+"Maharashtra",1962,264,"SILLOD","GEN",82237
+"Maharashtra",1967,1,"SAWANTWADI","GEN",70487
+"Maharashtra",1967,2,"VENGURLA","GEN",71601
+"Maharashtra",1967,3,"KANKAVLI","GEN",67914
+"Maharashtra",1967,4,"MALWAN","GEN",61729
+"Maharashtra",1967,5,"DEOGAD","GEN",62301
+"Maharashtra",1967,6,"RAJAPUR","GEN",68479
+"Maharashtra",1967,7,"LANJA","GEN",64039
+"Maharashtra",1967,8,"RATNAGIRI","GEN",72044
+"Maharashtra",1967,9,"SANGAMESHWAR","GEN",78594
+"Maharashtra",1967,10,"CHIPLUN","GEN",71346
+"Maharashtra",1967,11,"GUHAGAR","GEN",76130
+"Maharashtra",1967,12,"KHED BUNDAR","GEN",76541
+"Maharashtra",1967,13,"DAPOLI","GEN",76546
+"Maharashtra",1967,14,"MAHAD","GEN",78590
+"Maharashtra",1967,15,"SHRIWARDHAN","GEN",84071
+"Maharashtra",1967,16,"MANGAON","GEN",85005
+"Maharashtra",1967,17,"PEN","GEN",76463
+"Maharashtra",1967,18,"ALIBAG","GEN",76099
+"Maharashtra",1967,19,"PANVEL","GEN",79637
+"Maharashtra",1967,20,"KHALAPUR","GEN",77549
+"Maharashtra",1967,21,"COLABA","GEN",71794
+"Maharashtra",1967,22,"DHOBITALAO","GEN",74308
+"Maharashtra",1967,23,"GIRGAON","GEN",77209
+"Maharashtra",1967,24,"KHUMBHARWADA","GEN",81816
+"Maharashtra",1967,25,"UMARKHADI","GEN",80219
+"Maharashtra",1967,26,"MAZGAON","GEN",74289
+"Maharashtra",1967,27,"NAGAPADA","GEN",84903
+"Maharashtra",1967,28,"KHETWADI","GEN",79504
+"Maharashtra",1967,29,"WALKESHWAR","GEN",86649
+"Maharashtra",1967,30,"BYCULLA","GEN",83005
+"Maharashtra",1967,31,"LOVEGROVE","SC",96305
+"Maharashtra",1967,32,"WORLI","GEN",94383
+"Maharashtra",1967,33,"PAREL","GEN",85463
+"Maharashtra",1967,34,"SAWREE","GEN",93893
+"Maharashtra",1967,35,"NAIGAON","GEN",83289
+"Maharashtra",1967,36,"DADAR","GEN",94082
+"Maharashtra",1967,37,"MAHIM","GEN",82018
+"Maharashtra",1967,38,"MATUNGA","GEN",70453
+"Maharashtra",1967,39,"KURLA","GEN",97233
+"Maharashtra",1967,40,"BANDRA","GEN",106620
+"Maharashtra",1967,41,"SANTACRUZ","GEN",94464
+"Maharashtra",1967,42,"ANDHERI","GEN",109771
+"Maharashtra",1967,43,"VILE PARLE","GEN",95462
+"Maharashtra",1967,44,"MALAD","GEN",116670
+"Maharashtra",1967,45,"BORIVILI","GEN",95843
+"Maharashtra",1967,46,"CHEMBUR","GEN",112438
+"Maharashtra",1967,47,"GHATKOPAR","GEN",122823
+"Maharashtra",1967,48,"MULUND","GEN",127989
+"Maharashtra",1967,49,"THANA","GEN",89665
+"Maharashtra",1967,50,"KALYAN","GEN",94490
+"Maharashtra",1967,51,"ULHASNAGAR","GEN",88822
+"Maharashtra",1967,52,"MURBAD","GEN",85480
+"Maharashtra",1967,53,"BHIWANDI","GEN",94803
+"Maharashtra",1967,54,"BASSEIN","GEN",92293
+"Maharashtra",1967,55,"PALGHAR","GEN",69453
+"Maharashtra",1967,56,"DAHANU","ST",71050
+"Maharashtra",1967,57,"KASA","ST",70591
+"Maharashtra",1967,58,"JAWAHAR","ST",71259
+"Maharashtra",1967,59,"SHAHAPUR","ST",75253
+"Maharashtra",1967,60,"IGATPURI","ST",81644
+"Maharashtra",1967,61,"DEOLALI","GEN",61951
+"Maharashtra",1967,62,"NASIK","GEN",81441
+"Maharashtra",1967,63,"SINNAR","GEN",73635
+"Maharashtra",1967,64,"NIPHAD","GEN",68475
+"Maharashtra",1967,65,"YEOLA","GEN",70120
+"Maharashtra",1967,66,"NANDGAON","GEN",81206
+"Maharashtra",1967,67,"MALEGAON","GEN",80212
+"Maharashtra",1967,68,"DABHADI","GEN",73059
+"Maharashtra",1967,69,"CHANDOR","GEN",77322
+"Maharashtra",1967,70,"DINDORI","ST",80766
+"Maharashtra",1967,71,"SURGANA","ST",65254
+"Maharashtra",1967,72,"BAGLAN","GEN",76922
+"Maharashtra",1967,73,"SAKRI","GEN",87810
+"Maharashtra",1967,74,"NAWAPUR","ST",78387
+"Maharashtra",1967,75,"NANDURBAR","ST",85638
+"Maharashtra",1967,76,"TALODA","ST",76275
+"Maharashtra",1967,77,"SHAHADA","ST",71194
+"Maharashtra",1967,78,"SHIRPUR","GEN",77866
+"Maharashtra",1967,79,"SINDKHEDA","GEN",83805
+"Maharashtra",1967,80,"DHULIA NORTH","GEN",88909
+"Maharashtra",1967,81,"DHULIA SOUTH","GEN",79655
+"Maharashtra",1967,82,"CHALISGAON","SC",84237
+"Maharashtra",1967,83,"PAROLA","GEN",89099
+"Maharashtra",1967,84,"AMALNER","GEN",79508
+"Maharashtra",1967,85,"CHOPDA","GEN",86002
+"Maharashtra",1967,86,"ERANOOL","GEN",83732
+"Maharashtra",1967,87,"JALGAON","GEN",83241
+"Maharashtra",1967,88,"PACHORA","GEN",83777
+"Maharashtra",1967,89,"JAMNER","GEN",83487
+"Maharashtra",1967,90,"BHUSAWAL","GEN",88730
+"Maharashtra",1967,91,"YAWAL","GEN",74978
+"Maharashtra",1967,92,"RAVER","GEN",77559
+"Maharashtra",1967,93,"EDLABAD","GEN",74966
+"Maharashtra",1967,94,"MALKAPUR","GEN",85569
+"Maharashtra",1967,95,"BULDANA","GEN",84277
+"Maharashtra",1967,96,"CHIKHLI","GEN",85576
+"Maharashtra",1967,97,"LONAR","GEN",85478
+"Maharashtra",1967,98,"MEHKAR","GEN",81045
+"Maharashtra",1967,99,"KHAMGAON","GEN",88236
+"Maharashtra",1967,100,"SHEGAON","GEN",87706
+"Maharashtra",1967,101,"AKOT","GEN",84663
+"Maharashtra",1967,102,"BORGAONMANJU","GEN",90122
+"Maharashtra",1967,103,"AKOLA","GEN",82753
+"Maharashtra",1967,104,"BALAPUR","GEN",83979
+"Maharashtra",1967,105,"MEDSHI","GEN",75639
+"Maharashtra",1967,106,"WASHIM","SC",78639
+"Maharashtra",1967,107,"MANGRULPIR","GEN",88199
+"Maharashtra",1967,108,"MURTAZAPUR","GEN",84112
+"Maharashtra",1967,109,"DARYAPUR","GEN",86827
+"Maharashtra",1967,110,"MELGHAR","ST",78488
+"Maharashtra",1967,111,"ACHALPUR","GEN",93483
+"Maharashtra",1967,112,"MORSHI","GEN",89088
+"Maharashtra",1967,113,"WALGAON","GEN",84676
+"Maharashtra",1967,114,"AMRAVATI","GEN",87558
+"Maharashtra",1967,115,"BADNERA","GEN",88921
+"Maharashtra",1967,116,"CHANDUR","GEN",95329
+"Maharashtra",1967,117,"ARVI","GEN",99992
+"Maharashtra",1967,118,"PULGAON","GEN",91867
+"Maharashtra",1967,119,"WARDHA","GEN",83668
+"Maharashtra",1967,120,"MINGANGHAR","GEN",97211
+"Maharashtra",1967,121,"UMRER","GEN",87675
+"Maharashtra",1967,122,"KAMPTEE","GEN",91327
+"Maharashtra",1967,123,"NAGPUR NORTH","SC",105166
+"Maharashtra",1967,124,"NAGPUR EAST","GEN",98551
+"Maharashtra",1967,125,"NAGPUR CENTRAL","GEN",94280
+"Maharashtra",1967,126,"NAGPUR WEST","GEN",89905
+"Maharashtra",1967,127,"KALMESHWAR","GEN",86217
+"Maharashtra",1967,128,"KATOL","GEN",80256
+"Maharashtra",1967,129,"SAONER","GEN",80988
+"Maharashtra",1967,130,"RAMTEK","GEN",78903
+"Maharashtra",1967,131,"TUMSAR","GEN",92360
+"Maharashtra",1967,132,"BHANDARA","GEN",84177
+"Maharashtra",1967,133,"TIRORA","GEN",89906
+"Maharashtra",1967,134,"GONDIA","GEN",92908
+"Maharashtra",1967,135,"GOREGAON","GEN",88988
+"Maharashtra",1967,136,"AMGAON","GEN",82541
+"Maharashtra",1967,137,"SAKOLI","GEN",80791
+"Maharashtra",1967,138,"ARJUNIMORGAON","GEN",86127
+"Maharashtra",1967,139,"ADYAR","GEN",82855
+"Maharashtra",1967,140,"ARMORI","ST",85500
+"Maharashtra",1967,141,"GADCHIROLI","ST",66743
+"Maharashtra",1967,142,"SIRONCHA","SC",79207
+"Maharashtra",1967,143,"RAJURA","GEN",77309
+"Maharashtra",1967,144,"CHANDA","GEN",84943
+"Maharashtra",1967,145,"SAOLI","GEN",86343
+"Maharashtra",1967,146,"BRAHMAPURI","GEN",93247
+"Maharashtra",1967,147,"CHIMUR","GEN",78094
+"Maharashtra",1967,148,"BHADRAWATI","GEN",79851
+"Maharashtra",1967,149,"WANI","GEN",77512
+"Maharashtra",1967,150,"RALEGAON","ST",82334
+"Maharashtra",1967,151,"KELAPUR","GEN",80636
+"Maharashtra",1967,152,"YEOTMAL","GEN",83690
+"Maharashtra",1967,153,"DARWHA","GEN",77887
+"Maharashtra",1967,154,"DIGRAS","GEN",89052
+"Maharashtra",1967,155,"PUSAD","GEN",79070
+"Maharashtra",1967,156,"UMARKHED","GEN",72896
+"Maharashtra",1967,157,"KINWAT","GEN",90542
+"Maharashtra",1967,158,"HADGAON","GEN",92275
+"Maharashtra",1967,159,"NANDED","GEN",94026
+"Maharashtra",1967,160,"BHOKAR","GEN",83692
+"Maharashtra",1967,161,"BILOLI","GEN",93976
+"Maharashtra",1967,162,"DEGLOOR","SC",88145
+"Maharashtra",1967,163,"KANDHAR","GEN",100506
+"Maharashtra",1967,164,"GANGAKHED","SC",97393
+"Maharashtra",1967,165,"PARBHANI","GEN",82547
+"Maharashtra",1967,166,"BASMATH","GEN",88689
+"Maharashtra",1967,167,"KALAMNURI","GEN",88680
+"Maharashtra",1967,168,"HINGOLI","GEN",94625
+"Maharashtra",1967,169,"TINTUR","GEN",83928
+"Maharashtra",1967,170,"PATHRI","GEN",91126
+"Maharashtra",1967,171,"PARTUR","GEN",78131
+"Maharashtra",1967,172,"AMBAD","GEN",81105
+"Maharashtra",1967,173,"JALNA SOUTH","GEN",81292
+"Maharashtra",1967,174,"JALNA NORTH","GEN",78106
+"Maharashtra",1967,175,"BHOKARDAN","GEN",90407
+"Maharashtra",1967,176,"SILLOD","GEN",82098
+"Maharashtra",1967,177,"KANNAD","GEN",84341
+"Maharashtra",1967,178,"VAIJAPUR","GEN",77793
+"Maharashtra",1967,179,"GANGAPUR","GEN",79783
+"Maharashtra",1967,180,"AURANGABAD WEST","GEN",78751
+"Maharashtra",1967,181,"AURANGABAD EAST","GEN",37095
+"Maharashtra",1967,182,"PAITHAN","GEN",77901
+"Maharashtra",1967,183,"GEORAI","GEN",79789
+"Maharashtra",1967,184,"MANJLEGAON","SC",83821
+"Maharashtra",1967,185,"BHIR","GEN",91663
+"Maharashtra",1967,186,"ASHTI","GEN",92659
+"Maharashtra",1967,187,"CHAUSALA","GEN",100900
+"Maharashtra",1967,188,"KAIJ","GEN",79629
+"Maharashtra",1967,189,"RENAPUR","GEN",81732
+"Maharashtra",1967,190,"AHMEDPUR","GEN",89109
+"Maharashtra",1967,191,"UDGIR","SC",91496
+"Maharashtra",1967,192,"LATUR","GEN",79711
+"Maharashtra",1967,193,"KALLAM","GEN",81766
+"Maharashtra",1967,194,"PARENDA","GEN",93568
+"Maharashtra",1967,195,"OSMANABAD","GEN",80498
+"Maharashtra",1967,196,"AUSA","GEN",84553
+"Maharashtra",1967,197,"NILANGA","GEN",90621
+"Maharashtra",1967,198,"OMERGA","GEN",80520
+"Maharashtra",1967,199,"TULJAPUR","GEN",86419
+"Maharashtra",1967,200,"AKALKOT","GEN",82179
+"Maharashtra",1967,201,"SOUTH SHOLAFUR","GEN",72631
+"Maharashtra",1967,202,"SHOLAPUR CITY SOUTH","GEN",65924
+"Maharashtra",1967,203,"SHOLAPUR CITH NORTH","GEN",67905
+"Maharashtra",1967,204,"NORTH SHOLAPUR","GEN",69976
+"Maharashtra",1967,205,"MANGALWEDHA","GEN",74780
+"Maharashtra",1967,206,"MOHOL","GEN",81519
+"Maharashtra",1967,207,"BARSI","GEN",77089
+"Maharashtra",1967,208,"MADHA","GEN",84370
+"Maharashtra",1967,209,"PANDHARPUR","GEN",87055
+"Maharashtra",1967,210,"SANGOLA","GEN",83122
+"Maharashtra",1967,211,"MAISHIRAS","GEN",81985
+"Maharashtra",1967,212,"KARMALA","SC",67201
+"Maharashtra",1967,213,"KARJAT","GEN",75855
+"Maharashtra",1967,214,"SHRIGONDA","SC",68526
+"Maharashtra",1967,215,"AHMEDNAGAR SOUTH","GEN",70948
+"Maharashtra",1967,216,"AHMEDNAGAR NORTH","GEN",81014
+"Maharashtra",1967,217,"PATHARDI","GEN",92620
+"Maharashtra",1967,218,"SHEVGAON","GEN",78982
+"Maharashtra",1967,219,"SHRIRAMPUR","GEN",70207
+"Maharashtra",1967,220,"SHIRDI","GEN",82432
+"Maharashtra",1967,221,"RAHURI","GEN",80383
+"Maharashtra",1967,222,"PARNER","GEN",76422
+"Maharashtra",1967,223,"SANGAMNER","GEN",89294
+"Maharashtra",1967,224,"NAGAR AKOLA","ST",76464
+"Maharashtra",1967,225,"JUNNAR","GEN",73444
+"Maharashtra",1967,226,"AMBEGAON","GEN",77137
+"Maharashtra",1967,227,"KHED ALANDI","GEN",84980
+"Maharashtra",1967,228,"MAVAL","GEN",70105
+"Maharashtra",1967,229,"MULSHI","GEN",77571
+"Maharashtra",1967,230,"HAVELI","GEN",93328
+"Maharashtra",1967,231,"KASBA PETH","GEN",65699
+"Maharashtra",1967,232,"BHAWANI PETH","SC",77376
+"Maharashtra",1967,233,"SHUKRAWAR PETH","GEN",76590
+"Maharashtra",1967,234,"SHIVAJINAGAR","GEN",72736
+"Maharashtra",1967,235,"POONA CANTONMENT","GEN",67851
+"Maharashtra",1967,236,"SIRUR","GEN",69295
+"Maharashtra",1967,237,"DHOND","GEN",71293
+"Maharashtra",1967,238,"INDAPUR","GEN",80755
+"Maharashtra",1967,239,"BARAMATI","GEN",78990
+"Maharashtra",1967,240,"PURANDHAR","GEN",85622
+"Maharashtra",1967,241,"BHOR","GEN",70757
+"Maharashtra",1967,242,"PHALTAN","GEN",73707
+"Maharashtra",1967,243,"MAN","SC",89043
+"Maharashtra",1967,244,"KHATAV","GEN",79896
+"Maharashtra",1967,245,"KOREGAON","GEN",71187
+"Maharashtra",1967,246,"SATARA","GEN",77651
+"Maharashtra",1967,247,"WAI","GEN",57636
+"Maharashtra",1967,248,"JAOLI","GEN",64940
+"Maharashtra",1967,249,"PATAN","GEN",75701
+"Maharashtra",1967,250,"KARAD NORTH","GEN",80940
+"Maharashtra",1967,251,"KARAD SOUTH","GEN",76412
+"Maharashtra",1967,252,"SHIRALA","GEN",85432
+"Maharashtra",1967,253,"WALVA","GEN",80453
+"Maharashtra",1967,254,"KHANAPUR","GEN",80617
+"Maharashtra",1967,255,"TASGAON","GEN",90189
+"Maharashtra",1967,256,"SANGLI","GEN",82090
+"Maharashtra",1967,257,"MIRAJ","GEN",77503
+"Maharashtra",1967,258,"ATPADI KAVATHEMAHANKAL","GEN",86889
+"Maharashtra",1967,259,"JATH","SC",89157
+"Maharashtra",1967,260,"SHIROL","GEN",86167
+"Maharashtra",1967,261,"HATKANGALE","GEN",81593
+"Maharashtra",1967,262,"VADGAON","SC",77370
+"Maharashtra",1967,263,"SHAHUWADI","GEN",70559
+"Maharashtra",1967,264,"PANHALA","GEN",77098
+"Maharashtra",1967,265,"RADHANAGARI","GEN",82959
+"Maharashtra",1967,266,"KOLHAPUR","GEN",70286
+"Maharashtra",1967,267,"KARVIR","GEN",81820
+"Maharashtra",1967,268,"KAGAL","GEN",85628
+"Maharashtra",1967,269,"GADHINGLAJ","GEN",75272
+"Maharashtra",1967,270,"CHANDGAD","GEN",73573
+"Maharashtra",1972,1,"SAWANTWADI","GEN",76405
+"Maharashtra",1972,2,"VENGURLA","GEN",73634
+"Maharashtra",1972,3,"KANKAVLI","GEN",71325
+"Maharashtra",1972,4,"MALWAN","GEN",62926
+"Maharashtra",1972,5,"DEOGAD","GEN",64072
+"Maharashtra",1972,6,"RAJAPUR","GEN",71845
+"Maharashtra",1972,7,"LANJA","GEN",67646
+"Maharashtra",1972,8,"RATNAGIRI","GEN",81382
+"Maharashtra",1972,9,"SANGAMESHWAR","GEN",87054
+"Maharashtra",1972,10,"CHIPLUN","GEN",81817
+"Maharashtra",1972,11,"GUHAGAR","GEN",80309
+"Maharashtra",1972,12,"KHED BUNDAR","GEN",83088
+"Maharashtra",1972,13,"DAPOLI","GEN",84978
+"Maharashtra",1972,14,"MAHAD","GEN",86448
+"Maharashtra",1972,15,"SHRIWARDHAN","GEN",95592
+"Maharashtra",1972,16,"MANGAON","GEN",94172
+"Maharashtra",1972,17,"PEN","GEN",87731
+"Maharashtra",1972,18,"ALIBAG","GEN",84974
+"Maharashtra",1972,19,"PANVEL","GEN",90375
+"Maharashtra",1972,20,"KHALAPUR","GEN",92737
+"Maharashtra",1972,21,"COLABA","GEN",71430
+"Maharashtra",1972,22,"DHOBITALAD","GEN",72905
+"Maharashtra",1972,23,"GIRGAON","GEN",76447
+"Maharashtra",1972,24,"KUMBHARWADA","GEN",78457
+"Maharashtra",1972,25,"UMARKHADI","GEN",82414
+"Maharashtra",1972,26,"MAZGAON","GEN",80692
+"Maharashtra",1972,27,"NAGPADA","GEN",88875
+"Maharashtra",1972,28,"KHETWADI","GEN",80958
+"Maharashtra",1972,29,"WALKESHWAR","GEN",106468
+"Maharashtra",1972,30,"BYCULLA","GEN",90407
+"Maharashtra",1972,31,"LOVEGROVE","SC",109472
+"Maharashtra",1972,32,"WORLI","GEN",104000
+"Maharashtra",1972,33,"PAREL","GEN",93934
+"Maharashtra",1972,34,"SEWREE","GEN",102600
+"Maharashtra",1972,35,"NAIGAON","GEN",94093
+"Maharashtra",1972,36,"DADAR","GEN",99297
+"Maharashtra",1972,37,"MAHIM","GEN",89614
+"Maharashtra",1972,38,"MATUNGA","GEN",82553
+"Maharashtra",1972,39,"KURLA","GEN",147955
+"Maharashtra",1972,40,"BANDRA","GEN",134089
+"Maharashtra",1972,41,"SANTACRUZ","GEN",132703
+"Maharashtra",1972,42,"ANDHERI","GEN",156556
+"Maharashtra",1972,43,"VILE PARLE","GEN",124353
+"Maharashtra",1972,44,"MALAD","GEN",156285
+"Maharashtra",1972,45,"BORIVLI","GEN",138007
+"Maharashtra",1972,46,"CHEMBUR","GEN",168840
+"Maharashtra",1972,47,"GHATKOPAR","GEN",173846
+"Maharashtra",1972,48,"MULUND","GEN",207179
+"Maharashtra",1972,49,"THANA","GEN",149142
+"Maharashtra",1972,50,"KALYAN","GEN",129696
+"Maharashtra",1972,51,"ULHASNAGAR","GEN",120556
+"Maharashtra",1972,52,"MURBAD","GEN",103507
+"Maharashtra",1972,53,"BHIWANDI","GEN",120450
+"Maharashtra",1972,54,"BASSEIN","GEN",104155
+"Maharashtra",1972,55,"PALGHAR","GEN",88133
+"Maharashtra",1972,56,"DAHANU","ST",92945
+"Maharashtra",1972,57,"KASA","ST",84329
+"Maharashtra",1972,58,"JAWHAR","ST",83497
+"Maharashtra",1972,59,"SHAHAPUR","ST",90124
+"Maharashtra",1972,60,"IGATPURI","ST",96801
+"Maharashtra",1972,61,"DEOLALI","GEN",71845
+"Maharashtra",1972,62,"NASIK","GEN",106755
+"Maharashtra",1972,63,"SINNAR","GEN",90504
+"Maharashtra",1972,64,"NIPHAD","GEN",88593
+"Maharashtra",1972,65,"YEOLA","GEN",81989
+"Maharashtra",1972,66,"NANDGAON","GEN",93872
+"Maharashtra",1972,67,"MALEGAON","GEN",107403
+"Maharashtra",1972,68,"DAUHADI","GEN",87867
+"Maharashtra",1972,69,"CHANDOR","GEN",92839
+"Maharashtra",1972,70,"DINDORI","ST",97771
+"Maharashtra",1972,71,"SURGANA","ST",79258
+"Maharashtra",1972,72,"BAGLAN","GEN",95977
+"Maharashtra",1972,73,"SAKRI","GEN",96758
+"Maharashtra",1972,74,"NAWAPUR","ST",92991
+"Maharashtra",1972,75,"NANDURBAR","ST",93664
+"Maharashtra",1972,76,"TALODA","ST",87175
+"Maharashtra",1972,77,"SHAHADA","ST",80678
+"Maharashtra",1972,78,"SHIRPUR","GEN",85659
+"Maharashtra",1972,79,"SINDKHEDA","GEN",90108
+"Maharashtra",1972,80,"SHULIA NORTH","GEN",96999
+"Maharashtra",1972,81,"DHULIA SOUTH","GEN",94617
+"Maharashtra",1972,82,"CHALISGAON","SC",94504
+"Maharashtra",1972,83,"PAROLA","GEN",96923
+"Maharashtra",1972,84,"AMALNER","GEN",84927
+"Maharashtra",1972,85,"CHOPDA","GEN",91568
+"Maharashtra",1972,86,"ERANDOL","GEN",92096
+"Maharashtra",1972,87,"JALGAON","GEN",96214
+"Maharashtra",1972,88,"PACHORA","GEN",93253
+"Maharashtra",1972,89,"JAMNER","GEN",90457
+"Maharashtra",1972,90,"BHUSAWAL","GEN",101386
+"Maharashtra",1972,91,"YAWAL","GEN",82901
+"Maharashtra",1972,92,"RAVER","GEN",87890
+"Maharashtra",1972,93,"EDLABAD","GEN",85517
+"Maharashtra",1972,94,"MALKAPUR","GEN",92811
+"Maharashtra",1972,95,"BULDANA","GEN",94150
+"Maharashtra",1972,96,"CHIKHLI","GEN",98020
+"Maharashtra",1972,97,"LONAR","GEN",96034
+"Maharashtra",1972,98,"MEHKAR","GEN",91456
+"Maharashtra",1972,99,"KHAMGAON","GEN",91124
+"Maharashtra",1972,100,"SHEGAON","GEN",95865
+"Maharashtra",1972,101,"AKOT","GEN",96894
+"Maharashtra",1972,102,"BORGAON MANJU","GEN",102536
+"Maharashtra",1972,103,"AKOLA","GEN",98241
+"Maharashtra",1972,104,"BALAPUR","GEN",93782
+"Maharashtra",1972,105,"MEDSHI","GEN",88746
+"Maharashtra",1972,106,"WASHIM","SC",97126
+"Maharashtra",1972,107,"MANGRULPIR","GEN",102221
+"Maharashtra",1972,108,"MURTAZAPUR","GEN",95858
+"Maharashtra",1972,109,"DARYAPUR","GEN",94170
+"Maharashtra",1972,110,"MELGHAT","ST",89832
+"Maharashtra",1972,111,"ACHALPUR","GEN",100535
+"Maharashtra",1972,112,"MORSHI","GEN",99667
+"Maharashtra",1972,113,"WALGON","GEN",94023
+"Maharashtra",1972,114,"AMRAVATI","GEN",94700
+"Maharashtra",1972,115,"BADNERA","GEN",97570
+"Maharashtra",1972,116,"CHANDUR","GEN",103046
+"Maharashtra",1972,117,"ARVI","GEN",106831
+"Maharashtra",1972,118,"PULGAON","GEN",95306
+"Maharashtra",1972,119,"WARDHA","GEN",92073
+"Maharashtra",1972,120,"HINGANGMAT","GEN",106876
+"Maharashtra",1972,121,"UMRER","GEN",100324
+"Maharashtra",1972,122,"KAMPTEE","GEN",100197
+"Maharashtra",1972,123,"NAGPUR NORTH","SC",118861
+"Maharashtra",1972,124,"NAGPUR EAST","GEN",109783
+"Maharashtra",1972,125,"NAGPUR CENTRAL","GEN",105818
+"Maharashtra",1972,126,"NAGPUR WEST","GEN",101297
+"Maharashtra",1972,127,"KALMESHWAR","GEN",94453
+"Maharashtra",1972,128,"KATOL","GEN",88404
+"Maharashtra",1972,129,"SAONER","GEN",92895
+"Maharashtra",1972,130,"RAMTEK","GEN",87870
+"Maharashtra",1972,131,"TUMSAR","GEN",96495
+"Maharashtra",1972,132,"BHANDARA","GEN",92603
+"Maharashtra",1972,133,"TIRORA","GEN",97274
+"Maharashtra",1972,134,"GONDIA","GEN",101401
+"Maharashtra",1972,135,"GOREGAON","GEN",96740
+"Maharashtra",1972,136,"JAMGAON","GEN",93557
+"Maharashtra",1972,137,"SAKOLI","GEN",90463
+"Maharashtra",1972,138,"ARJUNI MORGAON","GEN",98171
+"Maharashtra",1972,139,"ADYAR","GEN",91006
+"Maharashtra",1972,140,"ARMORI","ST",96317
+"Maharashtra",1972,141,"GADCHIROLI","ST",77184
+"Maharashtra",1972,142,"SIRONCHA","SC",94085
+"Maharashtra",1972,143,"RAJURA","GEN",92833
+"Maharashtra",1972,144,"CHANDA","GEN",107024
+"Maharashtra",1972,145,"SAOLI","GEN",95723
+"Maharashtra",1972,146,"BRAHMAPURI","GEN",102659
+"Maharashtra",1972,147,"CHIMUR","GEN",87693
+"Maharashtra",1972,148,"BHADRAWATI","GEN",89827
+"Maharashtra",1972,149,"WANI","GEN",85832
+"Maharashtra",1972,150,"RALFGAON","ST",89526
+"Maharashtra",1972,151,"KELAPUR","GEN",89092
+"Maharashtra",1972,152,"YEOTMAL","GEN",93979
+"Maharashtra",1972,153,"DARWHA","GEN",86223
+"Maharashtra",1972,154,"DIGRAS","GEN",102857
+"Maharashtra",1972,155,"PUSAD","GEN",92143
+"Maharashtra",1972,156,"UMARKHED","GEN",86434
+"Maharashtra",1972,157,"KINWAT","GEN",101612
+"Maharashtra",1972,158,"HADGAON","GEN",105109
+"Maharashtra",1972,159,"NANDED","GEN",115735
+"Maharashtra",1972,160,"BHOKAR","GEN",96174
+"Maharashtra",1972,161,"BILLOLI","GEN",109342
+"Maharashtra",1972,162,"DEGLOOR","SC",101203
+"Maharashtra",1972,163,"KANDHAR","GEN",114401
+"Maharashtra",1972,164,"GANGAKHED","SC",111440
+"Maharashtra",1972,165,"PARBHANI","GEN",98093
+"Maharashtra",1972,166,"BASMATH","GEN",101172
+"Maharashtra",1972,167,"KALAMNURI","GEN",98870
+"Maharashtra",1972,168,"HINGOLI","GEN",105766
+"Maharashtra",1972,169,"JINTUR","GEN",93767
+"Maharashtra",1972,170,"PATHRI","GEN",101849
+"Maharashtra",1972,171,"PARTUR","GEN",89067
+"Maharashtra",1972,172,"AMBAD","GEN",95669
+"Maharashtra",1972,173,"JALNA SOUTH","GEN",97102
+"Maharashtra",1972,174,"JALNA NORTH","GEN",88026
+"Maharashtra",1972,175,"BHOKARDAN","GEN",99131
+"Maharashtra",1972,176,"SILLOD","GEN",95290
+"Maharashtra",1972,177,"KANNAD","GEN",95792
+"Maharashtra",1972,178,"VAIJAPUR","GEN",87515
+"Maharashtra",1972,179,"GANGAPUR","GEN",91407
+"Maharashtra",1972,180,"AURANGABAD WEST","GEN",103144
+"Maharashtra",1972,181,"AURANGABAD WEST","GEN",97256
+"Maharashtra",1972,182,"PAITHAN","GEN",98028
+"Maharashtra",1972,183,"GEORAI","GEN",92969
+"Maharashtra",1972,184,"MANJLEGAON","SC",97866
+"Maharashtra",1972,185,"BHIR","GEN",106801
+"Maharashtra",1972,186,"ASHTI","GEN",101971
+"Maharashtra",1972,187,"CHAUSALA","GEN",115592
+"Maharashtra",1972,188,"KAIJ","GEN",93240
+"Maharashtra",1972,189,"RENAPUR","GEN",98593
+"Maharashtra",1972,190,"AHMEDPUR","GEN",101999
+"Maharashtra",1972,191,"UDGIR","SC",105877
+"Maharashtra",1972,192,"LATUR","GEN",98150
+"Maharashtra",1972,193,"KALLAM","GEN",93382
+"Maharashtra",1972,194,"PARENDA","GEN",103640
+"Maharashtra",1972,195,"OSMANABAD","GEN",94275
+"Maharashtra",1972,196,"AUSA","GEN",98071
+"Maharashtra",1972,197,"NILANGA","GEN",102309
+"Maharashtra",1972,198,"OMERGA","GEN",91823
+"Maharashtra",1972,199,"TULJAPUR","GEN",96878
+"Maharashtra",1972,200,"AKKALKOT","GEN",91556
+"Maharashtra",1972,201,"SOUTH SHOLAPUR","GEN",80401
+"Maharashtra",1972,202,"SHOLAPUR CITY SOUTH","GEN",71141
+"Maharashtra",1972,203,"SHOLAPUR CITY NORTH","GEN",77591
+"Maharashtra",1972,204,"NOTH SHOLAPUR","GEN",82616
+"Maharashtra",1972,205,"MANGALWEDHA","GEN",83318
+"Maharashtra",1972,206,"MOHOL","GEN",89676
+"Maharashtra",1972,207,"BARSI","GEN",87394
+"Maharashtra",1972,208,"MADHA","GEN",93511
+"Maharashtra",1972,209,"PANDHARPUR","GEN",94953
+"Maharashtra",1972,210,"SANGOLA","GEN",91744
+"Maharashtra",1972,211,"MALSHIRAS","GEN",99178
+"Maharashtra",1972,212,"KARMALA","SC",75302
+"Maharashtra",1972,213,"KARJAT","GEN",87530
+"Maharashtra",1972,214,"SHRIGONDA","SC",80294
+"Maharashtra",1972,215,"AHMEDNAGAR SOUTH","GEN",82777
+"Maharashtra",1972,216,"AHMEDNAGAR NORTH","GEN",94457
+"Maharashtra",1972,217,"PATHARDI","GEN",108184
+"Maharashtra",1972,218,"SHEVGAON","GEN",91989
+"Maharashtra",1972,219,"SHRIRAMPUR","GEN",85278
+"Maharashtra",1972,220,"SHIRDI","GEN",99431
+"Maharashtra",1972,221,"RAHURI","GEN",95444
+"Maharashtra",1972,222,"PARNER","GEN",82879
+"Maharashtra",1972,223,"SANGAMNER","GEN",105721
+"Maharashtra",1972,224,"NAGAR AKOLA","ST",84451
+"Maharashtra",1972,225,"JUNNAR","GEN",79463
+"Maharashtra",1972,226,"AMBEGAON","GEN",84002
+"Maharashtra",1972,227,"KHED ALANDI","GEN",95415
+"Maharashtra",1972,228,"MAVAL","GEN",83676
+"Maharashtra",1972,229,"MULSHI","GEN",93611
+"Maharashtra",1972,230,"HAVELI","GEN",131813
+"Maharashtra",1972,231,"KASBA PETH","GEN",67679
+"Maharashtra",1972,232,"BHAWANI PETH","SC",107375
+"Maharashtra",1972,233,"SHUKRAWAR PETH","GEN",114282
+"Maharashtra",1972,234,"SHIVAJINAGAR","GEN",100486
+"Maharashtra",1972,235,"POONA CANTONMENT","GEN",87580
+"Maharashtra",1972,236,"SIRUR","GEN",76897
+"Maharashtra",1972,237,"DHOND","GEN",83036
+"Maharashtra",1972,238,"INDAPUR","GEN",94544
+"Maharashtra",1972,239,"BARAMATI","GEN",95437
+"Maharashtra",1972,240,"PURANDHAR","GEN",83762
+"Maharashtra",1972,241,"BHOR","GEN",76578
+"Maharashtra",1972,242,"PHALTAN","GEN",88983
+"Maharashtra",1972,243,"MAN","SC",108629
+"Maharashtra",1972,244,"KHATAV","GEN",90160
+"Maharashtra",1972,245,"KOREGAON","GEN",84332
+"Maharashtra",1972,246,"SATARA","GEN",89065
+"Maharashtra",1972,247,"WAI","GEN",76399
+"Maharashtra",1972,248,"JAOLI","GEN",76422
+"Maharashtra",1972,249,"PATAN","GEN",89752
+"Maharashtra",1972,250,"KARAD NORTH","GEN",97476
+"Maharashtra",1972,251,"KARAD SOUTH","GEN",93381
+"Maharashtra",1972,252,"SHIRALA","GEN",98866
+"Maharashtra",1972,253,"WALVA","GEN",94971
+"Maharashtra",1972,254,"KHANAPUR","GEN",94867
+"Maharashtra",1972,255,"TASGAON","GEN",105609
+"Maharashtra",1972,256,"SANGLI","GEN",103017
+"Maharashtra",1972,257,"MIRAJ","GEN",99702
+"Maharashtra",1972,258,"ATPADI KAWATHE MAHANKAL","GEN",104759
+"Maharashtra",1972,259,"JATH","SC",107049
+"Maharashtra",1972,260,"SHIROL","GEN",102979
+"Maharashtra",1972,261,"HATKANANGALE","GEN",104617
+"Maharashtra",1972,262,"VADGAON","SC",92223
+"Maharashtra",1972,263,"SHAHUWADI","GEN",82859
+"Maharashtra",1972,264,"PANHALA","GEN",87182
+"Maharashtra",1972,265,"RADHANAGARI","GEN",95438
+"Maharashtra",1972,266,"KOLHAPUR","GEN",99470
+"Maharashtra",1972,267,"KARVIR","GEN",99735
+"Maharashtra",1972,268,"KAGAL","GEN",97087
+"Maharashtra",1972,269,"GAUHINGLAJ","GEN",87935
+"Maharashtra",1972,270,"CHANDGAD","GEN",84803
+"Maharashtra",1978,1,"SAWANTWADI","GEN",100163
+"Maharashtra",1978,2,"VENGURLA","GEN",95004
+"Maharashtra",1978,3,"MALVAN","GEN",95036
+"Maharashtra",1978,4,"DEVGAD","GEN",84301
+"Maharashtra",1978,5,"RAJAPUR","GEN",100219
+"Maharashtra",1978,6,"RATNAGIRI","GEN",107058
+"Maharashtra",1978,7,"SANGAMESHWAR","GEN",99681
+"Maharashtra",1978,8,"GUHAGAR","GEN",97701
+"Maharashtra",1978,9,"CHIPLUN","GEN",86381
+"Maharashtra",1978,10,"KHED","GEN",95165
+"Maharashtra",1978,11,"DAPOLI","GEN",104008
+"Maharashtra",1978,12,"MAHAD","GEN",93471
+"Maharashtra",1978,13,"SHRIWARDHAN","GEN",107018
+"Maharashtra",1978,14,"MANGAON","GEN",95204
+"Maharashtra",1978,15,"PEN","GEN",98986
+"Maharashtra",1978,16,"ALIBAG","GEN",103524
+"Maharashtra",1978,17,"PANVEL","GEN",103164
+"Maharashtra",1978,18,"KHALAPUR","GEN",108974
+"Maharashtra",1978,19,"COLABA","GEN",99811
+"Maharashtra",1978,20,"UMARKHADI","GEN",122174
+"Maharashtra",1978,21,"MUMBADEVI","GEN",111413
+"Maharashtra",1978,22,"KHETWADI","GEN",125021
+"Maharashtra",1978,23,"OPERA HOUSE","GEN",108701
+"Maharashtra",1978,24,"MALBAR HILL","GEN",138797
+"Maharashtra",1978,25,"CHINCHPOKLI","GEN",115189
+"Maharashtra",1978,26,"NAGPADA","GEN",106695
+"Maharashtra",1978,27,"MAZGAON","GEN",98645
+"Maharashtra",1978,28,"PAREL","GEN",122022
+"Maharashtra",1978,29,"SHIVADI","GEN",119729
+"Maharashtra",1978,30,"WORLI","GEN",111146
+"Maharashtra",1978,31,"NAIGAUM","GEN",115020
+"Maharashtra",1978,32,"DADAR","GEN",119138
+"Maharashtra",1978,33,"MATUNGA","GEN",120247
+"Maharashtra",1978,34,"MAHIM","GEN",111352
+"Maharashtra",1978,35,"DHARAVI","SC",137434
+"Maharashtra",1978,36,"VANDRE","GEN",116901
+"Maharashtra",1978,37,"KHERWADI","GEN",110405
+"Maharashtra",1978,38,"VILEPARLE","GEN",124372
+"Maharashtra",1978,39,"AMBOLI","GEN",133771
+"Maharashtra",1978,40,"SANTACRUZ","GEN",132449
+"Maharashtra",1978,41,"ANDHERI","GEN",145364
+"Maharashtra",1978,42,"GOREGAON","GEN",121896
+"Maharashtra",1978,43,"MALAD","GEN",142183
+"Maharashtra",1978,44,"KANDIVALI","GEN",139069
+"Maharashtra",1978,45,"BORIVALI","GEN",141358
+"Maharashtra",1978,46,"TROMBAY","GEN",144645
+"Maharashtra",1978,47,"CHEMBUR","GEN",124078
+"Maharashtra",1978,48,"NEHRUNAGAR","GEN",118087
+"Maharashtra",1978,49,"KURLA","GEN",145340
+"Maharashtra",1978,50,"GHATKOPAR","GEN",124010
+"Maharashtra",1978,51,"BHANDUP","GEN",148783
+"Maharashtra",1978,52,"MULUND","GEN",147865
+"Maharashtra",1978,53,"THANE","GEN",134014
+"Maharashtra",1978,54,"BELAPUR","GEN",118920
+"Maharashtra",1978,55,"ULHASNAGAR","GEN",110635
+"Maharashtra",1978,56,"AMBERNATH","GEN",121809
+"Maharashtra",1978,57,"KALYAN","GEN",141719
+"Maharashtra",1978,58,"MURBAD","GEN",97908
+"Maharashtra",1978,59,"WADA","ST",115455
+"Maharashtra",1978,60,"BHIWANDI","GEN",122952
+"Maharashtra",1978,61,"VASAI","GEN",115526
+"Maharashtra",1978,62,"PALGHAR","ST",100765
+"Maharashtra",1978,63,"DAHANU","ST",108031
+"Maharashtra",1978,64,"JAWHAR","ST",111921
+"Maharashtra",1978,65,"SHAHAPUR","ST",92901
+"Maharashtra",1978,66,"IGATPURI","ST",103798
+"Maharashtra",1978,67,"NASHIK","GEN",125118
+"Maharashtra",1978,68,"DEOLALI","SC",107831
+"Maharashtra",1978,69,"SINNAR","GEN",99967
+"Maharashtra",1978,70,"NIPHAD","GEN",102261
+"Maharashtra",1978,71,"YEVLA","GEN",102376
+"Maharashtra",1978,72,"NANDGAON","GEN",107848
+"Maharashtra",1978,73,"MALEGAON","GEN",110620
+"Maharashtra",1978,74,"DABHADI","GEN",92318
+"Maharashtra",1978,75,"CHANDWAD","GEN",94838
+"Maharashtra",1978,76,"DINDORI","ST",100966
+"Maharashtra",1978,77,"SURGANA","ST",90048
+"Maharashtra",1978,78,"KALVAN","ST",96211
+"Maharashtra",1978,79,"BAGLAN","ST",96612
+"Maharashtra",1978,80,"SAKRI","ST",109112
+"Maharashtra",1978,81,"NAWAPUR","ST",107229
+"Maharashtra",1978,82,"NANDURBAR","ST",112039
+"Maharashtra",1978,83,"TALODE","ST",84633
+"Maharashtra",1978,84,"AKRANI","ST",79454
+"Maharashtra",1978,85,"SHAHADE","GEN",103158
+"Maharashtra",1978,86,"SHIRPUR","GEN",97117
+"Maharashtra",1978,87,"SINDKHEDA","GEN",97478
+"Maharashtra",1978,88,"KUSUMBA","GEN",102480
+"Maharashtra",1978,89,"DHULE","GEN",105075
+"Maharashtra",1978,90,"CHALISGAON","SC",113638
+"Maharashtra",1978,91,"PAROLA","GEN",118788
+"Maharashtra",1978,92,"AMALNER","GEN",116746
+"Maharashtra",1978,93,"CHOPDA","GEN",93939
+"Maharashtra",1978,94,"ERANDOL","GEN",110326
+"Maharashtra",1978,95,"JALGAON","GEN",115451
+"Maharashtra",1978,96,"PACHORA","GEN",110538
+"Maharashtra",1978,97,"JAMNER","GEN",99965
+"Maharashtra",1978,98,"BHUSAWAL","GEN",119536
+"Maharashtra",1978,99,"YAVAL","GEN",100336
+"Maharashtra",1978,100,"RAVER","GEN",101318
+"Maharashtra",1978,101,"EDLABAD","GEN",104622
+"Maharashtra",1978,102,"MALKAPUR","GEN",100347
+"Maharashtra",1978,103,"BULDHANA","GEN",109901
+"Maharashtra",1978,104,"CHIKHLI","GEN",109168
+"Maharashtra",1978,105,"SINDKHEDRAJA","GEN",103298
+"Maharashtra",1978,106,"MEHKAR","GEN",98580
+"Maharashtra",1978,107,"KHAMGAON","GEN",115269
+"Maharashtra",1978,108,"JALAMB","GEN",102921
+"Maharashtra",1978,109,"AKOT","GEN",94361
+"Maharashtra",1978,110,"BORGAON MANJU","GEN",106117
+"Maharashtra",1978,111,"AKOLA","GEN",108687
+"Maharashtra",1978,112,"BALAPUR","GEN",103114
+"Maharashtra",1978,113,"MEDSHI","GEN",90778
+"Maharashtra",1978,114,"WASHIM","SC",92761
+"Maharashtra",1978,115,"MANGRULPIR","GEN",101293
+"Maharashtra",1978,116,"MURTIJAPUR","GEN",99451
+"Maharashtra",1978,117,"KARANJA","GEN",92685
+"Maharashtra",1978,118,"DARYAPUR","GEN",95030
+"Maharashtra",1978,119,"MELGHAT","ST",97307
+"Maharashtra",1978,120,"ACHALPUR","GEN",108430
+"Maharashtra",1978,121,"MORSHI","GEN",94022
+"Maharashtra",1978,122,"TEOSA","GEN",90810
+"Maharashtra",1978,123,"WALGAON","GEN",96664
+"Maharashtra",1978,124,"AMRAVATI","GEN",116603
+"Maharashtra",1978,125,"BADNERA","GEN",96699
+"Maharashtra",1978,126,"CHANDUR","GEN",94243
+"Maharashtra",1978,127,"ARVI","GEN",118317
+"Maharashtra",1978,128,"PULGAON","GEN",108201
+"Maharashtra",1978,129,"WARDHA","GEN",108811
+"Maharashtra",1978,130,"HINGANGHAT","GEN",121997
+"Maharashtra",1978,131,"UMRED","GEN",113791
+"Maharashtra",1978,132,"KAMPTEE","GEN",113895
+"Maharashtra",1978,133,"NAGPUR NORTH","SC",113340
+"Maharashtra",1978,134,"NAGPUR EAST","GEN",128859
+"Maharashtra",1978,135,"NAGPUR SOUTH","GEN",108505
+"Maharashtra",1978,136,"NAGPUR CENTRAL","GEN",104718
+"Maharashtra",1978,137,"NAGPUR WEST","GEN",122306
+"Maharashtra",1978,138,"KALMESHWAR","GEN",103371
+"Maharashtra",1978,139,"KATOL","GEN",93950
+"Maharashtra",1978,140,"SAVNER","GEN",100720
+"Maharashtra",1978,141,"RAMTEK","GEN",110401
+"Maharashtra",1978,142,"TUMSAR","GEN",99771
+"Maharashtra",1978,143,"BHANDARA","GEN",96897
+"Maharashtra",1978,144,"ADYAR","GEN",104968
+"Maharashtra",1978,145,"TIRORA","SC",112310
+"Maharashtra",1978,146,"GONDIA","GEN",111636
+"Maharashtra",1978,147,"GOREGAON","GEN",102804
+"Maharashtra",1978,148,"AMGAON","GEN",114015
+"Maharashtra",1978,149,"SAKOLI","GEN",110591
+"Maharashtra",1978,150,"LAKHANDUR","GEN",114826
+"Maharashtra",1978,151,"ARMORI","ST",105133
+"Maharashtra",1978,152,"GADCHIROLI","ST",99163
+"Maharashtra",1978,153,"SIRONCHA","ST",90230
+"Maharashtra",1978,154,"RAJURA","GEN",110803
+"Maharashtra",1978,155,"CHANDRAPUR","GEN",117124
+"Maharashtra",1978,156,"SAOLI","GEN",104143
+"Maharashtra",1978,157,"BRAHMAPURI","GEN",118334
+"Maharashtra",1978,158,"CHIMUR","GEN",119134
+"Maharashtra",1978,159,"BHADRAWATI","GEN",114739
+"Maharashtra",1978,160,"WANI","GEN",101153
+"Maharashtra",1978,161,"RALEGAON","ST",109433
+"Maharashtra",1978,162,"KELAPUR","ST",91922
+"Maharashtra",1978,163,"YAVATMAL","GEN",102658
+"Maharashtra",1978,164,"DARWHA","GEN",100860
+"Maharashtra",1978,165,"DIGRAS","GEN",107321
+"Maharashtra",1978,166,"PUSAD","GEN",102672
+"Maharashtra",1978,167,"UMARKHED","GEN",101067
+"Maharashtra",1978,168,"KINWAT","GEN",92812
+"Maharashtra",1978,169,"HADGAON","GEN",104242
+"Maharashtra",1978,170,"NANDED","GEN",123289
+"Maharashtra",1978,171,"MUDKHED","GEN",108492
+"Maharashtra",1978,172,"BHOKAR","GEN",100713
+"Maharashtra",1978,173,"BILOLI","GEN",126279
+"Maharashtra",1978,174,"MUKHED","SC",120773
+"Maharashtra",1978,175,"KANDHAR","GEN",118155
+"Maharashtra",1978,176,"GANGAKHED","SC",100702
+"Maharashtra",1978,177,"SINGNAPUR","GEN",97160
+"Maharashtra",1978,178,"PARBHANI","GEN",103782
+"Maharashtra",1978,179,"BASMATH","GEN",110699
+"Maharashtra",1978,180,"KALAMNURI","GEN",110103
+"Maharashtra",1978,181,"HINGOLI","GEN",109984
+"Maharashtra",1978,182,"JINTUR","GEN",105119
+"Maharashtra",1978,183,"PATHRI","GEN",92130
+"Maharashtra",1978,184,"PARTUR","GEN",101208
+"Maharashtra",1978,185,"AMBAD","GEN",107796
+"Maharashtra",1978,186,"JALNA","GEN",113355
+"Maharashtra",1978,187,"BADNAPUR","GEN",111954
+"Maharashtra",1978,188,"BHOKARDAN","GEN",111621
+"Maharashtra",1978,189,"SILLOD","GEN",94641
+"Maharashtra",1978,190,"KANNAD","GEN",114327
+"Maharashtra",1978,191,"VAIJAPUR","GEN",102395
+"Maharashtra",1978,192,"GANGAPUR","GEN",124710
+"Maharashtra",1978,193,"AURANGABAD WEST","GEN",136124
+"Maharashtra",1978,194,"AURANGABAD EAST","GEN",122818
+"Maharashtra",1978,195,"PAITHAN","GEN",98058
+"Maharashtra",1978,196,"GEORAI","GEN",107087
+"Maharashtra",1978,197,"MANJLEGAON","GEN",123680
+"Maharashtra",1978,198,"BEED","GEN",118254
+"Maharashtra",1978,199,"ASHTI","GEN",127323
+"Maharashtra",1978,200,"CHAUSALA","GEN",121925
+"Maharashtra",1978,201,"KAIJ","SC",122166
+"Maharashtra",1978,202,"RENAPUR","GEN",116967
+"Maharashtra",1978,203,"AHMEDPUR","GEN",99972
+"Maharashtra",1978,204,"UDGIR","GEN",109973
+"Maharashtra",1978,205,"HER","SC",91796
+"Maharashtra",1978,206,"LATUR","GEN",125682
+"Maharashtra",1978,207,"KALAMB","SC",101165
+"Maharashtra",1978,208,"PARANDA","GEN",109363
+"Maharashtra",1978,209,"OSMANABAD","GEN",105966
+"Maharashtra",1978,210,"AUSA","GEN",92627
+"Maharashtra",1978,211,"NILANGA","GEN",113157
+"Maharashtra",1978,212,"OMERGA","GEN",107585
+"Maharashtra",1978,213,"TULJAPUR","GEN",87164
+"Maharashtra",1978,214,"AKKALKOT","GEN",92246
+"Maharashtra",1978,215,"SOUTH SOLAPUR","GEN",90815
+"Maharashtra",1978,216,"SOLAPUR CITY SOUTH","GEN",94655
+"Maharashtra",1978,217,"SOLAPUR CITY NORTH","GEN",97185
+"Maharashtra",1978,218,"NORTH SOLAPUR","SC",94073
+"Maharashtra",1978,219,"MANGALVEDHE","SC",94825
+"Maharashtra",1978,220,"MOHOL","GEN",90897
+"Maharashtra",1978,221,"BARSHI","GEN",92771
+"Maharashtra",1978,222,"MADHA","GEN",106232
+"Maharashtra",1978,223,"PANDHARPUR","GEN",107320
+"Maharashtra",1978,224,"SANGOLE","GEN",117220
+"Maharashtra",1978,225,"MALSHIRAS","GEN",110860
+"Maharashtra",1978,226,"KARMALA","GEN",84847
+"Maharashtra",1978,227,"KARJAT","SC",98760
+"Maharashtra",1978,228,"SHRIGONDA","GEN",109174
+"Maharashtra",1978,229,"AHMEDNAGAR SOUTH","GEN",101073
+"Maharashtra",1978,230,"AHMEDNAGAR NORTH","GEN",116604
+"Maharashtra",1978,231,"PATHARDI","GEN",110340
+"Maharashtra",1978,232,"SHEOGAON","GEN",98710
+"Maharashtra",1978,233,"SHRIRAMPUR","GEN",91731
+"Maharashtra",1978,234,"SHIRDI","GEN",88840
+"Maharashtra",1978,235,"KOPARGAON","GEN",93881
+"Maharashtra",1978,236,"RAHURI","GEN",93585
+"Maharashtra",1978,237,"PARNER","GEN",87733
+"Maharashtra",1978,238,"SANGAMNER","GEN",105445
+"Maharashtra",1978,239,"NAGAR-AKOLA","ST",113316
+"Maharashtra",1978,240,"JUNNAR","GEN",104793
+"Maharashtra",1978,241,"AMBEGAON","GEN",86524
+"Maharashtra",1978,242,"KHED-ALANDI","GEN",114134
+"Maharashtra",1978,243,"MAVAL","GEN",103165
+"Maharashtra",1978,244,"MULSHI","GEN",101823
+"Maharashtra",1978,245,"HAVELI","GEN",136835
+"Maharashtra",1978,246,"BOPODI","GEN",87743
+"Maharashtra",1978,247,"SHIVAJINAGAR","GEN",129040
+"Maharashtra",1978,248,"PARVATI","SC",132263
+"Maharashtra",1978,249,"KASBA PETH","GEN",115556
+"Maharashtra",1978,250,"BHAVANI PETH","GEN",109098
+"Maharashtra",1978,251,"PUNE CANTONMENT","GEN",101813
+"Maharashtra",1978,252,"SHIRUR","GEN",93263
+"Maharashtra",1978,253,"DAUND","GEN",123158
+"Maharashtra",1978,254,"INDAPUR","GEN",113602
+"Maharashtra",1978,255,"BARAMATI","GEN",105653
+"Maharashtra",1978,256,"PURANDHAR","GEN",116206
+"Maharashtra",1978,257,"BHOR","GEN",90445
+"Maharashtra",1978,258,"PHALTAN","GEN",100530
+"Maharashtra",1978,259,"MAN","SC",111236
+"Maharashtra",1978,260,"KHATAV","GEN",99590
+"Maharashtra",1978,261,"KOREGAON","GEN",96939
+"Maharashtra",1978,262,"WAI","GEN",92796
+"Maharashtra",1978,263,"JAOLI","GEN",105632
+"Maharashtra",1978,264,"SATARA","GEN",108018
+"Maharashtra",1978,265,"PATAN","GEN",107803
+"Maharashtra",1978,266,"KARAD NORTH","GEN",107521
+"Maharashtra",1978,267,"KARAD SOUTH","GEN",109564
+"Maharashtra",1978,268,"SHIRALA","GEN",110048
+"Maharashtra",1978,269,"WALVA","GEN",112883
+"Maharashtra",1978,270,"BHILWADI WANGI","GEN",107511
+"Maharashtra",1978,271,"SANGLI","GEN",100225
+"Maharashtra",1978,272,"MIRAJ","GEN",95594
+"Maharashtra",1978,273,"TASGAON","GEN",99737
+"Maharashtra",1978,274,"KHANAPUR ATPADI","GEN",108701
+"Maharashtra",1978,275,"KAVATHE MAHANKAL","GEN",103227
+"Maharashtra",1978,276,"JAT","SC",105107
+"Maharashtra",1978,277,"SHIROL","GEN",107595
+"Maharashtra",1978,278,"ICHALKARANJI","GEN",113083
+"Maharashtra",1978,279,"VADGAON","SC",106771
+"Maharashtra",1978,280,"SHAHUWADI","GEN",100905
+"Maharashtra",1978,281,"PANHALA","GEN",91888
+"Maharashtra",1978,282,"SANGRUL","GEN",97939
+"Maharashtra",1978,283,"RADHANAGARI","GEN",108698
+"Maharashtra",1978,284,"KOLHAPUR","GEN",106821
+"Maharashtra",1978,285,"KARVIR","GEN",111210
+"Maharashtra",1978,286,"KAGAL","GEN",95149
+"Maharashtra",1978,287,"GADHINGLAJ","GEN",100538
+"Maharashtra",1978,288,"CHANDGAD","GEN",99970
+"Maharashtra",1980,1,"SAWANTWADI","GEN",102997
+"Maharashtra",1980,2,"VENGURLA","GEN",96937
+"Maharashtra",1980,3,"MALWAN","GEN",95664
+"Maharashtra",1980,4,"DEVGAD","GEN",84130
+"Maharashtra",1980,5,"RAJAPUR","GEN",102351
+"Maharashtra",1980,6,"RATNAGIRI","GEN",110810
+"Maharashtra",1980,7,"SANGAUMESHWAR","GEN",104352
+"Maharashtra",1980,8,"GUHAGAR","GEN",100916
+"Maharashtra",1980,9,"CHIPLUN","GEN",89111
+"Maharashtra",1980,10,"KHED","GEN",96673
+"Maharashtra",1980,11,"DAPOLI","GEN",102582
+"Maharashtra",1980,12,"MAHAD","GEN",99745
+"Maharashtra",1980,13,"SHRIWARDHAN","GEN",111205
+"Maharashtra",1980,14,"MANGAON","GEN",102873
+"Maharashtra",1980,15,"PEN","GEN",106485
+"Maharashtra",1980,16,"ALIBAG","GEN",109367
+"Maharashtra",1980,17,"PANVEL","GEN",112845
+"Maharashtra",1980,18,"KHALAPUR","GEN",117742
+"Maharashtra",1980,19,"COLABA","GEN",95990
+"Maharashtra",1980,20,"UMARKHADI","GEN",119860
+"Maharashtra",1980,21,"MUMBADEVI","GEN",108251
+"Maharashtra",1980,22,"KHETWADI","GEN",120099
+"Maharashtra",1980,23,"OPERA HOUSE","GEN",106491
+"Maharashtra",1980,24,"MALBAR HILL","GEN",140035
+"Maharashtra",1980,25,"CHINCHPOKLI","GEN",115834
+"Maharashtra",1980,26,"NAGPADA","GEN",104684
+"Maharashtra",1980,27,"MAZGAON","GEN",99349
+"Maharashtra",1980,28,"PAREL","GEN",128981
+"Maharashtra",1980,29,"SHIVADI","GEN",129114
+"Maharashtra",1980,30,"WORLI","GEN",114828
+"Maharashtra",1980,31,"NAIGAUM","GEN",121733
+"Maharashtra",1980,32,"DADAR","GEN",125120
+"Maharashtra",1980,33,"MATUNGA","GEN",128458
+"Maharashtra",1980,34,"MAHIM","GEN",116734
+"Maharashtra",1980,35,"DHARAVI","SC",160532
+"Maharashtra",1980,36,"BANDRA","GEN",124077
+"Maharashtra",1980,37,"KHERWADI","GEN",126215
+"Maharashtra",1980,38,"VILEPARLE","GEN",135013
+"Maharashtra",1980,39,"AMBOLI","GEN",153712
+"Maharashtra",1980,40,"SANTACRUZ","GEN",143301
+"Maharashtra",1980,41,"ANDHERI","GEN",160980
+"Maharashtra",1980,42,"GOREGAON","GEN",134250
+"Maharashtra",1980,43,"MALAD","GEN",160779
+"Maharashtra",1980,44,"KANDIVALI","GEN",151161
+"Maharashtra",1980,45,"BORIVALI","GEN",172255
+"Maharashtra",1980,46,"TROMBAY","GEN",166967
+"Maharashtra",1980,47,"CHEMBUR","GEN",138941
+"Maharashtra",1980,48,"NEHRUNAGAR","GEN",122989
+"Maharashtra",1980,49,"KURLA","GEN",168776
+"Maharashtra",1980,50,"GHATKOPAR","GEN",140747
+"Maharashtra",1980,51,"BHANDUP","GEN",167841
+"Maharashtra",1980,52,"MULUND","GEN",163259
+"Maharashtra",1980,53,"THANE","GEN",175380
+"Maharashtra",1980,54,"BELAPUR","GEN",174014
+"Maharashtra",1980,55,"ULHASNAGAR","GEN",137228
+"Maharashtra",1980,56,"AMBERNATH","GEN",155017
+"Maharashtra",1980,57,"KALYAN","GEN",174415
+"Maharashtra",1980,58,"MURBAD","GEN",103335
+"Maharashtra",1980,59,"WADA","ST",127091
+"Maharashtra",1980,60,"BHIWANDI","GEN",153808
+"Maharashtra",1980,61,"VASAI","GEN",133588
+"Maharashtra",1980,62,"PALGHAR","ST",110648
+"Maharashtra",1980,63,"DAHANU","ST",118878
+"Maharashtra",1980,64,"JAWHAR","ST",118765
+"Maharashtra",1980,65,"SHAHAPUR","ST",99219
+"Maharashtra",1980,66,"IGATPURI","ST",109841
+"Maharashtra",1980,67,"NASIK","GEN",148113
+"Maharashtra",1980,68,"DEVLALI","SC",124621
+"Maharashtra",1980,69,"SINNAR","GEN",107860
+"Maharashtra",1980,70,"NIPHAD","GEN",115624
+"Maharashtra",1980,71,"YEOLA","GEN",111878
+"Maharashtra",1980,72,"NANDGAON","GEN",117309
+"Maharashtra",1980,73,"MALEGAON","GEN",123911
+"Maharashtra",1980,74,"DOBHADI","GEN",101900
+"Maharashtra",1980,75,"CHANDWAD","GEN",102980
+"Maharashtra",1980,76,"DINDORI","ST",108131
+"Maharashtra",1980,77,"SURGANA","ST",95857
+"Maharashtra",1980,78,"KALWAN","ST",104403
+"Maharashtra",1980,79,"BAGLAN","ST",106283
+"Maharashtra",1980,80,"SAKRI","ST",118569
+"Maharashtra",1980,81,"NAWAPUR","ST",115974
+"Maharashtra",1980,82,"NANDURBAR","ST",119760
+"Maharashtra",1980,83,"TALODA","ST",91210
+"Maharashtra",1980,84,"AKRANI","ST",86906
+"Maharashtra",1980,85,"SHAHADE","GEN",112451
+"Maharashtra",1980,86,"SHIRPUR","GEN",107884
+"Maharashtra",1980,87,"SINDKHEDA","GEN",103680
+"Maharashtra",1980,88,"KASUMBA","GEN",110676
+"Maharashtra",1980,89,"DHULE","GEN",114660
+"Maharashtra",1980,90,"CHALISGAON","SC",125145
+"Maharashtra",1980,91,"PAROLA","GEN",129152
+"Maharashtra",1980,92,"AMALNER","GEN",121756
+"Maharashtra",1980,93,"CHOPDA","GEN",102364
+"Maharashtra",1980,94,"ERANDOL","GEN",120351
+"Maharashtra",1980,95,"JALGAON","GEN",131157
+"Maharashtra",1980,96,"PACHORA","GEN",120148
+"Maharashtra",1980,97,"JAMNER","GEN",110289
+"Maharashtra",1980,98,"BHUSAWAL","GEN",130733
+"Maharashtra",1980,99,"YAWAL","GEN",106471
+"Maharashtra",1980,100,"RAVER","GEN",109783
+"Maharashtra",1980,101,"EALABAD","GEN",113228
+"Maharashtra",1980,102,"MALKAPUR","GEN",107364
+"Maharashtra",1980,103,"BUADHANA","GEN",118564
+"Maharashtra",1980,104,"CHIKHLI","GEN",119328
+"Maharashtra",1980,105,"SINNDKHEDRAJA","GEN",112691
+"Maharashtra",1980,106,"MEHKAR","GEN",106132
+"Maharashtra",1980,107,"KHAMGAON","GEN",122515
+"Maharashtra",1980,108,"JALAMB","GEN",109624
+"Maharashtra",1980,109,"AKOT","GEN",101796
+"Maharashtra",1980,110,"BOROEON MANJU","GEN",115909
+"Maharashtra",1980,111,"AKOGA","GEN",116140
+"Maharashtra",1980,112,"BALAPUR","GEN",109349
+"Maharashtra",1980,113,"MEDSHI","GEN",97010
+"Maharashtra",1980,114,"WASHIM","SC",99778
+"Maharashtra",1980,115,"MANGRULPIR","GEN",107825
+"Maharashtra",1980,116,"MURTIJAPUR","GEN",106229
+"Maharashtra",1980,117,"KARANJA","GEN",98840
+"Maharashtra",1980,118,"DARYAPUR","GEN",102198
+"Maharashtra",1980,119,"MELGHAT","ST",104895
+"Maharashtra",1980,120,"ACHALPUR","GEN",113917
+"Maharashtra",1980,121,"MORHSI","GEN",100306
+"Maharashtra",1980,122,"TEOSA","GEN",95996
+"Maharashtra",1980,123,"WALGAON","GEN",102372
+"Maharashtra",1980,124,"AMRAVATI","GEN",123540
+"Maharashtra",1980,125,"BADNERA","GEN",103172
+"Maharashtra",1980,126,"CHANDUR","GEN",99298
+"Maharashtra",1980,127,"ARVI","GEN",124331
+"Maharashtra",1980,128,"PULGAON","GEN",114891
+"Maharashtra",1980,129,"WARDHA","GEN",119062
+"Maharashtra",1980,130,"HINGANGHAT","GEN",132579
+"Maharashtra",1980,131,"UMRED","GEN",117721
+"Maharashtra",1980,132,"KAMTHI","GEN",121436
+"Maharashtra",1980,133,"NAGPUR NORTH","SC",125442
+"Maharashtra",1980,134,"NAGPUR EAST","GEN",142661
+"Maharashtra",1980,135,"NAGPUR SOUTH","GEN",118177
+"Maharashtra",1980,136,"NAGPUR CENTRAL","GEN",109514
+"Maharashtra",1980,137,"NAGPUR WEST","GEN",140223
+"Maharashtra",1980,138,"KALMESHWAR","GEN",109145
+"Maharashtra",1980,139,"KATOL","GEN",98281
+"Maharashtra",1980,140,"SAVNER","GEN",106310
+"Maharashtra",1980,141,"RAMTEK","GEN",119016
+"Maharashtra",1980,142,"TUMSAR","GEN",105948
+"Maharashtra",1980,143,"BHANDARA","GEN",103804
+"Maharashtra",1980,144,"ADYAR","GEN",111473
+"Maharashtra",1980,145,"TIRORA","SC",116976
+"Maharashtra",1980,146,"GONDIYA","GEN",116994
+"Maharashtra",1980,147,"GOREGAON","GEN",108302
+"Maharashtra",1980,148,"AMGAON","GEN",121572
+"Maharashtra",1980,149,"SAKOLI","GEN",117122
+"Maharashtra",1980,150,"LAKHANDUR","GEN",122425
+"Maharashtra",1980,151,"ARMORI","ST",110455
+"Maharashtra",1980,152,"GADCHIROLI","ST",105437
+"Maharashtra",1980,153,"SIRONCHA","ST",94931
+"Maharashtra",1980,154,"RAJURA","GEN",119584
+"Maharashtra",1980,155,"CHANDRAPUR","GEN",131810
+"Maharashtra",1980,156,"SAOLI","GEN",111547
+"Maharashtra",1980,157,"BRAHMAPURI","GEN",125175
+"Maharashtra",1980,158,"CHIMUR","GEN",126019
+"Maharashtra",1980,159,"BHADRAWATI","GEN",124405
+"Maharashtra",1980,160,"WANI","GEN",106075
+"Maharashtra",1980,161,"RALEGAON","ST",115331
+"Maharashtra",1980,162,"KELAPUR","ST",99243
+"Maharashtra",1980,163,"YAVATMAL","GEN",110172
+"Maharashtra",1980,164,"DARWHA","GEN",106799
+"Maharashtra",1980,165,"DIGRAS","GEN",113926
+"Maharashtra",1980,166,"PUSAD","GEN",110296
+"Maharashtra",1980,167,"UMARKHED","GEN",108522
+"Maharashtra",1980,168,"KINWAT","GEN",101431
+"Maharashtra",1980,169,"HADGAON","GEN",112669
+"Maharashtra",1980,170,"NANDED","GEN",139582
+"Maharashtra",1980,171,"MUDKHED","GEN",117740
+"Maharashtra",1980,172,"BHOKAR","GEN",108622
+"Maharashtra",1980,173,"BILOLI","GEN",136155
+"Maharashtra",1980,174,"MUKHED","SC",129316
+"Maharashtra",1980,175,"KANDHAR","GEN",126636
+"Maharashtra",1980,176,"GANGAKHED","SC",108227
+"Maharashtra",1980,177,"SINGNAPUR","GEN",105745
+"Maharashtra",1980,178,"PARBHANI","GEN",114422
+"Maharashtra",1980,179,"BASMATH","GEN",120102
+"Maharashtra",1980,180,"KALAMNURI","GEN",119425
+"Maharashtra",1980,181,"HINGOLI","GEN",118195
+"Maharashtra",1980,182,"JINTUR","GEN",112183
+"Maharashtra",1980,183,"PATHRI","GEN",101580
+"Maharashtra",1980,184,"PARTUR","GEN",110056
+"Maharashtra",1980,185,"AMBAD","GEN",117516
+"Maharashtra",1980,186,"JALNA","GEN",122668
+"Maharashtra",1980,187,"BADNAPUR","GEN",121122
+"Maharashtra",1980,188,"BHOKARDAN","GEN",120584
+"Maharashtra",1980,189,"SILLOD","GEN",102528
+"Maharashtra",1980,190,"KANNAD","GEN",124895
+"Maharashtra",1980,191,"VAIJAPUR","GEN",109706
+"Maharashtra",1980,192,"GANGAPUR","GEN",139268
+"Maharashtra",1980,193,"AURANGABAD WEST","GEN",154553
+"Maharashtra",1980,194,"AURANGABAD EAST","GEN",134585
+"Maharashtra",1980,195,"PAITHAN","GEN",106596
+"Maharashtra",1980,196,"GEORAI","GEN",118428
+"Maharashtra",1980,197,"MANJLEGAON","GEN",137469
+"Maharashtra",1980,198,"BEED","GEN",130536
+"Maharashtra",1980,199,"ASHTI","GEN",139480
+"Maharashtra",1980,200,"CHAUSALA","GEN",135527
+"Maharashtra",1980,201,"KAIJ","SC",139206
+"Maharashtra",1980,202,"RENAPUR","GEN",131093
+"Maharashtra",1980,203,"AHMEDPUR","GEN",110701
+"Maharashtra",1980,204,"UDGIR","GEN",120964
+"Maharashtra",1980,205,"HER","SC",97075
+"Maharashtra",1980,206,"LATUR","GEN",140583
+"Maharashtra",1980,207,"KALAMB","SC",108458
+"Maharashtra",1980,208,"PARANDA","GEN",118043
+"Maharashtra",1980,209,"OSMANABAD","GEN",115980
+"Maharashtra",1980,210,"AUSA","GEN",96880
+"Maharashtra",1980,211,"NILANGA","GEN",119517
+"Maharashtra",1980,212,"OMERGA","GEN",112684
+"Maharashtra",1980,213,"TULJAPUR","GEN",95425
+"Maharashtra",1980,214,"AKKALKOT","GEN",98463
+"Maharashtra",1980,215,"SOUTH SOLAPUR","GEN",97402
+"Maharashtra",1980,216,"SOLAPUR CITY SOUTH","GEN",101391
+"Maharashtra",1980,217,"SOLAPUR CITY NORTH","GEN",99988
+"Maharashtra",1980,218,"NORTH SOLAPUR","SC",104868
+"Maharashtra",1980,219,"MANGALVEDHE","SC",105366
+"Maharashtra",1980,220,"MOHOL","GEN",100579
+"Maharashtra",1980,221,"BARSHI","GEN",106175
+"Maharashtra",1980,222,"MADHA","GEN",113751
+"Maharashtra",1980,223,"PANDHARPUR","GEN",122242
+"Maharashtra",1980,224,"SANGOLE","GEN",127096
+"Maharashtra",1980,225,"MALSHIRAS","GEN",127050
+"Maharashtra",1980,226,"KARMALA","GEN",91510
+"Maharashtra",1980,227,"KARJAT","SC",110882
+"Maharashtra",1980,228,"SHRIGONDA","GEN",123264
+"Maharashtra",1980,229,"AHMEDNAGAR SOUTH","GEN",120274
+"Maharashtra",1980,230,"AHMEDNAGAR NORTH","GEN",130906
+"Maharashtra",1980,231,"PATHARDI","GEN",121587
+"Maharashtra",1980,232,"SHEOGAON","GEN",109794
+"Maharashtra",1980,233,"SHRIRAMPUR","GEN",102542
+"Maharashtra",1980,234,"SHIRDI","GEN",99571
+"Maharashtra",1980,235,"KOPARGAON","GEN",103489
+"Maharashtra",1980,236,"RAHURI","GEN",104209
+"Maharashtra",1980,237,"PARNER","GEN",96180
+"Maharashtra",1980,238,"SANGAMNER","GEN",117986
+"Maharashtra",1980,239,"NAGAR-AKOLA","ST",125218
+"Maharashtra",1980,240,"JUNNAR","GEN",111887
+"Maharashtra",1980,241,"AMBEGAON","GEN",94058
+"Maharashtra",1980,242,"KHED-ALANDI","GEN",124031
+"Maharashtra",1980,243,"MAVAL","GEN",113057
+"Maharashtra",1980,244,"MULSHI","GEN",115816
+"Maharashtra",1980,245,"HAVELI","GEN",177098
+"Maharashtra",1980,246,"BOPODI","GEN",98711
+"Maharashtra",1980,247,"SHIVAJINAGAR","GEN",145823
+"Maharashtra",1980,248,"PARVATI","SC",145707
+"Maharashtra",1980,249,"KASBA PETH","GEN",121622
+"Maharashtra",1980,250,"BHAVANI PETH","GEN",122541
+"Maharashtra",1980,251,"PUNE CANTONMENT","GEN",124345
+"Maharashtra",1980,252,"SHIRUR","GEN",98685
+"Maharashtra",1980,253,"DAUND","GEN",133720
+"Maharashtra",1980,254,"INDAPUR","GEN",120248
+"Maharashtra",1980,255,"BARAMATI","GEN",118074
+"Maharashtra",1980,256,"PURANDHAR","GEN",125669
+"Maharashtra",1980,257,"BHOR","GEN",97854
+"Maharashtra",1980,258,"PHALTAN","GEN",109835
+"Maharashtra",1980,259,"MAN","SC",119050
+"Maharashtra",1980,260,"KHATAV","GEN",107553
+"Maharashtra",1980,261,"KOREGAON","GEN",109324
+"Maharashtra",1980,262,"WAI","GEN",99996
+"Maharashtra",1980,263,"JAOLI","GEN",114325
+"Maharashtra",1980,264,"SATARA","GEN",116574
+"Maharashtra",1980,265,"PATAN","GEN",113481
+"Maharashtra",1980,266,"KARAD NORTH","GEN",117205
+"Maharashtra",1980,267,"KARAD SOUTH","GEN",118310
+"Maharashtra",1980,268,"SHIRALA","GEN",119126
+"Maharashtra",1980,269,"WALVA","GEN",122618
+"Maharashtra",1980,270,"BHILWADI WANGI","GEN",116768
+"Maharashtra",1980,271,"SANGLI","GEN",110683
+"Maharashtra",1980,272,"MIRAJ","GEN",105408
+"Maharashtra",1980,273,"TASGAON","GEN",106959
+"Maharashtra",1980,274,"KHANAPUR ATPADI","GEN",121549
+"Maharashtra",1980,275,"KAVATHE MAHANKAL","GEN",112411
+"Maharashtra",1980,276,"JAT","SC",113224
+"Maharashtra",1980,277,"SHIROL","GEN",120253
+"Maharashtra",1980,278,"ICHALKARANJI","GEN",131983
+"Maharashtra",1980,279,"VADGAON","SC",115380
+"Maharashtra",1980,280,"SHAHUWADI","GEN",107988
+"Maharashtra",1980,281,"PANHALA","GEN",96650
+"Maharashtra",1980,282,"SANGRUL","GEN",104359
+"Maharashtra",1980,283,"RADHANAGARI","GEN",116990
+"Maharashtra",1980,284,"KOLHAPUR","GEN",113815
+"Maharashtra",1980,285,"KARVIR","GEN",122318
+"Maharashtra",1980,286,"KAGAL","GEN",101477
+"Maharashtra",1980,287,"GADHINGLAJ","GEN",105253
+"Maharashtra",1980,288,"CHANDGAD","GEN",107851
+"Maharashtra",1985,1,"SAWANTWADI","GEN",111887
+"Maharashtra",1985,2,"VENGURLA","GEN",104559
+"Maharashtra",1985,3,"MALVAN","GEN",100743
+"Maharashtra",1985,4,"DEVGAD","GEN",90991
+"Maharashtra",1985,5,"RAJAPUR","GEN",109001
+"Maharashtra",1985,6,"RATNAGIRI","GEN",120511
+"Maharashtra",1985,7,"SANGAMESHWAR","GEN",110413
+"Maharashtra",1985,8,"GUHAGAR","GEN",111481
+"Maharashtra",1985,9,"CHIPLUN","GEN",95189
+"Maharashtra",1985,10,"KHED","GEN",102020
+"Maharashtra",1985,11,"DAPOLI","GEN",112398
+"Maharashtra",1985,12,"MAHAD","GEN",107736
+"Maharashtra",1985,13,"SHRIWARDHAN","GEN",123887
+"Maharashtra",1985,14,"MANGAON","GEN",116674
+"Maharashtra",1985,15,"PEN","GEN",121728
+"Maharashtra",1985,16,"ALIBAG","GEN",124173
+"Maharashtra",1985,17,"PANVEL","GEN",129195
+"Maharashtra",1985,18,"KHALAPUR","GEN",132920
+"Maharashtra",1985,19,"COLABA","GEN",105561
+"Maharashtra",1985,20,"UMARKHADI","GEN",118925
+"Maharashtra",1985,21,"MUMBADEVI","GEN",108136
+"Maharashtra",1985,22,"KHETWADI","GEN",107166
+"Maharashtra",1985,23,"OPERA HOUSE","GEN",103368
+"Maharashtra",1985,24,"MALBAR HILL","GEN",143299
+"Maharashtra",1985,25,"CHINCHPOKLI","GEN",108694
+"Maharashtra",1985,26,"NAGPADA","GEN",98237
+"Maharashtra",1985,27,"MAZGAON","GEN",115965
+"Maharashtra",1985,28,"PAREL","GEN",131648
+"Maharashtra",1985,29,"SHIVADI","GEN",135039
+"Maharashtra",1985,30,"WORLI","GEN",101469
+"Maharashtra",1985,31,"NAIGAUM","GEN",125128
+"Maharashtra",1985,32,"DADAR","GEN",120040
+"Maharashtra",1985,33,"MATUNGA","GEN",152674
+"Maharashtra",1985,34,"MAHIM","GEN",122070
+"Maharashtra",1985,35,"DHARAVI","SC",175252
+"Maharashtra",1985,36,"VANDRE","GEN",130213
+"Maharashtra",1985,37,"KHERWADI","GEN",134397
+"Maharashtra",1985,38,"VILEPARLE","GEN",148272
+"Maharashtra",1985,39,"AMBOLI","GEN",192957
+"Maharashtra",1985,40,"SANTACRUZ","GEN",161009
+"Maharashtra",1985,41,"ANDHERI","GEN",194623
+"Maharashtra",1985,42,"GOREGAON","GEN",149661
+"Maharashtra",1985,43,"MALAD","GEN",233550
+"Maharashtra",1985,44,"KANDIVALI","GEN",186764
+"Maharashtra",1985,45,"BORIVALI","GEN",242930
+"Maharashtra",1985,46,"TROMBAY","GEN",219321
+"Maharashtra",1985,47,"CHEMBUR","GEN",158373
+"Maharashtra",1985,48,"NEHRUNAGAR","GEN",140293
+"Maharashtra",1985,49,"KURLA","GEN",231486
+"Maharashtra",1985,50,"GHATKOPAR","GEN",164762
+"Maharashtra",1985,51,"BHANDUP","GEN",201059
+"Maharashtra",1985,52,"MULUND","GEN",199113
+"Maharashtra",1985,53,"THANE","GEN",206981
+"Maharashtra",1985,54,"BELAPUR","GEN",247235
+"Maharashtra",1985,55,"ULHASNAGAR","GEN",158311
+"Maharashtra",1985,56,"AMBERNATH","GEN",191550
+"Maharashtra",1985,57,"KALYAN","GEN",213939
+"Maharashtra",1985,58,"MURBAD","GEN",116880
+"Maharashtra",1985,59,"WADA","ST",139033
+"Maharashtra",1985,60,"BHIWANDI","GEN",191938
+"Maharashtra",1985,61,"VASAI","GEN",158461
+"Maharashtra",1985,62,"PALGHAR","ST",124493
+"Maharashtra",1985,63,"DAHANU","ST",130366
+"Maharashtra",1985,64,"JAWHAR","ST",128623
+"Maharashtra",1985,65,"SHAHAPUR","ST",106200
+"Maharashtra",1985,66,"IGATPURI","ST",117561
+"Maharashtra",1985,67,"NASHIK","GEN",171195
+"Maharashtra",1985,68,"DEOLALI","SC",143560
+"Maharashtra",1985,69,"SINNAR","GEN",114987
+"Maharashtra",1985,70,"NIPHAD","GEN",123655
+"Maharashtra",1985,71,"YEVLA","GEN",126214
+"Maharashtra",1985,72,"NANDGAON","GEN",127700
+"Maharashtra",1985,73,"MALEGAON","GEN",148485
+"Maharashtra",1985,74,"DABHADI","GEN",117155
+"Maharashtra",1985,75,"CHANDWAD","GEN",113289
+"Maharashtra",1985,76,"DINDORI","ST",120242
+"Maharashtra",1985,77,"SURGANA","ST",107865
+"Maharashtra",1985,78,"KALVAN","ST",113176
+"Maharashtra",1985,79,"BAGLAN","ST",115816
+"Maharashtra",1985,80,"SAKRI","ST",131239
+"Maharashtra",1985,81,"NAWAPUR","ST",131337
+"Maharashtra",1985,82,"NANDURBAR","ST",131505
+"Maharashtra",1985,83,"TALODE","ST",99693
+"Maharashtra",1985,84,"AKRANI","ST",96611
+"Maharashtra",1985,85,"SHAHADE","GEN",125673
+"Maharashtra",1985,86,"SHIRPUR","GEN",121492
+"Maharashtra",1985,87,"SINDKHEDA","GEN",112255
+"Maharashtra",1985,88,"KUSUMBA","GEN",121664
+"Maharashtra",1985,89,"DHULE","GEN",129970
+"Maharashtra",1985,90,"CHALISGAON","SC",138756
+"Maharashtra",1985,91,"PAROLA","GEN",141430
+"Maharashtra",1985,92,"AMALNER","GEN",135879
+"Maharashtra",1985,93,"CHOPDA","GEN",110899
+"Maharashtra",1985,94,"ERANDOL","GEN",129882
+"Maharashtra",1985,95,"JALGAON","GEN",149963
+"Maharashtra",1985,96,"PACHORA","GEN",133222
+"Maharashtra",1985,97,"JAMNER","GEN",119226
+"Maharashtra",1985,98,"BHUSAWAL","GEN",147493
+"Maharashtra",1985,99,"YAVAL","GEN",112075
+"Maharashtra",1985,100,"RAVER","GEN",118479
+"Maharashtra",1985,101,"EDLABAD","GEN",125541
+"Maharashtra",1985,102,"MALKAPUR","GEN",115795
+"Maharashtra",1985,103,"BULDHANA","GEN",132984
+"Maharashtra",1985,104,"CHIKHLI","GEN",133414
+"Maharashtra",1985,105,"SINDKHEDRAJA","GEN",129046
+"Maharashtra",1985,106,"MEHKAR","GEN",121970
+"Maharashtra",1985,107,"KHAMGAON","GEN",137975
+"Maharashtra",1985,108,"JALAMB","GEN",120540
+"Maharashtra",1985,109,"AKOT","GEN",111625
+"Maharashtra",1985,110,"BORGAON MANJU","GEN",133902
+"Maharashtra",1985,111,"AKOLA","GEN",128479
+"Maharashtra",1985,112,"BALAPUR","GEN",120354
+"Maharashtra",1985,113,"MEDSHI","GEN",108053
+"Maharashtra",1985,114,"WASHIM","SC",111097
+"Maharashtra",1985,115,"MANGRULPIR","GEN",119571
+"Maharashtra",1985,116,"MURTAJAPUR","GEN",115180
+"Maharashtra",1985,117,"KARANJA","GEN",104182
+"Maharashtra",1985,118,"DARYAPUR","GEN",109792
+"Maharashtra",1985,119,"MELGHAT","ST",118748
+"Maharashtra",1985,120,"ACHALPUR","GEN",123614
+"Maharashtra",1985,121,"MORSHI","GEN",108999
+"Maharashtra",1985,122,"TEOSA","GEN",104661
+"Maharashtra",1985,123,"WALGAON","GEN",106866
+"Maharashtra",1985,124,"AMRAVATI","GEN",136241
+"Maharashtra",1985,125,"BADNERA","GEN",115043
+"Maharashtra",1985,126,"CHANDUR","GEN",104217
+"Maharashtra",1985,127,"ARVI","GEN",132087
+"Maharashtra",1985,128,"PULGAON","GEN",124074
+"Maharashtra",1985,129,"WARDHA","GEN",132733
+"Maharashtra",1985,130,"HINGANGHAT","GEN",145113
+"Maharashtra",1985,131,"UMRED","GEN",125769
+"Maharashtra",1985,132,"KAMPTEE","GEN",129911
+"Maharashtra",1985,133,"NAGPUR NORTH","SC",147342
+"Maharashtra",1985,134,"NAGPUR EAST","GEN",190889
+"Maharashtra",1985,135,"NAGPUR SOUTH","GEN",133112
+"Maharashtra",1985,136,"NAGPUR CENTRAL","GEN",117474
+"Maharashtra",1985,137,"NAGPUR WEST","GEN",182226
+"Maharashtra",1985,138,"KALMESHWAR","GEN",118629
+"Maharashtra",1985,139,"KATOL","GEN",107106
+"Maharashtra",1985,140,"SAVNER","GEN",118229
+"Maharashtra",1985,141,"RAMTEK","GEN",135771
+"Maharashtra",1985,142,"TUMSAR","GEN",113041
+"Maharashtra",1985,143,"BHANDARA","GEN",111913
+"Maharashtra",1985,144,"ADYAR","GEN",117155
+"Maharashtra",1985,145,"TIRORA","SC",121152
+"Maharashtra",1985,146,"GONDIA","GEN",121808
+"Maharashtra",1985,147,"GOREGAON","GEN",114378
+"Maharashtra",1985,148,"AMGAON","GEN",132543
+"Maharashtra",1985,149,"SAKOLI","GEN",121033
+"Maharashtra",1985,150,"LAKHANDUR","GEN",131221
+"Maharashtra",1985,151,"ARMORI","ST",120647
+"Maharashtra",1985,152,"GADCHIROLI","ST",118751
+"Maharashtra",1985,153,"SIRONCHA","ST",110519
+"Maharashtra",1985,154,"RAJURA","GEN",133453
+"Maharashtra",1985,155,"CHANDRAPUR","GEN",157989
+"Maharashtra",1985,156,"SAOLI","GEN",126851
+"Maharashtra",1985,157,"BRAHMAPURI","GEN",134729
+"Maharashtra",1985,158,"CHIMUR","GEN",135351
+"Maharashtra",1985,159,"BHADRAWATI","GEN",132190
+"Maharashtra",1985,160,"WANI","GEN",116421
+"Maharashtra",1985,161,"RALEGAON","ST",124096
+"Maharashtra",1985,162,"KELAPUR","ST",108130
+"Maharashtra",1985,163,"YAVATMAL","GEN",124148
+"Maharashtra",1985,164,"DARWHA","GEN",114753
+"Maharashtra",1985,165,"DIGRAS","GEN",126884
+"Maharashtra",1985,166,"PUSAD","GEN",126888
+"Maharashtra",1985,167,"UMARKHED","GEN",123295
+"Maharashtra",1985,168,"KINWAT","GEN",108071
+"Maharashtra",1985,169,"HADGAON","GEN",131159
+"Maharashtra",1985,170,"NANDED","GEN",160236
+"Maharashtra",1985,171,"MUDKHED","GEN",127395
+"Maharashtra",1985,172,"BHOKAR","GEN",114609
+"Maharashtra",1985,173,"BILOLI","GEN",149085
+"Maharashtra",1985,174,"MUKHED","SC",140110
+"Maharashtra",1985,175,"KANDHAR","GEN",136855
+"Maharashtra",1985,176,"GANGAKHED","SC",116876
+"Maharashtra",1985,177,"SINGNAPUR","GEN",114615
+"Maharashtra",1985,178,"PARBHANI","GEN",138211
+"Maharashtra",1985,179,"BASMATH","GEN",129868
+"Maharashtra",1985,180,"KALAMNURI","GEN",129842
+"Maharashtra",1985,181,"HINGOLI","GEN",134968
+"Maharashtra",1985,182,"JINTUR","GEN",122865
+"Maharashtra",1985,183,"PATHRI","GEN",109112
+"Maharashtra",1985,184,"PARTUR","GEN",123262
+"Maharashtra",1985,185,"AMBAD","GEN",131872
+"Maharashtra",1985,186,"JALNA","GEN",141179
+"Maharashtra",1985,187,"BADNAPUR","GEN",132578
+"Maharashtra",1985,188,"BHOKARDAN","GEN",136674
+"Maharashtra",1985,189,"SILLOD","GEN",117274
+"Maharashtra",1985,190,"KANNAD","GEN",137661
+"Maharashtra",1985,191,"VAIJAPUR","GEN",118109
+"Maharashtra",1985,192,"GANGAPUR","GEN",148184
+"Maharashtra",1985,193,"AURANGABAD WEST","GEN",212111
+"Maharashtra",1985,194,"AURANGABAD EAST","GEN",153638
+"Maharashtra",1985,195,"PAITHAN","GEN",121474
+"Maharashtra",1985,196,"GEORAI","GEN",131841
+"Maharashtra",1985,197,"MANJLEGAON","GEN",154364
+"Maharashtra",1985,198,"BEED","GEN",147984
+"Maharashtra",1985,199,"ASHTI","GEN",153182
+"Maharashtra",1985,200,"CHAUSALA","GEN",148416
+"Maharashtra",1985,201,"KAIJ","SC",146920
+"Maharashtra",1985,202,"RENAPUR","GEN",143784
+"Maharashtra",1985,203,"AHMEDPUR","GEN",125113
+"Maharashtra",1985,204,"UDGIR","GEN",133267
+"Maharashtra",1985,205,"HER","SC",108561
+"Maharashtra",1985,206,"LATUR","GEN",170532
+"Maharashtra",1985,207,"KALAMB","SC",120515
+"Maharashtra",1985,208,"PARANDA","GEN",130313
+"Maharashtra",1985,209,"OSMANABAD","GEN",127116
+"Maharashtra",1985,210,"AUSA","GEN",110165
+"Maharashtra",1985,211,"NILANGA","GEN",132608
+"Maharashtra",1985,212,"OMERGA","GEN",126655
+"Maharashtra",1985,213,"TULJAPUR","GEN",106387
+"Maharashtra",1985,214,"AKKALKOT","GEN",108952
+"Maharashtra",1985,215,"SOUTH SOLAPUR","GEN",108374
+"Maharashtra",1985,216,"SOLAPUR CITY SOUTH","GEN",117042
+"Maharashtra",1985,217,"SOLAPUR CITY NORTH","GEN",102317
+"Maharashtra",1985,218,"NORTH SOLAPUR","SC",134335
+"Maharashtra",1985,219,"MANGALVEDHE","SC",117358
+"Maharashtra",1985,220,"MOHOL","GEN",116076
+"Maharashtra",1985,221,"BARSHI","GEN",114634
+"Maharashtra",1985,222,"MADHA","GEN",129719
+"Maharashtra",1985,223,"PANDHARPUR","GEN",144425
+"Maharashtra",1985,224,"SANGOLE","GEN",147009
+"Maharashtra",1985,225,"MALSHIRAS","GEN",145948
+"Maharashtra",1985,226,"KARMALA","GEN",101450
+"Maharashtra",1985,227,"KARJAT","SC",124835
+"Maharashtra",1985,228,"SHRIGONDA","GEN",141787
+"Maharashtra",1985,229,"AHMEDNAGAR SOUTH","GEN",131746
+"Maharashtra",1985,230,"AHMEDNAGAR NORTH","GEN",147507
+"Maharashtra",1985,231,"PATHARDI","GEN",134432
+"Maharashtra",1985,232,"SHEOGAON","GEN",122265
+"Maharashtra",1985,233,"SHRIRAMPUR","GEN",111461
+"Maharashtra",1985,234,"SHIRDI","GEN",111025
+"Maharashtra",1985,235,"KOPARGAON","GEN",115838
+"Maharashtra",1985,236,"RAHURI","GEN",118013
+"Maharashtra",1985,237,"PARNER","GEN",107557
+"Maharashtra",1985,238,"SANGAMNER","GEN",129034
+"Maharashtra",1985,239,"NAGAR-AKOLA","ST",134501
+"Maharashtra",1985,240,"JUNNAR","GEN",120323
+"Maharashtra",1985,241,"AMBEGAON","GEN",100582
+"Maharashtra",1985,242,"KHED-ALANDI","GEN",132397
+"Maharashtra",1985,243,"MAVAL","GEN",126269
+"Maharashtra",1985,244,"MULSHI","GEN",133354
+"Maharashtra",1985,245,"HAVELI","GEN",238620
+"Maharashtra",1985,246,"BOPODI","GEN",111084
+"Maharashtra",1985,247,"SHIVAJINAGAR","GEN",171982
+"Maharashtra",1985,248,"PARVATI","SC",171854
+"Maharashtra",1985,249,"KASBA PETH","GEN",117957
+"Maharashtra",1985,250,"BHAVANI PETH","GEN",127317
+"Maharashtra",1985,251,"PUNE CANTONMENT","GEN",146417
+"Maharashtra",1985,252,"SHIRUR","GEN",112473
+"Maharashtra",1985,253,"DAUND","GEN",146345
+"Maharashtra",1985,254,"INDAPUR","GEN",136237
+"Maharashtra",1985,255,"BARAMATI","GEN",125809
+"Maharashtra",1985,256,"PURANDHAR","GEN",138397
+"Maharashtra",1985,257,"BHOR","GEN",109831
+"Maharashtra",1985,258,"PHALTAN","GEN",125189
+"Maharashtra",1985,259,"MAN","SC",132825
+"Maharashtra",1985,260,"KHATAV","GEN",119777
+"Maharashtra",1985,261,"KOREGAON","GEN",116363
+"Maharashtra",1985,262,"WAI","GEN",108686
+"Maharashtra",1985,263,"JAOLI","GEN",120522
+"Maharashtra",1985,264,"SATARA","GEN",126459
+"Maharashtra",1985,265,"PATAN","GEN",118447
+"Maharashtra",1985,266,"KARAD NORTH","GEN",130004
+"Maharashtra",1985,267,"KARAD SOUTH","GEN",134991
+"Maharashtra",1985,268,"SHIRALA","GEN",130574
+"Maharashtra",1985,269,"WALVA","GEN",136125
+"Maharashtra",1985,270,"BHILWADI WANGI","GEN",129370
+"Maharashtra",1985,271,"SANGLI","GEN",120860
+"Maharashtra",1985,272,"MIRAJ","GEN",119283
+"Maharashtra",1985,273,"TASGAON","GEN",114594
+"Maharashtra",1985,274,"KHANAPUR ATPADI","GEN",134426
+"Maharashtra",1985,275,"KAVATHE MAHANKAL","GEN",120400
+"Maharashtra",1985,276,"JAT","SC",125278
+"Maharashtra",1985,277,"SHIROL","GEN",135891
+"Maharashtra",1985,278,"ICHALKARANJI","GEN",156668
+"Maharashtra",1985,279,"VADGAON","SC",128687
+"Maharashtra",1985,280,"SHAHUWADI","GEN",116200
+"Maharashtra",1985,281,"PANHALA","GEN",108522
+"Maharashtra",1985,282,"SANGRUL","GEN",115854
+"Maharashtra",1985,283,"RADHANAGARI","GEN",128305
+"Maharashtra",1985,284,"KOLHAPUR","GEN",141623
+"Maharashtra",1985,285,"KARVIR","GEN",141217
+"Maharashtra",1985,286,"KAGAL","GEN",110988
+"Maharashtra",1985,287,"GADHINGLAJ","GEN",116057
+"Maharashtra",1985,288,"CHANDGAD","GEN",118630
+"Maharashtra",1990,1,"SAWANTWADI","GEN",136617
+"Maharashtra",1990,2,"VENGURLA","GEN",124961
+"Maharashtra",1990,3,"MALVAN","GEN",120737
+"Maharashtra",1990,4,"DEVGAD","GEN",112431
+"Maharashtra",1990,5,"RAJAPUR","GEN",129350
+"Maharashtra",1990,6,"RATNAGIRI","GEN",153786
+"Maharashtra",1990,7,"SANGAMESHWAR","GEN",129871
+"Maharashtra",1990,8,"GUHAGAR","GEN",132200
+"Maharashtra",1990,9,"CHIPLUN","GEN",124387
+"Maharashtra",1990,10,"KHED","GEN",125731
+"Maharashtra",1990,11,"DAPOLI","GEN",132008
+"Maharashtra",1990,12,"MAHAD","GEN",130027
+"Maharashtra",1990,13,"SHRIWARDHAN","GEN",149774
+"Maharashtra",1990,14,"MANGAON","GEN",146455
+"Maharashtra",1990,15,"PEN","GEN",154851
+"Maharashtra",1990,16,"ALIBAG","GEN",162875
+"Maharashtra",1990,17,"PANVEL","GEN",187606
+"Maharashtra",1990,18,"KHALAPUR","GEN",177999
+"Maharashtra",1990,19,"COLABA","GEN",119822
+"Maharashtra",1990,20,"UMARKHADI","GEN",127319
+"Maharashtra",1990,21,"MUMBADEVI","GEN",115358
+"Maharashtra",1990,22,"KHETWADI","GEN",121687
+"Maharashtra",1990,23,"OPERA HOUSE","GEN",103343
+"Maharashtra",1990,24,"MALBAR HILL","GEN",160667
+"Maharashtra",1990,25,"CHINCHPOKLI","GEN",126711
+"Maharashtra",1990,26,"NAGPADA","GEN",125666
+"Maharashtra",1990,27,"MAZGAON","GEN",128448
+"Maharashtra",1990,28,"PAREL","GEN",145071
+"Maharashtra",1990,29,"SHIVADI","GEN",159133
+"Maharashtra",1990,30,"WORLI","GEN",128864
+"Maharashtra",1990,31,"NAIGAUM","GEN",144054
+"Maharashtra",1990,32,"DADAR","GEN",137234
+"Maharashtra",1990,33,"MATUNGA","GEN",101831
+"Maharashtra",1990,34,"MAHIM","GEN",147848
+"Maharashtra",1990,35,"DHARAVI","SC",235310
+"Maharashtra",1990,36,"VANDRE","GEN",157654
+"Maharashtra",1990,37,"KHERWADI","GEN",164529
+"Maharashtra",1990,38,"VILEPARLE","GEN",189932
+"Maharashtra",1990,39,"AMBOLI","GEN",260579
+"Maharashtra",1990,40,"SANTACRUZ","GEN",210841
+"Maharashtra",1990,41,"ANDHERI","GEN",261697
+"Maharashtra",1990,42,"GOREGAON","GEN",208288
+"Maharashtra",1990,43,"MALAD","GEN",345892
+"Maharashtra",1990,44,"KANDIVALI","GEN",275220
+"Maharashtra",1990,45,"BORIVALI","GEN",346721
+"Maharashtra",1990,46,"TROMBAY","GEN",310200
+"Maharashtra",1990,47,"CHEMBUR","GEN",190898
+"Maharashtra",1990,48,"NEHRUNAGAR","GEN",175315
+"Maharashtra",1990,49,"KURLA","GEN",300263
+"Maharashtra",1990,50,"GHATKOPAR","GEN",192467
+"Maharashtra",1990,51,"BHANDUP","GEN",264268
+"Maharashtra",1990,52,"MULUND","GEN",255576
+"Maharashtra",1990,53,"THANE","GEN",298386
+"Maharashtra",1990,54,"BELAPUR","GEN",461843
+"Maharashtra",1990,55,"ULHASNAGAR","GEN",219079
+"Maharashtra",1990,56,"AMBERNATH","GEN",280233
+"Maharashtra",1990,57,"KALYAN","GEN",335103
+"Maharashtra",1990,58,"MURBAD","GEN",142875
+"Maharashtra",1990,59,"WADA","ST",185777
+"Maharashtra",1990,60,"BHIWANDI","GEN",305259
+"Maharashtra",1990,61,"VASAI","GEN",245147
+"Maharashtra",1990,62,"PALGHAR","ST",160698
+"Maharashtra",1990,63,"DAHANU","ST",163412
+"Maharashtra",1990,64,"JAWHAR","ST",158532
+"Maharashtra",1990,65,"SHAHAPUR","ST",128336
+"Maharashtra",1990,66,"IGATPURI","ST",146140
+"Maharashtra",1990,67,"NASHIK","GEN",248682
+"Maharashtra",1990,68,"DEOLALI","SC",197710
+"Maharashtra",1990,69,"SINNAR","GEN",143355
+"Maharashtra",1990,70,"NIPHAD","GEN",162042
+"Maharashtra",1990,71,"YEVLA","GEN",157561
+"Maharashtra",1990,72,"NANDGAON","GEN",165505
+"Maharashtra",1990,73,"MALEGAON","GEN",189984
+"Maharashtra",1990,74,"DABHADI","GEN",145006
+"Maharashtra",1990,75,"CHANDWAD","GEN",137362
+"Maharashtra",1990,76,"DINDORI","ST",150695
+"Maharashtra",1990,77,"SURGANA","ST",135219
+"Maharashtra",1990,78,"KALVAN","ST",142141
+"Maharashtra",1990,79,"BAGLAN","ST",143916
+"Maharashtra",1990,80,"SAKRI","ST",162995
+"Maharashtra",1990,81,"NAWAPUR","ST",164348
+"Maharashtra",1990,82,"NANDURBAR","ST",162486
+"Maharashtra",1990,83,"TALODE","ST",129183
+"Maharashtra",1990,84,"AKRANI","ST",125556
+"Maharashtra",1990,85,"SHAHADE","GEN",159710
+"Maharashtra",1990,86,"SHIRPUR","GEN",156547
+"Maharashtra",1990,87,"SINDKHEDA","GEN",128555
+"Maharashtra",1990,88,"KUSUMBA","GEN",145991
+"Maharashtra",1990,89,"DHULE","GEN",179824
+"Maharashtra",1990,90,"CHALISGAON","SC",175940
+"Maharashtra",1990,91,"PAROLA","GEN",173025
+"Maharashtra",1990,92,"AMALNER","GEN",161625
+"Maharashtra",1990,93,"CHOPDA","GEN",137041
+"Maharashtra",1990,94,"ERANDOL","GEN",157865
+"Maharashtra",1990,95,"JALGAON","GEN",203424
+"Maharashtra",1990,96,"PACHORA","GEN",165306
+"Maharashtra",1990,97,"JAMNER","GEN",146910
+"Maharashtra",1990,98,"BHUSAWAL","GEN",194842
+"Maharashtra",1990,99,"YAVAL","GEN",138045
+"Maharashtra",1990,100,"RAVER","GEN",147977
+"Maharashtra",1990,101,"EDLABAD","GEN",151903
+"Maharashtra",1990,102,"MALKAPUR","GEN",141866
+"Maharashtra",1990,103,"BULDHANA","GEN",164325
+"Maharashtra",1990,104,"CHIKHLI","GEN",160734
+"Maharashtra",1990,105,"SINDKHEDRAJA","GEN",155387
+"Maharashtra",1990,106,"MEHKAR","GEN",151345
+"Maharashtra",1990,107,"KHAMGAON","GEN",170354
+"Maharashtra",1990,108,"JALAMB","GEN",144285
+"Maharashtra",1990,109,"AKOT","GEN",141642
+"Maharashtra",1990,110,"BORGAON MANJU","GEN",173034
+"Maharashtra",1990,111,"AKOLA","GEN",173196
+"Maharashtra",1990,112,"BALAPUR","GEN",146661
+"Maharashtra",1990,113,"MEDSHI","GEN",130285
+"Maharashtra",1990,114,"WASHIM","SC",141183
+"Maharashtra",1990,115,"MANGRULPIR","GEN",144972
+"Maharashtra",1990,116,"MURTAJAPUR","GEN",142784
+"Maharashtra",1990,117,"KARANJA","GEN",133071
+"Maharashtra",1990,118,"DARYAPUR","GEN",140314
+"Maharashtra",1990,119,"MELGHAT","ST",158497
+"Maharashtra",1990,120,"ACHALPUR","GEN",159593
+"Maharashtra",1990,121,"MORSHI","GEN",137403
+"Maharashtra",1990,122,"TEOSA","GEN",131719
+"Maharashtra",1990,123,"WALGAON","GEN",134172
+"Maharashtra",1990,124,"AMRAVATI","GEN",191641
+"Maharashtra",1990,125,"BADNERA","GEN",154064
+"Maharashtra",1990,126,"CHANDUR","GEN",132293
+"Maharashtra",1990,127,"ARVI","GEN",161496
+"Maharashtra",1990,128,"PULGAON","GEN",152897
+"Maharashtra",1990,129,"WARDHA","GEN",175162
+"Maharashtra",1990,130,"HINGANGHAT","GEN",176841
+"Maharashtra",1990,131,"UMRED","GEN",155082
+"Maharashtra",1990,132,"KAMPTEE","GEN",170137
+"Maharashtra",1990,133,"NAGPUR NORTH","SC",203556
+"Maharashtra",1990,134,"NAGPUR EAST","GEN",265998
+"Maharashtra",1990,135,"NAGPUR SOUTH","GEN",175329
+"Maharashtra",1990,136,"NAGPUR CENTRAL","GEN",134997
+"Maharashtra",1990,137,"NAGPUR WEST","GEN",280692
+"Maharashtra",1990,138,"KALMESHWAR","GEN",158481
+"Maharashtra",1990,139,"KATOL","GEN",133320
+"Maharashtra",1990,140,"SAVNER","GEN",154605
+"Maharashtra",1990,141,"RAMTEK","GEN",171537
+"Maharashtra",1990,142,"TUMSAR","GEN",136109
+"Maharashtra",1990,143,"BHANDARA","GEN",141966
+"Maharashtra",1990,144,"ADYAR","GEN",144594
+"Maharashtra",1990,145,"TIRORA","SC",141421
+"Maharashtra",1990,146,"GONDIA","GEN",149886
+"Maharashtra",1990,147,"GOREGAON","GEN",135456
+"Maharashtra",1990,148,"AMGAON","GEN",162050
+"Maharashtra",1990,149,"SAKOLI","GEN",145680
+"Maharashtra",1990,150,"LAKHANDUR","GEN",159884
+"Maharashtra",1990,151,"ARMORI","ST",149510
+"Maharashtra",1990,152,"GADCHIROLI","ST",150183
+"Maharashtra",1990,153,"SIRONCHA","ST",140605
+"Maharashtra",1990,154,"RAJURA","GEN",173591
+"Maharashtra",1990,155,"CHANDRAPUR","GEN",225110
+"Maharashtra",1990,156,"SAOLI","GEN",261379
+"Maharashtra",1990,157,"BRAHMAPURI","GEN",161384
+"Maharashtra",1990,158,"CHIMUR","GEN",161106
+"Maharashtra",1990,159,"BHADRAWATI","GEN",163000
+"Maharashtra",1990,160,"WANI","GEN",146308
+"Maharashtra",1990,161,"RALEGAON","ST",152312
+"Maharashtra",1990,162,"KELAPUR","ST",137542
+"Maharashtra",1990,163,"YAVATMAL","GEN",161350
+"Maharashtra",1990,164,"DARWHA","GEN",141013
+"Maharashtra",1990,165,"DIGRAS","GEN",156586
+"Maharashtra",1990,166,"PUSAD","GEN",157156
+"Maharashtra",1990,167,"UMARKHED","GEN",151310
+"Maharashtra",1990,168,"KINWAT","GEN",137421
+"Maharashtra",1990,169,"HADGAON","GEN",152881
+"Maharashtra",1990,170,"NANDED","GEN",227806
+"Maharashtra",1990,171,"MUDKHED","GEN",161332
+"Maharashtra",1990,172,"BHOKAR","GEN",148536
+"Maharashtra",1990,173,"BILOLI","GEN",194216
+"Maharashtra",1990,174,"MUKHED","SC",174479
+"Maharashtra",1990,175,"KANDHAR","GEN",173390
+"Maharashtra",1990,176,"GANGAKHED","SC",149891
+"Maharashtra",1990,177,"SINGNAPUR","GEN",144570
+"Maharashtra",1990,178,"PARBHANI","GEN",207764
+"Maharashtra",1990,179,"BASMATH","GEN",168635
+"Maharashtra",1990,180,"KALAMNURI","GEN",165317
+"Maharashtra",1990,181,"HINGOLI","GEN",168479
+"Maharashtra",1990,182,"JINTUR","GEN",157942
+"Maharashtra",1990,183,"PATHRI","GEN",142969
+"Maharashtra",1990,184,"PARTUR","GEN",155184
+"Maharashtra",1990,185,"AMBAD","GEN",164058
+"Maharashtra",1990,186,"JALNA","GEN",198397
+"Maharashtra",1990,187,"BADNAPUR","GEN",165913
+"Maharashtra",1990,188,"BHOKARDAN","GEN",173618
+"Maharashtra",1990,189,"SILLOD","GEN",148335
+"Maharashtra",1990,190,"KANNAD","GEN",174538
+"Maharashtra",1990,191,"VAIJAPUR","GEN",142627
+"Maharashtra",1990,192,"GANGAPUR","GEN",188217
+"Maharashtra",1990,193,"AURANGABAD WEST","GEN",344032
+"Maharashtra",1990,194,"AURANGABAD EAST","GEN",199950
+"Maharashtra",1990,195,"PAITHAN","GEN",154537
+"Maharashtra",1990,196,"GEORAI","GEN",163575
+"Maharashtra",1990,197,"MANJLEGAON","GEN",195435
+"Maharashtra",1990,198,"BEED","GEN",191093
+"Maharashtra",1990,199,"ASHTI","GEN",183822
+"Maharashtra",1990,200,"CHAUSALA","GEN",179762
+"Maharashtra",1990,201,"KAIJ","SC",193153
+"Maharashtra",1990,202,"RENAPUR","GEN",191902
+"Maharashtra",1990,203,"AHMEDPUR","GEN",150297
+"Maharashtra",1990,204,"UDGIR","GEN",171999
+"Maharashtra",1990,205,"HER","SC",133816
+"Maharashtra",1990,206,"LATUR","GEN",221332
+"Maharashtra",1990,207,"KALAMB","SC",150651
+"Maharashtra",1990,208,"PARANDA","GEN",162411
+"Maharashtra",1990,209,"OSMANABAD","GEN",165957
+"Maharashtra",1990,210,"AUSA","GEN",135810
+"Maharashtra",1990,211,"NILANGA","GEN",166678
+"Maharashtra",1990,212,"OMERGA","GEN",160956
+"Maharashtra",1990,213,"TULJAPUR","GEN",134458
+"Maharashtra",1990,214,"AKKALKOT","GEN",135664
+"Maharashtra",1990,215,"SOUTH SOLAPUR","GEN",135481
+"Maharashtra",1990,216,"SOLAPUR CITY SOUTH","GEN",151534
+"Maharashtra",1990,217,"SOLAPUR CITY NORTH","GEN",117712
+"Maharashtra",1990,218,"NORTH SOLAPUR","SC",206451
+"Maharashtra",1990,219,"MANGALVEDHE","SC",146354
+"Maharashtra",1990,220,"MOHOL","GEN",138390
+"Maharashtra",1990,221,"BARSHI","GEN",142588
+"Maharashtra",1990,222,"MADHA","GEN",155969
+"Maharashtra",1990,223,"PANDHARPUR","GEN",182353
+"Maharashtra",1990,224,"SANGOLE","GEN",178667
+"Maharashtra",1990,225,"MALSHIRAS","GEN",177440
+"Maharashtra",1990,226,"KARMALA","GEN",127076
+"Maharashtra",1990,227,"KARJAT","SC",153176
+"Maharashtra",1990,228,"SHRIGONDA","GEN",176028
+"Maharashtra",1990,229,"AHMEDNAGAR SOUTH","GEN",174209
+"Maharashtra",1990,230,"AHMEDNAGAR NORTH","GEN",183125
+"Maharashtra",1990,231,"PATHARDI","GEN",159513
+"Maharashtra",1990,232,"SHEOGAON","GEN",153931
+"Maharashtra",1990,233,"SHRIRAMPUR","GEN",139532
+"Maharashtra",1990,234,"SHIRDI","GEN",146137
+"Maharashtra",1990,235,"KOPARGAON","GEN",145278
+"Maharashtra",1990,236,"RAHURI","GEN",144877
+"Maharashtra",1990,237,"PARNER","GEN",131179
+"Maharashtra",1990,238,"SANGAMNER","GEN",168434
+"Maharashtra",1990,239,"NAGAR-AKOLA","ST",165110
+"Maharashtra",1990,240,"JUNNAR","GEN",159616
+"Maharashtra",1990,241,"AMBEGAON","GEN",127365
+"Maharashtra",1990,242,"KHED-ALANDI","GEN",167440
+"Maharashtra",1990,243,"MAVAL","GEN",168461
+"Maharashtra",1990,244,"MULSHI","GEN",200044
+"Maharashtra",1990,245,"HAVELI","GEN",398512
+"Maharashtra",1990,246,"BOPODI","GEN",153313
+"Maharashtra",1990,247,"SHIVAJINAGAR","GEN",253443
+"Maharashtra",1990,248,"PARVATI","SC",256391
+"Maharashtra",1990,249,"KASBA PETH","GEN",135998
+"Maharashtra",1990,250,"BHAVANI PETH","GEN",161438
+"Maharashtra",1990,251,"PUNE CANTONMENT","GEN",215760
+"Maharashtra",1990,252,"SHIRUR","GEN",147166
+"Maharashtra",1990,253,"DAUND","GEN",198687
+"Maharashtra",1990,254,"INDAPUR","GEN",174310
+"Maharashtra",1990,255,"BARAMATI","GEN",159402
+"Maharashtra",1990,256,"PURANDHAR","GEN",181279
+"Maharashtra",1990,257,"BHOR","GEN",131702
+"Maharashtra",1990,258,"PHALTAN","GEN",159171
+"Maharashtra",1990,259,"MAN","SC",167434
+"Maharashtra",1990,260,"KHATAV","GEN",153322
+"Maharashtra",1990,261,"KOREGAON","GEN",145622
+"Maharashtra",1990,262,"WAI","GEN",132131
+"Maharashtra",1990,263,"JAOLI","GEN",159466
+"Maharashtra",1990,264,"SATARA","GEN",170958
+"Maharashtra",1990,265,"PATAN","GEN",144637
+"Maharashtra",1990,266,"KARAD NORTH","GEN",172209
+"Maharashtra",1990,267,"KARAD SOUTH","GEN",162456
+"Maharashtra",1990,268,"SHIRALA","GEN",154223
+"Maharashtra",1990,269,"WALVA","GEN",169964
+"Maharashtra",1990,270,"BHILWADI WANGI","GEN",157066
+"Maharashtra",1990,271,"SANGLI","GEN",165343
+"Maharashtra",1990,272,"MIRAJ","GEN",161210
+"Maharashtra",1990,273,"TASGAON","GEN",136139
+"Maharashtra",1990,274,"KHANAPUR ATPADI","GEN",162399
+"Maharashtra",1990,275,"KAVATHE MAHANKAL","GEN",148015
+"Maharashtra",1990,276,"JAT","SC",149308
+"Maharashtra",1990,277,"SHIROL","GEN",175176
+"Maharashtra",1990,278,"ICHALKARANJI","GEN",209200
+"Maharashtra",1990,279,"VADGAON","SC",160687
+"Maharashtra",1990,280,"SHAHUWADI","GEN",139136
+"Maharashtra",1990,281,"PANHALA","GEN",129763
+"Maharashtra",1990,282,"SANGRUL","GEN",141597
+"Maharashtra",1990,283,"RADHANAGARI","GEN",155144
+"Maharashtra",1990,284,"KOLHAPUR","GEN",160866
+"Maharashtra",1990,285,"KARVIR","GEN",179626
+"Maharashtra",1990,286,"KAGAL","GEN",136645
+"Maharashtra",1990,287,"GADHINGLAJ","GEN",141326
+"Maharashtra",1990,288,"CHANDGAD","GEN",142084
+"Maharashtra",1995,1,"SAWANTWADI","GEN",148673
+"Maharashtra",1995,2,"VENGURLA","GEN",132482
+"Maharashtra",1995,3,"MALVAN","GEN",125187
+"Maharashtra",1995,4,"DEVGAD","GEN",114549
+"Maharashtra",1995,5,"RAJAPUR","GEN",135879
+"Maharashtra",1995,6,"RATNAGIRI","GEN",175354
+"Maharashtra",1995,7,"SANGAMESHWAR","GEN",142513
+"Maharashtra",1995,8,"GUHAGAR","GEN",136899
+"Maharashtra",1995,9,"CHIPLUN","GEN",131164
+"Maharashtra",1995,10,"KHED","GEN",130500
+"Maharashtra",1995,11,"DAPOLI","GEN",132072
+"Maharashtra",1995,12,"MAHAD","GEN",129904
+"Maharashtra",1995,13,"SHRIWARDHAN","GEN",150902
+"Maharashtra",1995,14,"MANGAON","GEN",139635
+"Maharashtra",1995,15,"PEN","GEN",166076
+"Maharashtra",1995,16,"ALIBAG","GEN",187773
+"Maharashtra",1995,17,"PANVEL","GEN",227728
+"Maharashtra",1995,18,"KHALAPUR","GEN",198800
+"Maharashtra",1995,19,"COLABA","GEN",116901
+"Maharashtra",1995,20,"UMARKHADI","GEN",115328
+"Maharashtra",1995,21,"MUMBADEVI","GEN",93183
+"Maharashtra",1995,22,"KHETWADI","GEN",106913
+"Maharashtra",1995,23,"OPERA HOUSE","GEN",94518
+"Maharashtra",1995,24,"MALBAR HILL","GEN",159727
+"Maharashtra",1995,25,"CHINCHPOKLI","GEN",131936
+"Maharashtra",1995,26,"NAGPADA","GEN",121490
+"Maharashtra",1995,27,"MAZGAON","GEN",122138
+"Maharashtra",1995,28,"PAREL","GEN",137336
+"Maharashtra",1995,29,"SHIVADI","GEN",146791
+"Maharashtra",1995,30,"WORLI","GEN",132793
+"Maharashtra",1995,31,"NAIGAUM","GEN",143227
+"Maharashtra",1995,32,"DADAR","GEN",130400
+"Maharashtra",1995,33,"MATUNGA","GEN",215334
+"Maharashtra",1995,34,"MAHIM","GEN",139505
+"Maharashtra",1995,35,"DHARAVI","SC",248403
+"Maharashtra",1995,36,"VANDRE","GEN",164322
+"Maharashtra",1995,37,"KHERWADI","GEN",176168
+"Maharashtra",1995,38,"VILEPARLE","GEN",198162
+"Maharashtra",1995,39,"AMBOLI","GEN",336921
+"Maharashtra",1995,40,"SANTACRUZ","GEN",245944
+"Maharashtra",1995,41,"ANDHERI","GEN",321217
+"Maharashtra",1995,42,"GOREGAON","GEN",221078
+"Maharashtra",1995,43,"MALAD","GEN",458510
+"Maharashtra",1995,44,"KANDIVALI","GEN",402379
+"Maharashtra",1995,45,"BORIVALI","GEN",485826
+"Maharashtra",1995,46,"TROMBAY","GEN",404307
+"Maharashtra",1995,47,"CHEMBUR","GEN",239534
+"Maharashtra",1995,48,"NEHRUNAGAR","GEN",215492
+"Maharashtra",1995,49,"KURLA","GEN",408053
+"Maharashtra",1995,50,"GHATKOPAR","GEN",215993
+"Maharashtra",1995,51,"BHANDUP","GEN",313788
+"Maharashtra",1995,52,"MULUND","GEN",313022
+"Maharashtra",1995,53,"THANE","GEN",406651
+"Maharashtra",1995,54,"BELAPUR","GEN",944365
+"Maharashtra",1995,55,"ULHASNAGAR","GEN",399597
+"Maharashtra",1995,56,"AMBERNATH","GEN",423514
+"Maharashtra",1995,57,"KALYAN","GEN",475433
+"Maharashtra",1995,58,"MURBAD","GEN",163185
+"Maharashtra",1995,59,"WADA","ST",234266
+"Maharashtra",1995,60,"BHIWANDI","GEN",410269
+"Maharashtra",1995,61,"VASAI","GEN",334277
+"Maharashtra",1995,62,"PALGHAR","ST",181644
+"Maharashtra",1995,63,"DAHANU","ST",216426
+"Maharashtra",1995,64,"JAWHAR","ST",195099
+"Maharashtra",1995,65,"SHAHAPUR","ST",149355
+"Maharashtra",1995,66,"IGATPURI","ST",155624
+"Maharashtra",1995,67,"NASHIK","GEN",328590
+"Maharashtra",1995,68,"DEOLALI","SC",274760
+"Maharashtra",1995,69,"SINNAR","GEN",153656
+"Maharashtra",1995,70,"NIPHAD","GEN",188452
+"Maharashtra",1995,71,"YEVLA","GEN",177980
+"Maharashtra",1995,72,"NANDGAON","GEN",180755
+"Maharashtra",1995,73,"MALEGAON","GEN",229733
+"Maharashtra",1995,74,"DABHADI","GEN",171979
+"Maharashtra",1995,75,"CHANDWAD","GEN",158134
+"Maharashtra",1995,76,"DINDORI","ST",184464
+"Maharashtra",1995,77,"SURGANA","ST",153351
+"Maharashtra",1995,78,"KALVAN","ST",165773
+"Maharashtra",1995,79,"BAGLAN","ST",168847
+"Maharashtra",1995,80,"SAKRI","ST",188078
+"Maharashtra",1995,81,"NAWAPUR","ST",189414
+"Maharashtra",1995,82,"NANDURBAR","ST",178113
+"Maharashtra",1995,83,"TALODE","ST",149952
+"Maharashtra",1995,84,"AKRANI","ST",149347
+"Maharashtra",1995,85,"SHAHADE","GEN",174964
+"Maharashtra",1995,86,"SHIRPUR","GEN",183720
+"Maharashtra",1995,87,"SINDKHEDA","GEN",150572
+"Maharashtra",1995,88,"KUSUMBA","GEN",167484
+"Maharashtra",1995,89,"DHULE","GEN",216991
+"Maharashtra",1995,90,"CHALISGAON","SC",200190
+"Maharashtra",1995,91,"PAROLA","GEN",191756
+"Maharashtra",1995,92,"AMALNER","GEN",172533
+"Maharashtra",1995,93,"CHOPDA","GEN",152796
+"Maharashtra",1995,94,"ERANDOL","GEN",167996
+"Maharashtra",1995,95,"JALGAON","GEN",234399
+"Maharashtra",1995,96,"PACHORA","GEN",179765
+"Maharashtra",1995,97,"JAMNER","GEN",163866
+"Maharashtra",1995,98,"BHUSAWAL","GEN",218827
+"Maharashtra",1995,99,"YAVAL","GEN",148016
+"Maharashtra",1995,100,"RAVER","GEN",161522
+"Maharashtra",1995,101,"EDLABAD","GEN",165903
+"Maharashtra",1995,102,"MALKAPUR","GEN",156774
+"Maharashtra",1995,103,"BULDHANA","GEN",185509
+"Maharashtra",1995,104,"CHIKHLI","GEN",177275
+"Maharashtra",1995,105,"SINDKHEDRAJA","GEN",174893
+"Maharashtra",1995,106,"MEHKAR","GEN",165409
+"Maharashtra",1995,107,"KHAMGAON","GEN",190470
+"Maharashtra",1995,108,"JALAMB","GEN",163193
+"Maharashtra",1995,109,"AKOT","GEN",164324
+"Maharashtra",1995,110,"BORGAON MANJU","GEN",209227
+"Maharashtra",1995,111,"AKOLA","GEN",191749
+"Maharashtra",1995,112,"BALAPUR","GEN",164779
+"Maharashtra",1995,113,"MEDSHI","GEN",144822
+"Maharashtra",1995,114,"WASHIM","SC",160289
+"Maharashtra",1995,115,"MANGRULPIR","GEN",167228
+"Maharashtra",1995,116,"MURTAJAPUR","GEN",159348
+"Maharashtra",1995,117,"KARANJA","GEN",147727
+"Maharashtra",1995,118,"DARYAPUR","GEN",157503
+"Maharashtra",1995,119,"MELGHAT","ST",188066
+"Maharashtra",1995,120,"ACHALPUR","GEN",179755
+"Maharashtra",1995,121,"MORSHI","GEN",169282
+"Maharashtra",1995,122,"TEOSA","GEN",146872
+"Maharashtra",1995,123,"WALGAON","GEN",148978
+"Maharashtra",1995,124,"AMRAVATI","GEN",229916
+"Maharashtra",1995,125,"BADNERA","GEN",193270
+"Maharashtra",1995,126,"CHANDUR","GEN",140748
+"Maharashtra",1995,127,"ARVI","GEN",175971
+"Maharashtra",1995,128,"PULGAON","GEN",178880
+"Maharashtra",1995,129,"WARDHA","GEN",192933
+"Maharashtra",1995,130,"HINGANGHAT","GEN",201757
+"Maharashtra",1995,131,"UMRED","GEN",167395
+"Maharashtra",1995,132,"KAMPTEE","GEN",202522
+"Maharashtra",1995,133,"NAGPUR NORTH","SC",244547
+"Maharashtra",1995,134,"NAGPUR EAST","GEN",312405
+"Maharashtra",1995,135,"NAGPUR SOUTH","GEN",208805
+"Maharashtra",1995,136,"NAGPUR CENTRAL","GEN",156082
+"Maharashtra",1995,137,"NAGPUR WEST","GEN",339059
+"Maharashtra",1995,138,"KALMESHWAR","GEN",194035
+"Maharashtra",1995,139,"KATOL","GEN",151298
+"Maharashtra",1995,140,"SAVNER","GEN",173198
+"Maharashtra",1995,141,"RAMTEK","GEN",191782
+"Maharashtra",1995,142,"TUMSAR","GEN",139459
+"Maharashtra",1995,143,"BHANDARA","GEN",154383
+"Maharashtra",1995,144,"ADYAR","GEN",154529
+"Maharashtra",1995,145,"TIRORA","SC",147927
+"Maharashtra",1995,146,"GONDIA","GEN",163453
+"Maharashtra",1995,147,"GOREGAON","GEN",140318
+"Maharashtra",1995,148,"AMGAON","GEN",179256
+"Maharashtra",1995,149,"SAKOLI","GEN",155413
+"Maharashtra",1995,150,"LAKHANDUR","GEN",175592
+"Maharashtra",1995,151,"ARMORI","ST",166369
+"Maharashtra",1995,152,"GADCHIROLI","ST",171898
+"Maharashtra",1995,153,"SIRONCHA","ST",164456
+"Maharashtra",1995,154,"RAJURA","GEN",198570
+"Maharashtra",1995,155,"CHANDRAPUR","GEN",268087
+"Maharashtra",1995,156,"SAOLI","GEN",193639
+"Maharashtra",1995,157,"BRAHMAPURI","GEN",178234
+"Maharashtra",1995,158,"CHIMUR","GEN",173548
+"Maharashtra",1995,159,"BHADRAWATI","GEN",187741
+"Maharashtra",1995,160,"WANI","GEN",164358
+"Maharashtra",1995,161,"RALEGAON","ST",170741
+"Maharashtra",1995,162,"KELAPUR","ST",154431
+"Maharashtra",1995,163,"YAVATMAL","GEN",202695
+"Maharashtra",1995,164,"DARWHA","GEN",161572
+"Maharashtra",1995,165,"DIGRAS","GEN",180288
+"Maharashtra",1995,166,"PUSAD","GEN",180728
+"Maharashtra",1995,167,"UMARKHED","GEN",175300
+"Maharashtra",1995,168,"KINWAT","GEN",149071
+"Maharashtra",1995,169,"HADGAON","GEN",166684
+"Maharashtra",1995,170,"NANDED","GEN",281554
+"Maharashtra",1995,171,"MUDKHED","GEN",176979
+"Maharashtra",1995,172,"BHOKAR","GEN",156177
+"Maharashtra",1995,173,"BILOLI","GEN",195477
+"Maharashtra",1995,174,"MUKHED","SC",175039
+"Maharashtra",1995,175,"KANDHAR","GEN",176550
+"Maharashtra",1995,176,"GANGAKHED","SC",149610
+"Maharashtra",1995,177,"SINGNAPUR","GEN",148016
+"Maharashtra",1995,178,"PARBHANI","GEN",233342
+"Maharashtra",1995,179,"BASMATH","GEN",182235
+"Maharashtra",1995,180,"KALAMNURI","GEN",172172
+"Maharashtra",1995,181,"HINGOLI","GEN",182673
+"Maharashtra",1995,182,"JINTUR","GEN",162586
+"Maharashtra",1995,183,"PATHRI","GEN",149139
+"Maharashtra",1995,184,"PARTUR","GEN",167624
+"Maharashtra",1995,185,"AMBAD","GEN",176154
+"Maharashtra",1995,186,"JALNA","GEN",204770
+"Maharashtra",1995,187,"BADNAPUR","GEN",171576
+"Maharashtra",1995,188,"BHOKARDAN","GEN",185658
+"Maharashtra",1995,189,"SILLOD","GEN",167468
+"Maharashtra",1995,190,"KANNAD","GEN",190695
+"Maharashtra",1995,191,"VAIJAPUR","GEN",149262
+"Maharashtra",1995,192,"GANGAPUR","GEN",204986
+"Maharashtra",1995,193,"AURANGABAD WEST","GEN",429326
+"Maharashtra",1995,194,"AURANGABAD EAST","GEN",229116
+"Maharashtra",1995,195,"PAITHAN","GEN",169287
+"Maharashtra",1995,196,"GEORAI","GEN",165166
+"Maharashtra",1995,197,"MANJLEGAON","GEN",193777
+"Maharashtra",1995,198,"BEED","GEN",206590
+"Maharashtra",1995,199,"ASHTI","GEN",194210
+"Maharashtra",1995,200,"CHAUSALA","GEN",176127
+"Maharashtra",1995,201,"KAIJ","SC",192114
+"Maharashtra",1995,202,"RENAPUR","GEN",190698
+"Maharashtra",1995,203,"AHMEDPUR","GEN",143154
+"Maharashtra",1995,204,"UDGIR","GEN",162353
+"Maharashtra",1995,205,"HER","SC",129402
+"Maharashtra",1995,206,"LATUR","GEN",247857
+"Maharashtra",1995,207,"KALAMB","SC",160341
+"Maharashtra",1995,208,"PARANDA","GEN",177616
+"Maharashtra",1995,209,"OSMANABAD","GEN",178932
+"Maharashtra",1995,210,"AUSA","GEN",148413
+"Maharashtra",1995,211,"NILANGA","GEN",163526
+"Maharashtra",1995,212,"OMERGA","GEN",172577
+"Maharashtra",1995,213,"TULJAPUR","GEN",147901
+"Maharashtra",1995,214,"AKKALKOT","GEN",133389
+"Maharashtra",1995,215,"SOUTH SOLAPUR","GEN",147234
+"Maharashtra",1995,216,"SOLAPUR CITY SOUTH","GEN",161099
+"Maharashtra",1995,217,"SOLAPUR CITY NORTH","GEN",106616
+"Maharashtra",1995,218,"NORTH SOLAPUR","SC",269397
+"Maharashtra",1995,219,"MANGALVEDHE","SC",157565
+"Maharashtra",1995,220,"MOHOL","GEN",139241
+"Maharashtra",1995,221,"BARSHI","GEN",145735
+"Maharashtra",1995,222,"MADHA","GEN",163048
+"Maharashtra",1995,223,"PANDHARPUR","GEN",200618
+"Maharashtra",1995,224,"SANGOLE","GEN",189538
+"Maharashtra",1995,225,"MALSHIRAS","GEN",187030
+"Maharashtra",1995,226,"KARMALA","GEN",127947
+"Maharashtra",1995,227,"KARJAT","SC",167453
+"Maharashtra",1995,228,"SHRIGONDA","GEN",189936
+"Maharashtra",1995,229,"AHMEDNAGAR SOUTH","GEN",193818
+"Maharashtra",1995,230,"AHMEDNAGAR NORTH","GEN",210561
+"Maharashtra",1995,231,"PATHARDI","GEN",174876
+"Maharashtra",1995,232,"SHEOGAON","GEN",172281
+"Maharashtra",1995,233,"SHRIRAMPUR","GEN",141859
+"Maharashtra",1995,234,"SHIRDI","GEN",146583
+"Maharashtra",1995,235,"KOPARGAON","GEN",147538
+"Maharashtra",1995,236,"RAHURI","GEN",164580
+"Maharashtra",1995,237,"PARNER","GEN",141195
+"Maharashtra",1995,238,"SANGAMNER","GEN",188292
+"Maharashtra",1995,239,"NAGAR-AKOLA","ST",184625
+"Maharashtra",1995,240,"JUNNAR","GEN",167760
+"Maharashtra",1995,241,"AMBEGAON","GEN",134257
+"Maharashtra",1995,242,"KHED-ALANDI","GEN",176644
+"Maharashtra",1995,243,"MAVAL","GEN",176340
+"Maharashtra",1995,244,"MULSHI","GEN",242470
+"Maharashtra",1995,245,"HAVELI","GEN",495004
+"Maharashtra",1995,246,"BOPODI","GEN",179295
+"Maharashtra",1995,247,"SHIVAJINAGAR","GEN",295630
+"Maharashtra",1995,248,"PARVATI","SC",309160
+"Maharashtra",1995,249,"KASBA PETH","GEN",123312
+"Maharashtra",1995,250,"BHAVANI PETH","GEN",171879
+"Maharashtra",1995,251,"PUNE CANTONMENT","GEN",273394
+"Maharashtra",1995,252,"SHIRUR","GEN",157352
+"Maharashtra",1995,253,"DAUND","GEN",219630
+"Maharashtra",1995,254,"INDAPUR","GEN",181617
+"Maharashtra",1995,255,"BARAMATI","GEN",162185
+"Maharashtra",1995,256,"PURANDHAR","GEN",187740
+"Maharashtra",1995,257,"BHOR","GEN",132427
+"Maharashtra",1995,258,"PHALTAN","GEN",168588
+"Maharashtra",1995,259,"MAN","SC",173173
+"Maharashtra",1995,260,"KHATAV","GEN",158552
+"Maharashtra",1995,261,"KOREGAON","GEN",154436
+"Maharashtra",1995,262,"WAI","GEN",141592
+"Maharashtra",1995,263,"JAOLI","GEN",175042
+"Maharashtra",1995,264,"SATARA","GEN",188262
+"Maharashtra",1995,265,"PATAN","GEN",155832
+"Maharashtra",1995,266,"KARAD NORTH","GEN",183487
+"Maharashtra",1995,267,"KARAD SOUTH","GEN",169607
+"Maharashtra",1995,268,"SHIRALA","GEN",162697
+"Maharashtra",1995,269,"WALVA","GEN",184768
+"Maharashtra",1995,270,"BHILWADI WANGI","GEN",165820
+"Maharashtra",1995,271,"SANGLI","GEN",181457
+"Maharashtra",1995,272,"MIRAJ","GEN",182845
+"Maharashtra",1995,273,"TASGAON","GEN",144019
+"Maharashtra",1995,274,"KHANAPUR ATPADI","GEN",169280
+"Maharashtra",1995,275,"KAVATHE MAHANKAL","GEN",160640
+"Maharashtra",1995,276,"JAT","SC",163752
+"Maharashtra",1995,277,"SHIROL","GEN",205797
+"Maharashtra",1995,278,"ICHALKARANJI","GEN",223027
+"Maharashtra",1995,279,"VADGAON","SC",186941
+"Maharashtra",1995,280,"SHAHUWADI","GEN",158413
+"Maharashtra",1995,281,"PANHALA","GEN",145406
+"Maharashtra",1995,282,"SANGRUL","GEN",166333
+"Maharashtra",1995,283,"RADHANAGARI","GEN",173400
+"Maharashtra",1995,284,"KOLHAPUR","GEN",185390
+"Maharashtra",1995,285,"KARVIR","GEN",217957
+"Maharashtra",1995,286,"KAGAL","GEN",156969
+"Maharashtra",1995,287,"GADHINGLAJ","GEN",155836
+"Maharashtra",1995,288,"CHANDGAD","GEN",156242
+"Maharashtra",1999,1,"SAWANTWADI","GEN",149207
+"Maharashtra",1999,2,"VENGURLA","GEN",128837
+"Maharashtra",1999,3,"MALVAN","GEN",123618
+"Maharashtra",1999,4,"DEVGAD","GEN",111600
+"Maharashtra",1999,5,"RAJAPUR","GEN",135112
+"Maharashtra",1999,6,"RATNAGIRI","GEN",184513
+"Maharashtra",1999,7,"SANGAMESHWAR","GEN",142163
+"Maharashtra",1999,8,"GUHAGAR","GEN",138696
+"Maharashtra",1999,9,"CHIPLUN","GEN",135194
+"Maharashtra",1999,10,"KHED","GEN",134063
+"Maharashtra",1999,11,"DAPOLI","GEN",137943
+"Maharashtra",1999,12,"MAHAD","GEN",141950
+"Maharashtra",1999,13,"SHRIWARDHAN","GEN",160842
+"Maharashtra",1999,14,"MANGAON","GEN",156917
+"Maharashtra",1999,15,"PEN","GEN",185152
+"Maharashtra",1999,16,"ALIBAG","GEN",197501
+"Maharashtra",1999,17,"PANVEL","GEN",243231
+"Maharashtra",1999,18,"KHALAPUR","GEN",212813
+"Maharashtra",1999,19,"COLABA","GEN",130348
+"Maharashtra",1999,20,"UMARKHADI","GEN",120784
+"Maharashtra",1999,21,"MUMBADEVI","GEN",98931
+"Maharashtra",1999,22,"KHETWADI","GEN",109917
+"Maharashtra",1999,23,"OPERA HOUSE","GEN",95522
+"Maharashtra",1999,24,"MALBAR HILL","GEN",163779
+"Maharashtra",1999,25,"CHINCHPOKLI","GEN",135055
+"Maharashtra",1999,26,"NAGPADA","GEN",122946
+"Maharashtra",1999,27,"MAZGAON","GEN",128058
+"Maharashtra",1999,28,"PAREL","GEN",140060
+"Maharashtra",1999,29,"SHIVADI","GEN",153232
+"Maharashtra",1999,30,"WORLI","GEN",133225
+"Maharashtra",1999,31,"NAIGAUM","GEN",148903
+"Maharashtra",1999,32,"DADAR","GEN",136624
+"Maharashtra",1999,33,"MATUNGA","GEN",223252
+"Maharashtra",1999,34,"MAHIM","GEN",149283
+"Maharashtra",1999,35,"DHARAVI","SC",270033
+"Maharashtra",1999,36,"VANDRE","GEN",174948
+"Maharashtra",1999,37,"KHERWADI","GEN",199171
+"Maharashtra",1999,38,"VILEPARLE","GEN",212707
+"Maharashtra",1999,39,"AMBOLI","GEN",357990
+"Maharashtra",1999,40,"SANTACRUZ","GEN",256685
+"Maharashtra",1999,41,"ANDHERI","GEN",351514
+"Maharashtra",1999,42,"GOREGAON","GEN",241616
+"Maharashtra",1999,43,"MALAD","GEN",512420
+"Maharashtra",1999,44,"KANDIVALI","GEN",428579
+"Maharashtra",1999,45,"BORIVALI","GEN",494845
+"Maharashtra",1999,46,"TROMBAY","GEN",436177
+"Maharashtra",1999,47,"CHEMBUR","GEN",260133
+"Maharashtra",1999,48,"NEHRUNAGAR","GEN",220225
+"Maharashtra",1999,49,"KURLA","GEN",425610
+"Maharashtra",1999,50,"GHATKOPAR","GEN",222426
+"Maharashtra",1999,51,"BHANDUP","GEN",321069
+"Maharashtra",1999,52,"MULUND","GEN",324925
+"Maharashtra",1999,53,"THANE","GEN",378372
+"Maharashtra",1999,54,"BELAPUR","GEN",890784
+"Maharashtra",1999,55,"ULHASNAGAR","GEN",405656
+"Maharashtra",1999,56,"AMBERNATH","GEN",437149
+"Maharashtra",1999,57,"KALYAN","GEN",485388
+"Maharashtra",1999,58,"MURBAD","GEN",175401
+"Maharashtra",1999,59,"WADA","ST",248123
+"Maharashtra",1999,60,"BHIWANDI","GEN",438978
+"Maharashtra",1999,61,"VASAI","GEN",348201
+"Maharashtra",1999,62,"PALGHAR","ST",196571
+"Maharashtra",1999,63,"DAHANU","ST",227001
+"Maharashtra",1999,64,"JAWHAR","ST",204024
+"Maharashtra",1999,65,"SHAHAPUR","ST",158554
+"Maharashtra",1999,66,"IGATPURI","ST",157998
+"Maharashtra",1999,67,"NASHIK","GEN",344826
+"Maharashtra",1999,68,"DEOLALI","SC",282334
+"Maharashtra",1999,69,"SINNAR","GEN",156257
+"Maharashtra",1999,70,"NIPHAD","GEN",192028
+"Maharashtra",1999,71,"YEVLA","GEN",181620
+"Maharashtra",1999,72,"NANDGAON","GEN",181736
+"Maharashtra",1999,73,"MALEGAON","GEN",230334
+"Maharashtra",1999,74,"DABHADI","GEN",168685
+"Maharashtra",1999,75,"CHANDWAD","GEN",158120
+"Maharashtra",1999,76,"DINDORI","ST",186149
+"Maharashtra",1999,77,"SURGANA","ST",158157
+"Maharashtra",1999,78,"KALVAN","ST",165550
+"Maharashtra",1999,79,"BAGLAN","ST",196387
+"Maharashtra",1999,80,"SAKRI","ST",196385
+"Maharashtra",1999,81,"NAWAPUR","ST",196105
+"Maharashtra",1999,82,"NANDURBAR","ST",186944
+"Maharashtra",1999,83,"TALODE","ST",161907
+"Maharashtra",1999,84,"AKRANI","ST",157478
+"Maharashtra",1999,85,"SHAHADE","GEN",182883
+"Maharashtra",1999,86,"SHIRPUR","GEN",194149
+"Maharashtra",1999,87,"SINDKHEDA","GEN",160701
+"Maharashtra",1999,88,"KUSUMBA","GEN",172532
+"Maharashtra",1999,89,"DHULE","GEN",237423
+"Maharashtra",1999,90,"CHALISGAON","SC",197404
+"Maharashtra",1999,91,"PAROLA","GEN",197764
+"Maharashtra",1999,92,"AMALNER","GEN",173050
+"Maharashtra",1999,93,"CHOPDA","GEN",156155
+"Maharashtra",1999,94,"ERANDOL","GEN",173459
+"Maharashtra",1999,95,"JALGAON","GEN",232778
+"Maharashtra",1999,96,"PACHORA","GEN",185126
+"Maharashtra",1999,97,"JAMNER","GEN",166655
+"Maharashtra",1999,98,"BHUSAWAL","GEN",216517
+"Maharashtra",1999,99,"YAVAL","GEN",149010
+"Maharashtra",1999,100,"RAVER","GEN",161865
+"Maharashtra",1999,101,"EDLABAD","GEN",174341
+"Maharashtra",1999,102,"MALKAPUR","GEN",160068
+"Maharashtra",1999,103,"BULDHANA","GEN",187980
+"Maharashtra",1999,104,"CHIKHLI","GEN",179256
+"Maharashtra",1999,105,"SINDKHEDRAJA","GEN",179262
+"Maharashtra",1999,106,"MEHKAR","GEN",161575
+"Maharashtra",1999,107,"KHAMGAON","GEN",192935
+"Maharashtra",1999,108,"JALAMB","GEN",167987
+"Maharashtra",1999,109,"AKOT","GEN",169573
+"Maharashtra",1999,110,"BORGAON MANJU","GEN",229374
+"Maharashtra",1999,111,"AKOLA","GEN",207147
+"Maharashtra",1999,112,"BALAPUR","GEN",176716
+"Maharashtra",1999,113,"MEDSHI","GEN",154539
+"Maharashtra",1999,114,"WASHIM","SC",172423
+"Maharashtra",1999,115,"MANGRULPIR","GEN",175981
+"Maharashtra",1999,116,"MURTAJAPUR","GEN",169395
+"Maharashtra",1999,117,"KARANJA","GEN",157062
+"Maharashtra",1999,118,"DARYAPUR","GEN",158462
+"Maharashtra",1999,119,"MELGHAT","ST",191002
+"Maharashtra",1999,120,"ACHALPUR","GEN",179553
+"Maharashtra",1999,121,"MORSHI","GEN",174211
+"Maharashtra",1999,122,"TEOSA","GEN",149159
+"Maharashtra",1999,123,"WALGAON","GEN",155379
+"Maharashtra",1999,124,"AMRAVATI","GEN",235868
+"Maharashtra",1999,125,"BADNERA","GEN",204622
+"Maharashtra",1999,126,"CHANDUR","GEN",151179
+"Maharashtra",1999,127,"ARVI","GEN",181958
+"Maharashtra",1999,128,"PULGAON","GEN",184498
+"Maharashtra",1999,129,"WARDHA","GEN",198143
+"Maharashtra",1999,130,"HINGANGHAT","GEN",215031
+"Maharashtra",1999,131,"UMRED","GEN",167007
+"Maharashtra",1999,132,"KAMPTEE","GEN",202199
+"Maharashtra",1999,133,"NAGPUR NORTH","SC",258134
+"Maharashtra",1999,134,"NAGPUR EAST","GEN",329290
+"Maharashtra",1999,135,"NAGPUR SOUTH","GEN",209861
+"Maharashtra",1999,136,"NAGPUR CENTRAL","GEN",152701
+"Maharashtra",1999,137,"NAGPUR WEST","GEN",399195
+"Maharashtra",1999,138,"KALMESHWAR","GEN",198358
+"Maharashtra",1999,139,"KATOL","GEN",149564
+"Maharashtra",1999,140,"SAVNER","GEN",175604
+"Maharashtra",1999,141,"RAMTEK","GEN",186089
+"Maharashtra",1999,142,"TUMSAR","GEN",152703
+"Maharashtra",1999,143,"BHANDARA","GEN",154937
+"Maharashtra",1999,144,"ADYAR","GEN",155890
+"Maharashtra",1999,145,"TIRORA","SC",144911
+"Maharashtra",1999,146,"GONDIA","GEN",165262
+"Maharashtra",1999,147,"GOREGAON","GEN",137162
+"Maharashtra",1999,148,"AMGAON","GEN",183673
+"Maharashtra",1999,149,"SAKOLI","GEN",153162
+"Maharashtra",1999,150,"LAKHANDUR","GEN",173236
+"Maharashtra",1999,151,"ARMORI","ST",173102
+"Maharashtra",1999,152,"GADCHIROLI","ST",177526
+"Maharashtra",1999,153,"SIRONCHA","ST",173100
+"Maharashtra",1999,154,"RAJURA","GEN",202053
+"Maharashtra",1999,155,"CHANDRAPUR","GEN",283868
+"Maharashtra",1999,156,"SAOLI","GEN",198819
+"Maharashtra",1999,157,"BRAHMAPURI","GEN",180934
+"Maharashtra",1999,158,"CHIMUR","GEN",176998
+"Maharashtra",1999,159,"BHADRAWATI","GEN",188972
+"Maharashtra",1999,160,"WANI","GEN",158210
+"Maharashtra",1999,161,"RALEGAON","ST",166787
+"Maharashtra",1999,162,"KELAPUR","ST",149373
+"Maharashtra",1999,163,"YAVATMAL","GEN",196606
+"Maharashtra",1999,164,"DARWHA","GEN",162708
+"Maharashtra",1999,165,"DIGRAS","GEN",173921
+"Maharashtra",1999,166,"PUSAD","GEN",176406
+"Maharashtra",1999,167,"UMARKHED","GEN",167800
+"Maharashtra",1999,168,"KINWAT","GEN",152237
+"Maharashtra",1999,169,"HADGAON","GEN",168699
+"Maharashtra",1999,170,"NANDED","GEN",288795
+"Maharashtra",1999,171,"MUDKHED","GEN",181639
+"Maharashtra",1999,172,"BHOKAR","GEN",159002
+"Maharashtra",1999,173,"BILOLI","GEN",202302
+"Maharashtra",1999,174,"MUKHED","SC",180136
+"Maharashtra",1999,175,"KANDHAR","GEN",180140
+"Maharashtra",1999,176,"GANGAKHED","SC",162171
+"Maharashtra",1999,177,"SINGNAPUR","GEN",153556
+"Maharashtra",1999,178,"PARBHANI","GEN",248718
+"Maharashtra",1999,179,"BASMATH","GEN",192317
+"Maharashtra",1999,180,"KALAMNURI","GEN",178087
+"Maharashtra",1999,181,"HINGOLI","GEN",183602
+"Maharashtra",1999,182,"JINTUR","GEN",170008
+"Maharashtra",1999,183,"PATHRI","GEN",150193
+"Maharashtra",1999,184,"PARTUR","GEN",170547
+"Maharashtra",1999,185,"AMBAD","GEN",180010
+"Maharashtra",1999,186,"JALNA","GEN",214741
+"Maharashtra",1999,187,"BADNAPUR","GEN",177359
+"Maharashtra",1999,188,"BHOKARDAN","GEN",194156
+"Maharashtra",1999,189,"SILLOD","GEN",167151
+"Maharashtra",1999,190,"KANNAD","GEN",192440
+"Maharashtra",1999,191,"VAIJAPUR","GEN",153162
+"Maharashtra",1999,192,"GANGAPUR","GEN",206408
+"Maharashtra",1999,193,"AURANGABAD WEST","GEN",428871
+"Maharashtra",1999,194,"AURANGABAD EAST","GEN",233101
+"Maharashtra",1999,195,"PAITHAN","GEN",158227
+"Maharashtra",1999,196,"GEORAI","GEN",172714
+"Maharashtra",1999,197,"MANJLEGAON","GEN",197395
+"Maharashtra",1999,198,"BEED","GEN",213093
+"Maharashtra",1999,199,"ASHTI","GEN",197045
+"Maharashtra",1999,200,"CHAUSALA","GEN",178826
+"Maharashtra",1999,201,"KAIJ","SC",190893
+"Maharashtra",1999,202,"RENAPUR","GEN",198619
+"Maharashtra",1999,203,"AHMEDPUR","GEN",158415
+"Maharashtra",1999,204,"UDGIR","GEN",169459
+"Maharashtra",1999,205,"HER","SC",138256
+"Maharashtra",1999,206,"LATUR","GEN",278575
+"Maharashtra",1999,207,"KALAMB","SC",154131
+"Maharashtra",1999,208,"PARANDA","GEN",164312
+"Maharashtra",1999,209,"OSMANABAD","GEN",184533
+"Maharashtra",1999,210,"AUSA","GEN",159185
+"Maharashtra",1999,211,"NILANGA","GEN",177870
+"Maharashtra",1999,212,"OMERGA","GEN",173785
+"Maharashtra",1999,213,"TULJAPUR","GEN",147406
+"Maharashtra",1999,214,"AKKALKOT","GEN",138548
+"Maharashtra",1999,215,"SOUTH SOLAPUR","GEN",156352
+"Maharashtra",1999,216,"SOLAPUR CITY SOUTH","GEN",169989
+"Maharashtra",1999,217,"SOLAPUR CITY NORTH","GEN",111682
+"Maharashtra",1999,218,"NORTH SOLAPUR","SC",285922
+"Maharashtra",1999,219,"MANGALVEDHE","SC",163513
+"Maharashtra",1999,220,"MOHOL","GEN",148760
+"Maharashtra",1999,221,"BARSHI","GEN",150394
+"Maharashtra",1999,222,"MADHA","GEN",174660
+"Maharashtra",1999,223,"PANDHARPUR","GEN",210179
+"Maharashtra",1999,224,"SANGOLE","GEN",200206
+"Maharashtra",1999,225,"MALSHIRAS","GEN",196318
+"Maharashtra",1999,226,"KARMALA","GEN",135548
+"Maharashtra",1999,227,"KARJAT","SC",172121
+"Maharashtra",1999,228,"SHRIGONDA","GEN",196782
+"Maharashtra",1999,229,"AHMEDNAGAR SOUTH","GEN",202855
+"Maharashtra",1999,230,"AHMEDNAGAR NORTH","GEN",220689
+"Maharashtra",1999,231,"PATHARDI","GEN",173659
+"Maharashtra",1999,232,"SHEOGAON","GEN",181006
+"Maharashtra",1999,233,"SHRIRAMPUR","GEN",143946
+"Maharashtra",1999,234,"SHIRDI","GEN",150879
+"Maharashtra",1999,235,"KOPARGAON","GEN",151696
+"Maharashtra",1999,236,"RAHURI","GEN",165337
+"Maharashtra",1999,237,"PARNER","GEN",145894
+"Maharashtra",1999,238,"SANGAMNER","GEN",194656
+"Maharashtra",1999,239,"NAGAR-AKOLA","ST",187690
+"Maharashtra",1999,240,"JUNNAR","GEN",172593
+"Maharashtra",1999,241,"AMBEGAON","GEN",136133
+"Maharashtra",1999,242,"KHED-ALANDI","GEN",181562
+"Maharashtra",1999,243,"MAVAL","GEN",186913
+"Maharashtra",1999,244,"MULSHI","GEN",252786
+"Maharashtra",1999,245,"HAVELI","GEN",529638
+"Maharashtra",1999,246,"BOPODI","GEN",189645
+"Maharashtra",1999,247,"SHIVAJINAGAR","GEN",321392
+"Maharashtra",1999,248,"PARVATI","SC",328907
+"Maharashtra",1999,249,"KASBA PETH","GEN",127189
+"Maharashtra",1999,250,"BHAVANI PETH","GEN",180883
+"Maharashtra",1999,251,"PUNE CANTONMENT","GEN",287085
+"Maharashtra",1999,252,"SHIRUR","GEN",159388
+"Maharashtra",1999,253,"DAUND","GEN",225045
+"Maharashtra",1999,254,"INDAPUR","GEN",187408
+"Maharashtra",1999,255,"BARAMATI","GEN",168978
+"Maharashtra",1999,256,"PURANDHAR","GEN",191791
+"Maharashtra",1999,257,"BHOR","GEN",140422
+"Maharashtra",1999,258,"PHALTAN","GEN",168356
+"Maharashtra",1999,259,"MAN","SC",172683
+"Maharashtra",1999,260,"KHATAV","GEN",161379
+"Maharashtra",1999,261,"KOREGAON","GEN",150679
+"Maharashtra",1999,262,"WAI","GEN",142813
+"Maharashtra",1999,263,"JAOLI","GEN",175448
+"Maharashtra",1999,264,"SATARA","GEN",188559
+"Maharashtra",1999,265,"PATAN","GEN",147489
+"Maharashtra",1999,266,"KARAD NORTH","GEN",184540
+"Maharashtra",1999,267,"KARAD SOUTH","GEN",170009
+"Maharashtra",1999,268,"SHIRALA","GEN",165084
+"Maharashtra",1999,269,"WALVA","GEN",192130
+"Maharashtra",1999,270,"BHILWADI WANGI","GEN",172213
+"Maharashtra",1999,271,"SANGLI","GEN",187945
+"Maharashtra",1999,272,"MIRAJ","GEN",190573
+"Maharashtra",1999,273,"TASGAON","GEN",147229
+"Maharashtra",1999,274,"KHANAPUR ATPADI","GEN",176238
+"Maharashtra",1999,275,"KAVATHE MAHANKAL","GEN",165568
+"Maharashtra",1999,276,"JAT","SC",168079
+"Maharashtra",1999,277,"SHIROL","GEN",209299
+"Maharashtra",1999,278,"ICHALKARANJI","GEN",232006
+"Maharashtra",1999,279,"VADGAON","SC",188870
+"Maharashtra",1999,280,"SHAHUWADI","GEN",159413
+"Maharashtra",1999,281,"PANHALA","GEN",146397
+"Maharashtra",1999,282,"SANGRUL","GEN",171262
+"Maharashtra",1999,283,"RADHANAGARI","GEN",180674
+"Maharashtra",1999,284,"KOLHAPUR","GEN",195737
+"Maharashtra",1999,285,"KARVIR","GEN",227775
+"Maharashtra",1999,286,"KAGAL","GEN",164509
+"Maharashtra",1999,287,"GADHINGLAJ","GEN",154940
+"Maharashtra",1999,288,"CHANDGAD","GEN",157375
+"Maharashtra",2004,1,"SAWANTWADI","GEN",161412
+"Maharashtra",2004,2,"VENGURLA","GEN",137906
+"Maharashtra",2004,3,"ALVAN","GEN",133498
+"Maharashtra",2004,4,"DEVGAD","GEN",119838
+"Maharashtra",2004,5,"RAJAPUR","GEN",139839
+"Maharashtra",2004,6,"RATNAGIRI","GEN",204902
+"Maharashtra",2004,7,"SANGAMESHWAR","GEN",151905
+"Maharashtra",2004,8,"GUHAGAR","GEN",147250
+"Maharashtra",2004,9,"CHIPLUN","GEN",150721
+"Maharashtra",2004,10,"KHED","GEN",139290
+"Maharashtra",2004,11,"DAPOLI","GEN",146424
+"Maharashtra",2004,12,"MAHAD","GEN",155545
+"Maharashtra",2004,13,"SHRIWARDHAN","GEN",174969
+"Maharashtra",2004,14,"MANGAON","GEN",180495
+"Maharashtra",2004,15,"PEN","GEN",202591
+"Maharashtra",2004,16,"ALIBAG","GEN",212283
+"Maharashtra",2004,17,"PANVEL","GEN",302088
+"Maharashtra",2004,18,"KHALAPUR","GEN",232727
+"Maharashtra",2004,19,"COLABA","GEN",115143
+"Maharashtra",2004,20,"UMARKHADI","GEN",103636
+"Maharashtra",2004,21,"MUMBADEVI","GEN",82511
+"Maharashtra",2004,22,"KHETWADI","GEN",103099
+"Maharashtra",2004,23,"OPERA HOUSE","GEN",91377
+"Maharashtra",2004,24,"MALBAR HILL","GEN",162778
+"Maharashtra",2004,25,"CHINCHPOKLI","GEN",123507
+"Maharashtra",2004,26,"NAGPADA","GEN",105220
+"Maharashtra",2004,27,"MAZGAON","GEN",115505
+"Maharashtra",2004,28,"PAREL","GEN",136334
+"Maharashtra",2004,29,"HIVADI","GEN",146698
+"Maharashtra",2004,30,"WORLI","GEN",129208
+"Maharashtra",2004,31,"NAIGAUM","GEN",155068
+"Maharashtra",2004,32,"DADAR","GEN",126381
+"Maharashtra",2004,33,"MATUNGA","GEN",241488
+"Maharashtra",2004,34,"MAHIM","GEN",146485
+"Maharashtra",2004,35,"DHARAVI","SC",307177
+"Maharashtra",2004,36,"BANDRA","GEN",183536
+"Maharashtra",2004,37,"KHERWADI","GEN",198529
+"Maharashtra",2004,38,"VILEPARLE","GEN",224675
+"Maharashtra",2004,39,"AMBOLI","GEN",386881
+"Maharashtra",2004,40,"ANTACRUZ","GEN",265246
+"Maharashtra",2004,41,"ANDHERI","GEN",381142
+"Maharashtra",2004,42,"GOREGAON","GEN",256135
+"Maharashtra",2004,43,"MALAD","GEN",586916
+"Maharashtra",2004,44,"KANDIVALI","GEN",499198
+"Maharashtra",2004,45,"BORIVALI","GEN",599541
+"Maharashtra",2004,46,"TROMBAY","GEN",488949
+"Maharashtra",2004,47,"CHEMBUR","GEN",232822
+"Maharashtra",2004,48,"NEHRUNAGAR","GEN",228462
+"Maharashtra",2004,49,"KURLA","GEN",498470
+"Maharashtra",2004,50,"GHATKOPAR","GEN",219325
+"Maharashtra",2004,51,"BHANDUP","GEN",333853
+"Maharashtra",2004,52,"MULUND","GEN",353744
+"Maharashtra",2004,53,"THANE","GEN",443140
+"Maharashtra",2004,54,"BELAPUR","GEN",1281680
+"Maharashtra",2004,55,"ULHASNAGAR","GEN",390065
+"Maharashtra",2004,56,"AMBERNATH","GEN",545810
+"Maharashtra",2004,57,"KALYAN","GEN",567938
+"Maharashtra",2004,58,"MURBAD","GEN",195301
+"Maharashtra",2004,59,"WADA","ST",319162
+"Maharashtra",2004,60,"BHIWANDI","GEN",481177
+"Maharashtra",2004,61,"VASAI","GEN",471777
+"Maharashtra",2004,62,"PALGHAR","ST",212415
+"Maharashtra",2004,63,"DAHANU","ST",265991
+"Maharashtra",2004,64,"AWHAR","ST",236964
+"Maharashtra",2004,65,"HAHAPUR","ST",177892
+"Maharashtra",2004,66,"IGATPURI","ST",181041
+"Maharashtra",2004,67,"NASHIK","GEN",440300
+"Maharashtra",2004,68,"DEOLALI","SC",383594
+"Maharashtra",2004,69,"SINNAR","GEN",188094
+"Maharashtra",2004,70,"NIPHAD","GEN",216593
+"Maharashtra",2004,71,"YEVLA","GEN",217378
+"Maharashtra",2004,72,"NANDGAON","GEN",209368
+"Maharashtra",2004,73,"MALEGAON","GEN",243955
+"Maharashtra",2004,74,"DABHADI","GEN",211377
+"Maharashtra",2004,75,"CHANDWAD","GEN",187511
+"Maharashtra",2004,76,"DINDORI","ST",229427
+"Maharashtra",2004,77,"URGANA","ST",184484
+"Maharashtra",2004,78,"KALVAN","ST",198783
+"Maharashtra",2004,79,"BAGLAN","ST",201934
+"Maharashtra",2004,80,"SAKRI","ST",227669
+"Maharashtra",2004,81,"NAWAPUR","ST",218313
+"Maharashtra",2004,82,"NANDURBAR","ST",207162
+"Maharashtra",2004,83,"TALODE","ST",185937
+"Maharashtra",2004,84,"AKRANI","ST",183550
+"Maharashtra",2004,85,"SHAHADE","GEN",209838
+"Maharashtra",2004,86,"SHIRPUR","GEN",240124
+"Maharashtra",2004,87,"SINDKHEDA","GEN",177652
+"Maharashtra",2004,88,"KUSUMBA","GEN",206474
+"Maharashtra",2004,89,"DHULE","GEN",259770
+"Maharashtra",2004,90,"CHALISGAON","SC",233378
+"Maharashtra",2004,91,"PAROLA","GEN",225602
+"Maharashtra",2004,92,"AMALNER","GEN",194543
+"Maharashtra",2004,93,"CHOPDA","GEN",179540
+"Maharashtra",2004,94,"ERANDOL","GEN",201082
+"Maharashtra",2004,95,"ALGAON","GEN",280778
+"Maharashtra",2004,96,"PACHORA","GEN",209013
+"Maharashtra",2004,97,"AMNER","GEN",199652
+"Maharashtra",2004,98,"BHUSAWAL","GEN",256362
+"Maharashtra",2004,99,"YAVAL","GEN",167900
+"Maharashtra",2004,100,"RAVER","GEN",181532
+"Maharashtra",2004,101,"EDLABAD","GEN",191398
+"Maharashtra",2004,102,"MALKAPUR","GEN",185940
+"Maharashtra",2004,103,"BULDHANA","GEN",232397
+"Maharashtra",2004,104,"CHIKHLI","GEN",215767
+"Maharashtra",2004,105,"SINDKHEDRAJA","GEN",209156
+"Maharashtra",2004,106,"MEHKAR","GEN",199950
+"Maharashtra",2004,107,"KHAMGAON","GEN",231455
+"Maharashtra",2004,108,"JALAMB","GEN",195821
+"Maharashtra",2004,109,"AKOT","GEN",195783
+"Maharashtra",2004,110,"BORGAON MANJU","GEN",275854
+"Maharashtra",2004,111,"AKOLA","GEN",227978
+"Maharashtra",2004,112,"BALAPUR","GEN",196952
+"Maharashtra",2004,113,"MEDSHI","GEN",172878
+"Maharashtra",2004,114,"WASHIM","SC",193492
+"Maharashtra",2004,115,"MANGRULPIR","GEN",205179
+"Maharashtra",2004,116,"MURTAJAPUR","GEN",185758
+"Maharashtra",2004,117,"KARANJA","GEN",181984
+"Maharashtra",2004,118,"DARYAPUR","GEN",181395
+"Maharashtra",2004,119,"MELGHAT","ST",216597
+"Maharashtra",2004,120,"ACHALPUR","GEN",202196
+"Maharashtra",2004,121,"MORSHI","GEN",182655
+"Maharashtra",2004,122,"TEOSA","GEN",169587
+"Maharashtra",2004,123,"WALGAON","GEN",162376
+"Maharashtra",2004,124,"AMRAVATI","GEN",267557
+"Maharashtra",2004,125,"BADNERA","GEN",238727
+"Maharashtra",2004,126,"CHANDUR","GEN",162046
+"Maharashtra",2004,127,"ARVI","GEN",197303
+"Maharashtra",2004,128,"P.ULGAON","GEN",213009
+"Maharashtra",2004,129,"WARDHA","GEN",204605
+"Maharashtra",2004,130,"HINGANGHAT","GEN",228707
+"Maharashtra",2004,131,"UMRED","GEN",188321
+"Maharashtra",2004,132,"KAMPTEE","GEN",243836
+"Maharashtra",2004,133,"NAGPUR NORTH","SC",306139
+"Maharashtra",2004,134,"NAGPUR EAST","GEN",384487
+"Maharashtra",2004,135,"NAGPUR SOUTH","GEN",232432
+"Maharashtra",2004,136,"NAGPUR CENTRAL","GEN",140297
+"Maharashtra",2004,137,"NAGPUR WEST","GEN",445371
+"Maharashtra",2004,138,"KALMESHWAR","GEN",224350
+"Maharashtra",2004,139,"KATOL","GEN",162354
+"Maharashtra",2004,140,"SAVNER","GEN",200994
+"Maharashtra",2004,141,"RAMTEK","GEN",211185
+"Maharashtra",2004,142,"TUMSAR","GEN",154858
+"Maharashtra",2004,143,"BHANDARA","GEN",179877
+"Maharashtra",2004,144,"ADYAR","GEN",174045
+"Maharashtra",2004,145,"TIRORA","SC",154508
+"Maharashtra",2004,146,"GONDIA","GEN",182076
+"Maharashtra",2004,147,"GOREGAON","GEN",150919
+"Maharashtra",2004,148,"AMGAON","GEN",197486
+"Maharashtra",2004,149,"SAKOLI","GEN",174528
+"Maharashtra",2004,150,"LAKHANDUR","GEN",194719
+"Maharashtra",2004,151,"ARMORI","ST",191744
+"Maharashtra",2004,152,"GADCHIROLI","ST",199256
+"Maharashtra",2004,153,"SIRONCHA","ST",190226
+"Maharashtra",2004,154,"RAJURA","GEN",239726
+"Maharashtra",2004,155,"CHANDRAPUR","GEN",304673
+"Maharashtra",2004,156,"SAOLI","GEN",225887
+"Maharashtra",2004,157,"BRAHMAPURI","GEN",199220
+"Maharashtra",2004,158,"CHIMUR","GEN",196486
+"Maharashtra",2004,159,"BHADRAWATI","GEN",216650
+"Maharashtra",2004,160,"WANI","GEN",186811
+"Maharashtra",2004,161,"RALEGAON","ST",193948
+"Maharashtra",2004,162,"KELAPUR","ST",177304
+"Maharashtra",2004,163,"YAVATMAL","GEN",241899
+"Maharashtra",2004,164,"DARWHA","GEN",185581
+"Maharashtra",2004,165,"DIGRAS","GEN",201735
+"Maharashtra",2004,166,"P.USAD","GEN",225900
+"Maharashtra",2004,167,"UMARKHED","GEN",210981
+"Maharashtra",2004,168,"KINWAT","GEN",185138
+"Maharashtra",2004,169,"HADGAON","GEN",203892
+"Maharashtra",2004,170,"NANDED","GEN",390493
+"Maharashtra",2004,171,"MUDKHED","GEN",232530
+"Maharashtra",2004,172,"BHOKAR","GEN",189990
+"Maharashtra",2004,173,"BILOLI","GEN",240214
+"Maharashtra",2004,174,"MUKHED","SC",223040
+"Maharashtra",2004,175,"KANDHAR","GEN",213421
+"Maharashtra",2004,176,"GANGAKHED","SC",190361
+"Maharashtra",2004,177,"SINGNAPUR","GEN",176125
+"Maharashtra",2004,178,"P.ARBHANI","GEN",257888
+"Maharashtra",2004,179,"BASMATH","GEN",221918
+"Maharashtra",2004,180,"KALAMNURI","GEN",211128
+"Maharashtra",2004,181,"HINGOLI","GEN",221155
+"Maharashtra",2004,182,"JINTUR","GEN",200869
+"Maharashtra",2004,183,"P.ATHRI","GEN",180245
+"Maharashtra",2004,184,"P.ARTUR","GEN",201504
+"Maharashtra",2004,185,"AMBAD","GEN",211881
+"Maharashtra",2004,186,"JALNA","GEN",264867
+"Maharashtra",2004,187,"BADNAPUR","GEN",204112
+"Maharashtra",2004,188,"BHOKARDAN","GEN",222325
+"Maharashtra",2004,189,"SILLOD","GEN",194917
+"Maharashtra",2004,190,"KANNAD","GEN",231705
+"Maharashtra",2004,191,"VAIJAPUR","GEN",185469
+"Maharashtra",2004,192,"GANGAPUR","GEN",252495
+"Maharashtra",2004,193,"AURANGABAD WEST","GEN",561956
+"Maharashtra",2004,194,"AURANGABAD EAST","GEN",295409
+"Maharashtra",2004,195,"P.AITHAN","GEN",172499
+"Maharashtra",2004,196,"GEORAI","GEN",197269
+"Maharashtra",2004,197,"MANJLEGAON","GEN",238225
+"Maharashtra",2004,198,"BEED","GEN",245060
+"Maharashtra",2004,199,"ASHTI","GEN",230221
+"Maharashtra",2004,200,"CHAUSALA","GEN",212219
+"Maharashtra",2004,201,"KAIJ","SC",223252
+"Maharashtra",2004,202,"RENAPUR","GEN",222441
+"Maharashtra",2004,203,"AHMEDPUR","GEN",195729
+"Maharashtra",2004,204,"UDGIR","GEN",220164
+"Maharashtra",2004,205,"HER","SC",166160
+"Maharashtra",2004,206,"LATUR","GEN",354383
+"Maharashtra",2004,207,"KALAMB","SC",181208
+"Maharashtra",2004,208,"P.ARANDA","GEN",192246
+"Maharashtra",2004,209,"OSMANABAD","GEN",221101
+"Maharashtra",2004,210,"AUSA","GEN",202440
+"Maharashtra",2004,211,"NILANGA","GEN",212617
+"Maharashtra",2004,212,"OMERGA","GEN",210728
+"Maharashtra",2004,213,"TULJAPUR","GEN",163981
+"Maharashtra",2004,214,"AKKALKOT","GEN",174504
+"Maharashtra",2004,215,"SOUTH SOLAPUR","GEN",184079
+"Maharashtra",2004,216,"SOLAPUR CITY SOUTH","GEN",189224
+"Maharashtra",2004,217,"SOLAPUR CITY NORTH","GEN",108747
+"Maharashtra",2004,218,"NORTH SOLAPUR","SC",384527
+"Maharashtra",2004,219,"MANGALVEDHE","SC",201283
+"Maharashtra",2004,220,"MOHOL","GEN",175407
+"Maharashtra",2004,221,"BARSHI","GEN",183176
+"Maharashtra",2004,222,"MADHA","GEN",199096
+"Maharashtra",2004,223,"P.ANDHARPUR","GEN",251981
+"Maharashtra",2004,224,"SANGOLE","GEN",242836
+"Maharashtra",2004,225,"MALSHIRAS","GEN",242216
+"Maharashtra",2004,226,"KARMALA","GEN",159704
+"Maharashtra",2004,227,"KARJAT","SC",198363
+"Maharashtra",2004,228,"SHRIGONDA","GEN",227963
+"Maharashtra",2004,229,"AHMEDNAGAR SOUTH","GEN",238375
+"Maharashtra",2004,230,"AHMEDNAGAR NORTH","GEN",263605
+"Maharashtra",2004,231,"PATHARDI","GEN",204822
+"Maharashtra",2004,232,"SHEOGAON","GEN",202335
+"Maharashtra",2004,233,"SHRIRAMPUR","GEN",166780
+"Maharashtra",2004,234,"SHIRDI","GEN",173010
+"Maharashtra",2004,235,"KOPARGAON","GEN",177938
+"Maharashtra",2004,236,"RAHURI","GEN",184375
+"Maharashtra",2004,237,"P.ARNER","GEN",171417
+"Maharashtra",2004,238,"SANGAMNER","GEN",232771
+"Maharashtra",2004,239,"NAGAR-AKOLA","ST",216871
+"Maharashtra",2004,240,"JUNNAR","GEN",207329
+"Maharashtra",2004,241,"AMBEGAON","GEN",170589
+"Maharashtra",2004,242,"KHED-ALANDI","GEN",232681
+"Maharashtra",2004,243,"MAVAL","GEN",221286
+"Maharashtra",2004,244,"MULSHI","GEN",419117
+"Maharashtra",2004,245,"HAVELI","GEN",805778
+"Maharashtra",2004,246,"BOPODI","GEN",242028
+"Maharashtra",2004,247,"SHIVAJINAGAR","GEN",398465
+"Maharashtra",2004,248,"PARVATI","SC",408804
+"Maharashtra",2004,249,"KASBA PETH","GEN",124712
+"Maharashtra",2004,250,"BHAVANI PETH","GEN",186174
+"Maharashtra",2004,251,"PUNE CANTONMENT","GEN",425267
+"Maharashtra",2004,252,"SHIRUR","GEN",209482
+"Maharashtra",2004,253,"DAUND","GEN",273799
+"Maharashtra",2004,254,"INDAPUR","GEN",228469
+"Maharashtra",2004,255,"BARAMATI","GEN",209320
+"Maharashtra",2004,256,"PURANDHAR","GEN",232231
+"Maharashtra",2004,257,"BHOR","GEN",162135
+"Maharashtra",2004,258,"PHALTAN","GEN",198869
+"Maharashtra",2004,259,"MAN","SC",209745
+"Maharashtra",2004,260,"KHATAV","GEN",191961
+"Maharashtra",2004,261,"KOREGAON","GEN",178415
+"Maharashtra",2004,262,"WAI","GEN",169614
+"Maharashtra",2004,263,"JAOLI","GEN",208279
+"Maharashtra",2004,264,"SATARA","GEN",222703
+"Maharashtra",2004,265,"PATAN","GEN",175114
+"Maharashtra",2004,266,"KARAD NORTH","GEN",213528
+"Maharashtra",2004,267,"KARAD SOUTH","GEN",189610
+"Maharashtra",2004,268,"SHIRALA","GEN",200105
+"Maharashtra",2004,269,"WALVA","GEN",217121
+"Maharashtra",2004,270,"BHILAWADI WANGI","GEN",208429
+"Maharashtra",2004,271,"SANGLI","GEN",206469
+"Maharashtra",2004,272,"MIRAJ","GEN",218485
+"Maharashtra",2004,273,"TASGAON","GEN",175174
+"Maharashtra",2004,274,"KHANAPUR ATPADI","GEN",214805
+"Maharashtra",2004,275,"KAVATHE MAHANKAL","GEN",195845
+"Maharashtra",2004,276,"JAT","SC",205467
+"Maharashtra",2004,277,"SHIROL","GEN",236124
+"Maharashtra",2004,278,"ICHALKARANJI","GEN",264487
+"Maharashtra",2004,279,"VADGAON","SC",218553
+"Maharashtra",2004,280,"SHAHUWADI","GEN",171070
+"Maharashtra",2004,281,"PANHALA","GEN",160412
+"Maharashtra",2004,282,"SANGRUL","GEN",194456
+"Maharashtra",2004,283,"RADHANAGARI","GEN",198668
+"Maharashtra",2004,284,"KOLHAPUR","GEN",217736
+"Maharashtra",2004,285,"KARVIR","GEN",258178
+"Maharashtra",2004,286,"KAGAL","GEN",183059
+"Maharashtra",2004,287,"GADHINGLAJ","GEN",177008
+"Maharashtra",2004,288,"CHANDGAD","GEN",179187
+"Maharashtra",2009,1,"AKKALKUWA","ST",209521
+"Maharashtra",2009,2,"SHAHADA","ST",257248
+"Maharashtra",2009,3,"NANDURBAR","ST",267280
+"Maharashtra",2009,4,"NAWAPUR","ST",231811
+"Maharashtra",2009,5,"SAKRI","ST",284411
+"Maharashtra",2009,6,"DHULE RURAL","GEN",322222
+"Maharashtra",2009,7,"DHULE CITY","GEN",269624
+"Maharashtra",2009,8,"SINDKHEDA","GEN",274283
+"Maharashtra",2009,9,"SHIRPUR","ST",268703
+"Maharashtra",2009,10,"CHOPDA","ST",253260
+"Maharashtra",2009,11,"RAVER","GEN",244991
+"Maharashtra",2009,12,"BHUSAWAL","GEN",258725
+"Maharashtra",2009,13,"JALGAON CITY","GEN",308762
+"Maharashtra",2009,14,"JALGAON RURAL","GEN",258199
+"Maharashtra",2009,15,"AMALNER","GEN",252420
+"Maharashtra",2009,16,"ERANDOL","GEN",235318
+"Maharashtra",2009,17,"CHALISGAON","GEN",294456
+"Maharashtra",2009,18,"PACHORA","GEN",252303
+"Maharashtra",2009,19,"JAMNER","GEN",247939
+"Maharashtra",2009,20,"MUKTAINAGAR","GEN",233797
+"Maharashtra",2009,21,"MALKAPUR","GEN",225553
+"Maharashtra",2009,22,"BULDHANA","GEN",236442
+"Maharashtra",2009,23,"CHIKHLI","GEN",234514
+"Maharashtra",2009,24,"SINDKHED RAJA","GEN",260494
+"Maharashtra",2009,25,"MEHKAR","SC",248049
+"Maharashtra",2009,26,"KHAMGAON","GEN",236557
+"Maharashtra",2009,27,"JALGAON (JAMOD)","GEN",230080
+"Maharashtra",2009,28,"AKOT","GEN",238960
+"Maharashtra",2009,29,"BALAPUR","GEN",247924
+"Maharashtra",2009,30,"AKOLA WEST","GEN",256923
+"Maharashtra",2009,31,"AKOLA EAST","GEN",274988
+"Maharashtra",2009,32,"MURTIJAPUR","SC",257296
+"Maharashtra",2009,33,"RISOD","GEN",251309
+"Maharashtra",2009,34,"WASHIM","SC",277460
+"Maharashtra",2009,35,"KARANJA","GEN",249933
+"Maharashtra",2009,36,"DHAMAMGAON RAILWAY","GEN",270397
+"Maharashtra",2009,37,"BADNERA","GEN",275076
+"Maharashtra",2009,38,"AMRAVATI","GEN",269822
+"Maharashtra",2009,39,"TEOSA","GEN",243802
+"Maharashtra",2009,40,"DARYAPUR","SC",256444
+"Maharashtra",2009,41,"MELGHAT","ST",214543
+"Maharashtra",2009,42,"ACHALPUR","GEN",233004
+"Maharashtra",2009,43,"MORSHI","GEN",241052
+"Maharashtra",2009,44,"ARVI","GEN",231047
+"Maharashtra",2009,45,"DEOLI","GEN",224565
+"Maharashtra",2009,46,"HINGANGHAT","GEN",244590
+"Maharashtra",2009,47,"WARDHA","GEN",241396
+"Maharashtra",2009,48,"KATOL","GEN",245811
+"Maharashtra",2009,49,"SAVNER","GEN",248489
+"Maharashtra",2009,50,"HINGNA","GEN",275584
+"Maharashtra",2009,51,"UMRED","SC",277378
+"Maharashtra",2009,52,"NAGPUR SOUTH WEST","GEN",351021
+"Maharashtra",2009,53,"NAGPUR SOUTH","GEN",329096
+"Maharashtra",2009,54,"NAGPUR EAST","GEN",283000
+"Maharashtra",2009,55,"NAGPUR CENTRAL","GEN",304487
+"Maharashtra",2009,56,"NAGPUR WEST","GEN",340973
+"Maharashtra",2009,57,"NAGPUR NORTH","SC",322158
+"Maharashtra",2009,58,"KAMTHI","GEN",327629
+"Maharashtra",2009,59,"RAMTEK","GEN",237560
+"Maharashtra",2009,60,"TUMSAR","GEN",257121
+"Maharashtra",2009,61,"BHANDARA","SC",304236
+"Maharashtra",2009,62,"SAKOLI","GEN",274830
+"Maharashtra",2009,63,"ARJUNI-MORGAON","SC",202794
+"Maharashtra",2009,64,"TIRORA","GEN",198218
+"Maharashtra",2009,65,"GONDIYA","GEN",250839
+"Maharashtra",2009,66,"AMGAON","ST",218421
+"Maharashtra",2009,67,"ARMORI","ST",205731
+"Maharashtra",2009,68,"GADCHIROLI","ST",237610
+"Maharashtra",2009,69,"AHERI","ST",191149
+"Maharashtra",2009,70,"RAJURA","GEN",268075
+"Maharashtra",2009,71,"CHANDRAPUR","SC",304673
+"Maharashtra",2009,72,"BALLARPUR","GEN",283450
+"Maharashtra",2009,73,"BRAHMAPURI","GEN",224521
+"Maharashtra",2009,74,"CHIMUR","GEN",235565
+"Maharashtra",2009,75,"WARORA","GEN",244059
+"Maharashtra",2009,76,"WANI","GEN",247076
+"Maharashtra",2009,77,"RALEGAON","ST",242260
+"Maharashtra",2009,78,"YAVATMAL","GEN",316167
+"Maharashtra",2009,79,"DIGRAS","GEN",266460
+"Maharashtra",2009,80,"ARNI","ST",259220
+"Maharashtra",2009,81,"PUSAD","GEN",240260
+"Maharashtra",2009,82,"UMARKHED","SC",242024
+"Maharashtra",2009,83,"KINWAT","GEN",204891
+"Maharashtra",2009,84,"HADGAON","GEN",231275
+"Maharashtra",2009,85,"BHOKAR","GEN",219464
+"Maharashtra",2009,86,"NANDED NORTH","GEN",276167
+"Maharashtra",2009,87,"NANDED SOUTH","GEN",261948
+"Maharashtra",2009,88,"LOHA","GEN",219852
+"Maharashtra",2009,89,"NAIGAON","GEN",242163
+"Maharashtra",2009,90,"DEGLUR","SC",253801
+"Maharashtra",2009,91,"MUKHED","GEN",242121
+"Maharashtra",2009,92,"BASMATH","GEN",237126
+"Maharashtra",2009,93,"KALAMNURI","GEN",246252
+"Maharashtra",2009,94,"HINGOLI","GEN",253516
+"Maharashtra",2009,95,"JINTUR","GEN",284870
+"Maharashtra",2009,96,"PARBHANI","GEN",268357
+"Maharashtra",2009,97,"GANGAKHED","GEN",311762
+"Maharashtra",2009,98,"PATHRI","GEN",297910
+"Maharashtra",2009,99,"PARTUR","GEN",243336
+"Maharashtra",2009,100,"GHANSAWANGI","GEN",249598
+"Maharashtra",2009,101,"JALNA","GEN",261974
+"Maharashtra",2009,102,"BADNAPUR","SC",245459
+"Maharashtra",2009,103,"BHOKARDAN","GEN",229652
+"Maharashtra",2009,104,"SILLOD","GEN",251080
+"Maharashtra",2009,105,"KANNAD","GEN",257180
+"Maharashtra",2009,106,"PHULAMBRI","GEN",249538
+"Maharashtra",2009,107,"AURANGABAD CENTRAL","GEN",250536
+"Maharashtra",2009,108,"AURANGABAD WEST","SC",238747
+"Maharashtra",2009,109,"AURANGABAD EAST","GEN",236756
+"Maharashtra",2009,110,"PAITHAN","GEN",230197
+"Maharashtra",2009,111,"GANGAPUR","GEN",241146
+"Maharashtra",2009,112,"VAIJAPUR","GEN",245849
+"Maharashtra",2009,113,"NANDGAON","GEN",283173
+"Maharashtra",2009,114,"MALEGAON CENTRAL","GEN",241115
+"Maharashtra",2009,115,"MALEGAON OUTER","GEN",293759
+"Maharashtra",2009,116,"BAGLAN","ST",236388
+"Maharashtra",2009,117,"KALWAN","ST",210368
+"Maharashtra",2009,118,"CHANDVAD","GEN",236866
+"Maharashtra",2009,119,"YEVLA","GEN",256859
+"Maharashtra",2009,120,"SINNAR","GEN",244047
+"Maharashtra",2009,121,"NIPHAD","GEN",230305
+"Maharashtra",2009,122,"DINDORI","ST",242616
+"Maharashtra",2009,123,"NASHIK EAST","GEN",287308
+"Maharashtra",2009,124,"NASHIK CENTRAL","GEN",287859
+"Maharashtra",2009,125,"NASHIK WEST","GEN",303445
+"Maharashtra",2009,126,"DEVLALI","SC",221855
+"Maharashtra",2009,127,"IGATPURI","ST",206251
+"Maharashtra",2009,128,"DAHANU","ST",236251
+"Maharashtra",2009,129,"VIKRAMGAD","ST",240834
+"Maharashtra",2009,130,"PALGHAR","ST",235982
+"Maharashtra",2009,131,"BOISAR","ST",243557
+"Maharashtra",2009,132,"NALASOPARA","GEN",351555
+"Maharashtra",2009,133,"VASAI","GEN",284475
+"Maharashtra",2009,134,"BHIWANDI RURAL","ST",239237
+"Maharashtra",2009,135,"SHAHAPUR","ST",221737
+"Maharashtra",2009,136,"BHIWANDI WEST","GEN",234374
+"Maharashtra",2009,137,"BHIWANDI EAST","GEN",222958
+"Maharashtra",2009,138,"KALYAN WEST","GEN",322529
+"Maharashtra",2009,139,"MURBAD","GEN",291042
+"Maharashtra",2009,140,"AMBERNATH","SC",292804
+"Maharashtra",2009,141,"ULHAS NAGAR","GEN",287964
+"Maharashtra",2009,142,"KALYAN EAST","GEN",268743
+"Maharashtra",2009,143,"DOMBIVALI","GEN",294420
+"Maharashtra",2009,144,"KALYAN RURAL","GEN",262111
+"Maharashtra",2009,145,"MIRA BHAYANDAR","GEN",328354
+"Maharashtra",2009,146,"OVALA - MAJIWADA","GEN",310341
+"Maharashtra",2009,147,"KOPRI-PACHPAKHADI","GEN",318060
+"Maharashtra",2009,148,"THANE","GEN",307240
+"Maharashtra",2009,149,"MUMBRA-KALWA","GEN",279567
+"Maharashtra",2009,150,"AIROLI","GEN",316514
+"Maharashtra",2009,151,"BELAPUR","GEN",313327
+"Maharashtra",2009,152,"BORIVALI","GEN",300840
+"Maharashtra",2009,153,"DAHISAR","GEN",275806
+"Maharashtra",2009,154,"MAGATHANE","GEN",269399
+"Maharashtra",2009,155,"MULUND","GEN",301518
+"Maharashtra",2009,156,"VIKHROLI","GEN",236407
+"Maharashtra",2009,157,"BHANDUP WEST","GEN",283723
+"Maharashtra",2009,158,"JOGESHWARI EAST","GEN",283536
+"Maharashtra",2009,159,"DINDOSHI","GEN",263225
+"Maharashtra",2009,160,"KANDIVALI EAST","GEN",254551
+"Maharashtra",2009,161,"CHARKOP","GEN",288557
+"Maharashtra",2009,162,"MALAD WEST","GEN",279017
+"Maharashtra",2009,163,"GOREGAON","GEN",303502
+"Maharashtra",2009,164,"VERSOVA","GEN",251940
+"Maharashtra",2009,165,"ANDHERI WEST","GEN",287021
+"Maharashtra",2009,166,"ANDHERI EAST","GEN",276529
+"Maharashtra",2009,167,"VILE PARLE","GEN",272381
+"Maharashtra",2009,168,"CHANDIVALI","GEN",368233
+"Maharashtra",2009,169,"GHATKOPAR WEST","GEN",305535
+"Maharashtra",2009,170,"GHATKOPAR EAST","GEN",240852
+"Maharashtra",2009,171,"MANKHURD SHIVAJI NAGAR","GEN",270843
+"Maharashtra",2009,172,"ANUSHAKTI NAGAR","GEN",238900
+"Maharashtra",2009,173,"CHEMBUR","GEN",252142
+"Maharashtra",2009,174,"KURLA","SC",284951
+"Maharashtra",2009,175,"KALINA","GEN",257576
+"Maharashtra",2009,176,"VANDRE EAST","GEN",261177
+"Maharashtra",2009,177,"VANDRE WEST","GEN",297919
+"Maharashtra",2009,178,"DHARAVI","SC",268770
+"Maharashtra",2009,179,"SION KOLIWADA","GEN",290317
+"Maharashtra",2009,180,"WADALA","GEN",242626
+"Maharashtra",2009,181,"MAHIM","GEN",255706
+"Maharashtra",2009,182,"WORLI","GEN",283526
+"Maharashtra",2009,183,"SHIVADI","GEN",268013
+"Maharashtra",2009,184,"BYCULLA","GEN",271507
+"Maharashtra",2009,185,"MALABAR HILL","GEN",270998
+"Maharashtra",2009,186,"MUMBA DEVI","GEN",261263
+"Maharashtra",2009,187,"COLABA","GEN",275035
+"Maharashtra",2009,188,"PANVEL","GEN",266533
+"Maharashtra",2009,189,"KARJAT","GEN",211523
+"Maharashtra",2009,190,"URAN","GEN",222892
+"Maharashtra",2009,191,"PEN","GEN",244673
+"Maharashtra",2009,192,"ALIBAG","GEN",245991
+"Maharashtra",2009,193,"SHRIVARDHAN","GEN",214625
+"Maharashtra",2009,194,"MAHAD","GEN",240674
+"Maharashtra",2009,195,"JUNNAR","GEN",258092
+"Maharashtra",2009,196,"AMBEGAON","GEN",249218
+"Maharashtra",2009,197,"KHED ALANDI","GEN",259751
+"Maharashtra",2009,198,"SHIRUR","GEN",285129
+"Maharashtra",2009,199,"DAUND","GEN",254471
+"Maharashtra",2009,200,"INDAPUR","GEN",248929
+"Maharashtra",2009,201,"BARAMATI","GEN",290528
+"Maharashtra",2009,202,"PURANDAR","GEN",269509
+"Maharashtra",2009,203,"BHOR","GEN",284384
+"Maharashtra",2009,204,"MAVAL","GEN",280748
+"Maharashtra",2009,205,"CHINCHWAD","GEN",391857
+"Maharashtra",2009,206,"PIMPRI","SC",344485
+"Maharashtra",2009,207,"BHOSARI","GEN",344093
+"Maharashtra",2009,208,"VADGAOL SHERI","GEN",365861
+"Maharashtra",2009,209,"SHIVAJINAGAR","GEN",302251
+"Maharashtra",2009,210,"KOTHRUD","GEN",333693
+"Maharashtra",2009,211,"KHADAKWASALA","GEN",356137
+"Maharashtra",2009,212,"PARVATI","GEN",340343
+"Maharashtra",2009,213,"HADAPSAR","GEN",363007
+"Maharashtra",2009,214,"PUNE CANTONMENT","SC",318346
+"Maharashtra",2009,215,"KASBA PETH","GEN",317093
+"Maharashtra",2009,216,"AKOLE","ST",209714
+"Maharashtra",2009,217,"SANGAMNER","GEN",229249
+"Maharashtra",2009,218,"SHIRDI","GEN",213215
+"Maharashtra",2009,219,"KOPARGAON","GEN",227023
+"Maharashtra",2009,220,"SHRIRAMPUR","SC",241973
+"Maharashtra",2009,221,"NEVASA","GEN",222401
+"Maharashtra",2009,222,"SHEVGAON","GEN",282571
+"Maharashtra",2009,223,"RAHURI","GEN",240008
+"Maharashtra",2009,224,"PARNER","GEN",263287
+"Maharashtra",2009,225,"AHMEDNAGAR CITY","GEN",267712
+"Maharashtra",2009,226,"SHRIGONDA","GEN",262910
+"Maharashtra",2009,227,"KARJAT JAMKHED","GEN",260145
+"Maharashtra",2009,228,"GEORAI","GEN",288334
+"Maharashtra",2009,229,"MAJALGAON","GEN",264278
+"Maharashtra",2009,230,"BEED","GEN",284304
+"Maharashtra",2009,231,"ASHTI","GEN",310902
+"Maharashtra",2009,232,"KAIJ","SC",296749
+"Maharashtra",2009,233,"PARLI","GEN",254178
+"Maharashtra",2009,234,"LATUR RURAL","GEN",263552
+"Maharashtra",2009,235,"LATUR CITY","GEN",292030
+"Maharashtra",2009,236,"AHMADPUR","GEN",265997
+"Maharashtra",2009,237,"UDGIR","SC",246273
+"Maharashtra",2009,238,"NILANGA","GEN",266845
+"Maharashtra",2009,239,"AUSA","GEN",252337
+"Maharashtra",2009,240,"UMARGA","SC",266557
+"Maharashtra",2009,241,"TULJAPUR","GEN",298290
+"Maharashtra",2009,242,"OSMANABAD","GEN",296247
+"Maharashtra",2009,243,"PARANDA","GEN",268195
+"Maharashtra",2009,244,"KARMALA","GEN",250527
+"Maharashtra",2009,245,"MADHA","GEN",266348
+"Maharashtra",2009,246,"BARSHI","GEN",268894
+"Maharashtra",2009,247,"MOHOL","SC",260690
+"Maharashtra",2009,248,"SOLAPUR CITY NORTH","GEN",267133
+"Maharashtra",2009,249,"SOLAPUR CITY CENTRAL","GEN",285075
+"Maharashtra",2009,250,"AKKALKOT","GEN",300871
+"Maharashtra",2009,251,"SOLAPUR SOUTH","GEN",269863
+"Maharashtra",2009,252,"PANDHARPUR","GEN",274527
+"Maharashtra",2009,253,"SANGOLE","GEN",252474
+"Maharashtra",2009,254,"MALSHIRAS","SC",271422
+"Maharashtra",2009,255,"PHALTAN","SC",274690
+"Maharashtra",2009,256,"WAI","GEN",282316
+"Maharashtra",2009,257,"KOREGAON","GEN",260933
+"Maharashtra",2009,258,"MAN","GEN",280755
+"Maharashtra",2009,259,"KARAD NORTH","GEN",255179
+"Maharashtra",2009,260,"KARAD SOUTH","GEN",252463
+"Maharashtra",2009,261,"PATAN","GEN",247921
+"Maharashtra",2009,262,"SATARA","GEN",290993
+"Maharashtra",2009,263,"DAPOLI","GEN",239495
+"Maharashtra",2009,264,"GUHAGAR","GEN",205376
+"Maharashtra",2009,265,"CHIPLUN","GEN",225256
+"Maharashtra",2009,266,"RATNAGIRI","GEN",237258
+"Maharashtra",2009,267,"RAJAPUR","GEN",211245
+"Maharashtra",2009,268,"KANKAVLI","GEN",204374
+"Maharashtra",2009,269,"KUDAL","GEN",186624
+"Maharashtra",2009,270,"SAWANTWADI","GEN",202926
+"Maharashtra",2009,271,"CHANDGAD","GEN",267039
+"Maharashtra",2009,272,"RADHANAGARI","GEN",280707
+"Maharashtra",2009,273,"KAGAL","GEN",278710
+"Maharashtra",2009,274,"KOLHAPUR SOUTH","GEN",276246
+"Maharashtra",2009,275,"KARVIR","GEN",258387
+"Maharashtra",2009,276,"KOLHAPUR NORTH","GEN",265893
+"Maharashtra",2009,277,"SHAHUWADI","GEN",242339
+"Maharashtra",2009,278,"HATKANANGLE","SC",276770
+"Maharashtra",2009,279,"ICHALKARANJI","GEN",261541
+"Maharashtra",2009,280,"SHIROL","GEN",255072
+"Maharashtra",2009,281,"MIRAJ","SC",274422
+"Maharashtra",2009,282,"SANGLI","GEN",290587
+"Maharashtra",2009,283,"ISLAMPUR","GEN",226614
+"Maharashtra",2009,284,"SHIRALA","GEN",250806
+"Maharashtra",2009,285,"PALUS-KADEGAON","GEN",233259
+"Maharashtra",2009,286,"KHANAPUR","GEN",272496
+"Maharashtra",2009,287,"TASGAON - KAVATHE MAHANKAL","GEN",249906
+"Maharashtra",2009,288,"JAT","GEN",223786
+"Maharashtra",2014,1,"AKKALKUWA","ST",247070
+"Maharashtra",2014,2,"SHAHADA","ST",286284
+"Maharashtra",2014,3,"NANDURBAR","ST",311939
+"Maharashtra",2014,4,"NAWAPUR","ST",266023
+"Maharashtra",2014,5,"SAKRI","ST",307595
+"Maharashtra",2014,6,"DHULE RURAL","GEN",350839
+"Maharashtra",2014,7,"DHULE CITY","GEN",286187
+"Maharashtra",2014,8,"SINDKHEDA","GEN",307064
+"Maharashtra",2014,9,"SHIRPUR","ST",295736
+"Maharashtra",2014,10,"CHOPDA","ST",278782
+"Maharashtra",2014,11,"RAVER","GEN",275136
+"Maharashtra",2014,12,"BHUSAWAL","SC",275330
+"Maharashtra",2014,13,"JALGAON CITY","GEN",336422
+"Maharashtra",2014,14,"JALGAON RURAL","GEN",287123
+"Maharashtra",2014,15,"AMALNER","GEN",265405
+"Maharashtra",2014,16,"ERANDOL","GEN",256583
+"Maharashtra",2014,17,"CHALISGAON","GEN",323486
+"Maharashtra",2014,18,"PACHORA","GEN",287812
+"Maharashtra",2014,19,"JAMNER","GEN",278356
+"Maharashtra",2014,20,"MUKTAINAGAR","GEN",266973
+"Maharashtra",2014,21,"MALKAPUR","GEN",252603
+"Maharashtra",2014,22,"BULDHANA","GEN",272798
+"Maharashtra",2014,23,"CHIKHLI","GEN",265527
+"Maharashtra",2014,24,"SINDKHED RAJA","GEN",284006
+"Maharashtra",2014,25,"MEHKAR","SC",280172
+"Maharashtra",2014,26,"KHAMGAON","GEN",263356
+"Maharashtra",2014,27,"JALGAON (JAMOD)","GEN",262563
+"Maharashtra",2014,28,"AKOT","GEN",272708
+"Maharashtra",2014,29,"BALAPUR","GEN",280085
+"Maharashtra",2014,30,"AKOLA WEST","GEN",276433
+"Maharashtra",2014,31,"AKOLA EAST","GEN",300651
+"Maharashtra",2014,32,"MURTIZAPUR","SC",293003
+"Maharashtra",2014,33,"RISOD","GEN",291327
+"Maharashtra",2014,34,"WASHIM","SC",325785
+"Maharashtra",2014,35,"KARANJA","GEN",288706
+"Maharashtra",2014,36,"DHAMANGAON RAILWAY","GEN",290053
+"Maharashtra",2014,37,"BADNERA","GEN",312684
+"Maharashtra",2014,38,"AMRAVATI","GEN",286094
+"Maharashtra",2014,39,"TEOSA","GEN",270408
+"Maharashtra",2014,40,"DARYAPUR","SC",281520
+"Maharashtra",2014,41,"MELGHAT","ST",257479
+"Maharashtra",2014,42,"ACHALPUR","GEN",253318
+"Maharashtra",2014,43,"MORSHI","GEN",265773
+"Maharashtra",2014,44,"ARVI","GEN",248828
+"Maharashtra",2014,45,"DEOLI","GEN",248404
+"Maharashtra",2014,46,"HINGANGHAT","GEN",260968
+"Maharashtra",2014,47,"WARDHA","GEN",283104
+"Maharashtra",2014,48,"KATOL","GEN",250822
+"Maharashtra",2014,49,"SAVNER","GEN",270185
+"Maharashtra",2014,50,"HINGNA","GEN",303081
+"Maharashtra",2014,51,"UMRED","SC",284020
+"Maharashtra",2014,52,"NAGPUR SOUTH WEST","GEN",341300
+"Maharashtra",2014,53,"NAGPUR SOUTH","GEN",342268
+"Maharashtra",2014,54,"NAGPUR EAST","GEN",327400
+"Maharashtra",2014,55,"NAGPUR CENTRAL","GEN",292716
+"Maharashtra",2014,56,"NAGPUR WEST","GEN",329645
+"Maharashtra",2014,57,"NAGPUR NORTH","SC",338120
+"Maharashtra",2014,58,"KAMTHI","GEN",377591
+"Maharashtra",2014,59,"RAMTEK","GEN",247504
+"Maharashtra",2014,60,"TUMSAR","GEN",282319
+"Maharashtra",2014,61,"BHANDARA","SC",341185
+"Maharashtra",2014,62,"SAKOLI","GEN",296188
+"Maharashtra",2014,63,"ARJUNI-MORGAON","SC",239073
+"Maharashtra",2014,64,"TIRORA","GEN",239939
+"Maharashtra",2014,65,"GONDIYA","GEN",294399
+"Maharashtra",2014,66,"AMGAON","ST",252649
+"Maharashtra",2014,67,"ARMORI","ST",238937
+"Maharashtra",2014,68,"GADCHIROLI","ST",277193
+"Maharashtra",2014,69,"AHERI","ST",215360
+"Maharashtra",2014,70,"RAJURA","GEN",296699
+"Maharashtra",2014,71,"CHANDRAPUR","SC",358250
+"Maharashtra",2014,72,"BALLARPUR","GEN",307463
+"Maharashtra",2014,73,"BRAHMAPURI","GEN",255431
+"Maharashtra",2014,74,"CHIMUR","GEN",262142
+"Maharashtra",2014,75,"WARORA","GEN",278891
+"Maharashtra",2014,76,"WANI","GEN",268850
+"Maharashtra",2014,77,"RALEGAON","ST",269688
+"Maharashtra",2014,78,"YAVATMAL","GEN",347558
+"Maharashtra",2014,79,"DIGRAS","GEN",296059
+"Maharashtra",2014,80,"ARNI","ST",287414
+"Maharashtra",2014,81,"PUSAD","GEN",281610
+"Maharashtra",2014,82,"UMARKHED","SC",277187
+"Maharashtra",2014,83,"KINWAT","GEN",244447
+"Maharashtra",2014,84,"HADGAON","GEN",266610
+"Maharashtra",2014,85,"BHOKAR","GEN",263518
+"Maharashtra",2014,86,"NANDED NORTH","GEN",331722
+"Maharashtra",2014,87,"NANDED SOUTH","GEN",301001
+"Maharashtra",2014,88,"LOHA","GEN",259734
+"Maharashtra",2014,89,"NAIGAON","GEN",280093
+"Maharashtra",2014,90,"DEGLUR","SC",290397
+"Maharashtra",2014,91,"MUKHED","GEN",274960
+"Maharashtra",2014,92,"BASMATH","GEN",263398
+"Maharashtra",2014,93,"KALAMNURI","GEN",283223
+"Maharashtra",2014,94,"HINGOLI","GEN",286671
+"Maharashtra",2014,95,"JINTUR","GEN",324115
+"Maharashtra",2014,96,"PARBHANI","GEN",278377
+"Maharashtra",2014,97,"GANGAKHED","GEN",365115
+"Maharashtra",2014,98,"PATHRI","GEN",333594
+"Maharashtra",2014,99,"PARTUR","GEN",267549
+"Maharashtra",2014,100,"GHANSAWANGI","GEN",283562
+"Maharashtra",2014,101,"JALNA","GEN",294434
+"Maharashtra",2014,102,"BADNAPUR","SC",276737
+"Maharashtra",2014,103,"BHOKARDAN","GEN",268076
+"Maharashtra",2014,104,"SILLOD","GEN",278474
+"Maharashtra",2014,105,"KANNAD","GEN",281425
+"Maharashtra",2014,106,"PHULAMBRI","GEN",287355
+"Maharashtra",2014,107,"AURANGABAD CENTRAL","GEN",286978
+"Maharashtra",2014,108,"AURANGABAD WEST","SC",287750
+"Maharashtra",2014,109,"AURANGABAD EAST","GEN",261887
+"Maharashtra",2014,110,"PAITHAN","GEN",262167
+"Maharashtra",2014,111,"GANGAPUR","GEN",271496
+"Maharashtra",2014,112,"VAIJAPUR","GEN",274887
+"Maharashtra",2014,113,"NANDGAON","GEN",296834
+"Maharashtra",2014,114,"MALEGAON CENTRAL","GEN",246308
+"Maharashtra",2014,115,"MALEGAON OUTER","GEN",300611
+"Maharashtra",2014,116,"BAGLAN","ST",248555
+"Maharashtra",2014,117,"KALWAN","ST",241613
+"Maharashtra",2014,118,"CHANDVAD","GEN",255252
+"Maharashtra",2014,119,"YEVLA","GEN",274072
+"Maharashtra",2014,120,"SINNAR","GEN",275145
+"Maharashtra",2014,121,"NIPHAD","GEN",247595
+"Maharashtra",2014,122,"DINDORI","ST",269205
+"Maharashtra",2014,123,"NASHIK EAST","GEN",317898
+"Maharashtra",2014,124,"NASHIK CENTRAL","GEN",309633
+"Maharashtra",2014,125,"NASHIK WEST","GEN",335649
+"Maharashtra",2014,126,"DEVLALI","SC",244051
+"Maharashtra",2014,127,"IGATPURI","ST",235601
+"Maharashtra",2014,128,"DAHANU","ST",234175
+"Maharashtra",2014,129,"VIKRAMGAD","ST",246431
+"Maharashtra",2014,130,"PALGHAR","ST",241079
+"Maharashtra",2014,131,"BOISAR","ST",252411
+"Maharashtra",2014,132,"NALASOPARA","GEN",396240
+"Maharashtra",2014,133,"VASAI","GEN",290944
+"Maharashtra",2014,134,"BHIWANDI RURAL (S.T.)","ST",262433
+"Maharashtra",2014,135,"SHAHAPUR","ST",235303
+"Maharashtra",2014,136,"BHIWANDI WEST","GEN",252131
+"Maharashtra",2014,137,"BHIWANDI EAST","GEN",274371
+"Maharashtra",2014,138,"KALYAN WEST","GEN",396951
+"Maharashtra",2014,139,"MURBAD","GEN",356038
+"Maharashtra",2014,140,"AMBERNATH","SC",344155
+"Maharashtra",2014,141,"ULHASNAGAR","GEN",326684
+"Maharashtra",2014,142,"KALYAN EAST","GEN",312659
+"Maharashtra",2014,143,"DOMBIVALI","GEN",338330
+"Maharashtra",2014,144,"KALYAN RURAL","GEN",349261
+"Maharashtra",2014,145,"MIRA BHAYANDAR","GEN",364958
+"Maharashtra",2014,146,"OVALA - MAJIWADA","GEN",370547
+"Maharashtra",2014,147,"KOPRI-PACHPAKHADI","GEN",347497
+"Maharashtra",2014,148,"THANE","GEN",322390
+"Maharashtra",2014,149,"MUMBRA-KALWA","GEN",348482
+"Maharashtra",2014,150,"AIROLI","GEN",408139
+"Maharashtra",2014,151,"BELAPUR","GEN",382185
+"Maharashtra",2014,152,"BORIVALI","GEN",327955
+"Maharashtra",2014,153,"DAHISAR","GEN",316607
+"Maharashtra",2014,154,"MAGATHANE","GEN",307735
+"Maharashtra",2014,155,"MULUND","GEN",298242
+"Maharashtra",2014,156,"VIKHROLI","GEN",254830
+"Maharashtra",2014,157,"BHANDUP WEST","GEN",298510
+"Maharashtra",2014,158,"JOGESHWARI EAST","GEN",289805
+"Maharashtra",2014,159,"DINDOSHI","GEN",297492
+"Maharashtra",2014,160,"KANDIVALI EAST","GEN",273300
+"Maharashtra",2014,161,"CHARKOP","GEN",316867
+"Maharashtra",2014,162,"MALAD WEST","GEN",303083
+"Maharashtra",2014,163,"GOREGAON","GEN",337693
+"Maharashtra",2014,164,"VERSOVA","GEN",301483
+"Maharashtra",2014,165,"ANDHERI WEST","GEN",309772
+"Maharashtra",2014,166,"ANDHERI EAST","GEN",286282
+"Maharashtra",2014,167,"VILE PARLE","GEN",286158
+"Maharashtra",2014,168,"CHANDIVALI","GEN",417700
+"Maharashtra",2014,169,"GHATKOPAR WEST","GEN",303172
+"Maharashtra",2014,170,"GHATKOPAR EAST","GEN",248501
+"Maharashtra",2014,171,"MANKHURD SHIVAJI NAGAR","GEN",309419
+"Maharashtra",2014,172,"ANUSHAKTI NAGAR","GEN",289188
+"Maharashtra",2014,173,"CHEMBUR","GEN",279585
+"Maharashtra",2014,174,"KURLA","SC",290484
+"Maharashtra",2014,175,"KALINA","GEN",252994
+"Maharashtra",2014,176,"VANDRE EAST","GEN",263798
+"Maharashtra",2014,177,"VANDRE WEST","GEN",286621
+"Maharashtra",2014,178,"DHARAVI","SC",239073
+"Maharashtra",2014,179,"SION KOLIWADA","GEN",254163
+"Maharashtra",2014,180,"WADALA","GEN",196951
+"Maharashtra",2014,181,"MAHIM","GEN",232566
+"Maharashtra",2014,182,"WORLI","GEN",265091
+"Maharashtra",2014,183,"SHIVADI","GEN",273495
+"Maharashtra",2014,184,"BYCULLA","GEN",227143
+"Maharashtra",2014,185,"MALABAR HILL","GEN",277586
+"Maharashtra",2014,186,"MUMBADEVI","GEN",237743
+"Maharashtra",2014,187,"COLABA","GEN",253929
+"Maharashtra",2014,188,"PANVEL","GEN",423716
+"Maharashtra",2014,189,"KARJAT","GEN",243076
+"Maharashtra",2014,190,"URAN","GEN",253996
+"Maharashtra",2014,191,"PEN","GEN",282621
+"Maharashtra",2014,192,"ALIBAG","GEN",275945
+"Maharashtra",2014,193,"SHRIVARDHAN","GEN",241067
+"Maharashtra",2014,194,"MAHAD","GEN",269226
+"Maharashtra",2014,195,"JUNNAR","GEN",275914
+"Maharashtra",2014,196,"AMBEGAON","GEN",270133
+"Maharashtra",2014,197,"KHED ALANDI","GEN",283248
+"Maharashtra",2014,198,"SHIRUR","GEN",310489
+"Maharashtra",2014,199,"DAUND","GEN",271999
+"Maharashtra",2014,200,"INDAPUR","GEN",276911
+"Maharashtra",2014,201,"BARAMATI","GEN",309993
+"Maharashtra",2014,202,"PURANDAR","GEN",299803
+"Maharashtra",2014,203,"BHOR","GEN",318160
+"Maharashtra",2014,204,"MAVAL","GEN",292898
+"Maharashtra",2014,205,"CHINCHWAD","GEN",484362
+"Maharashtra",2014,206,"PIMPRI","SC",382718
+"Maharashtra",2014,207,"BHOSARI","GEN",363553
+"Maharashtra",2014,208,"VADGAON SHERI","GEN",409772
+"Maharashtra",2014,209,"SHIVAJINAGAR","GEN",285754
+"Maharashtra",2014,210,"KOTHRUD","GEN",348846
+"Maharashtra",2014,211,"KHADAKWASALA","GEN",428239
+"Maharashtra",2014,212,"PARVATI","GEN",340050
+"Maharashtra",2014,213,"HADAPSAR","GEN",416840
+"Maharashtra",2014,214,"PUNE CANTONMENT","SC",292125
+"Maharashtra",2014,215,"KASBA PETH","GEN",275138
+"Maharashtra",2014,216,"AKOLE","ST",238420
+"Maharashtra",2014,217,"SANGAMNER","GEN",253927
+"Maharashtra",2014,218,"SHIRDI","GEN",250457
+"Maharashtra",2014,219,"KOPARGAON","GEN",245756
+"Maharashtra",2014,220,"SHRIRAMPUR","SC",264965
+"Maharashtra",2014,221,"NEVASA","GEN",239201
+"Maharashtra",2014,222,"SHEVGAON","GEN",315833
+"Maharashtra",2014,223,"RAHURI","GEN",272556
+"Maharashtra",2014,224,"PARNER","GEN",295044
+"Maharashtra",2014,225,"AHMEDNAGAR CITY","GEN",276045
+"Maharashtra",2014,226,"SHRIGONDA","GEN",294710
+"Maharashtra",2014,227,"KARJAT JAMKHED","GEN",295715
+"Maharashtra",2014,228,"GEORAI","GEN",313770
+"Maharashtra",2014,229,"MAJALGAON","GEN",292888
+"Maharashtra",2014,230,"BEED","GEN",291514
+"Maharashtra",2014,231,"ASHTI","GEN",341703
+"Maharashtra",2014,232,"KAIJ","SC",323675
+"Maharashtra",2014,233,"PARLI","GEN",274439
+"Maharashtra",2014,234,"LATUR RURAL","GEN",294116
+"Maharashtra",2014,235,"LATUR CITY","GEN",328265
+"Maharashtra",2014,236,"AHMADPUR","GEN",290360
+"Maharashtra",2014,237,"UDGIR","SC",271610
+"Maharashtra",2014,238,"NILANGA","GEN",286012
+"Maharashtra",2014,239,"AUSA","GEN",258311
+"Maharashtra",2014,240,"UMARGA","SC",283117
+"Maharashtra",2014,241,"TULJAPUR","GEN",331310
+"Maharashtra",2014,242,"OSMANABAD","GEN",327533
+"Maharashtra",2014,243,"PARANDA","GEN",294998
+"Maharashtra",2014,244,"KARMALA","GEN",279760
+"Maharashtra",2014,245,"MADHA","GEN",296816
+"Maharashtra",2014,246,"BARSHI","GEN",292613
+"Maharashtra",2014,247,"MOHOL","SC",286894
+"Maharashtra",2014,248,"SOLAPUR CITY NORTH","GEN",271536
+"Maharashtra",2014,249,"SOLAPUR CITY CENTRAL","GEN",278177
+"Maharashtra",2014,250,"AKKALKOT","GEN",333001
+"Maharashtra",2014,251,"SOLAPUR SOUTH","GEN",296544
+"Maharashtra",2014,252,"PANDHARPUR","GEN",302914
+"Maharashtra",2014,253,"SANGOLA","GEN",271376
+"Maharashtra",2014,254,"MALSHIRAS","SC",300061
+"Maharashtra",2014,255,"PHALTAN","SC",306204
+"Maharashtra",2014,256,"WAI","GEN",315481
+"Maharashtra",2014,257,"KOREGAON","GEN",295464
+"Maharashtra",2014,258,"MAN","GEN",311738
+"Maharashtra",2014,259,"KARAD NORTH","GEN",277663
+"Maharashtra",2014,260,"KARAD SOUTH","GEN",276153
+"Maharashtra",2014,261,"PATAN","GEN",281188
+"Maharashtra",2014,262,"SATARA","GEN",312474
+"Maharashtra",2014,263,"DAPOLI","GEN",263886
+"Maharashtra",2014,264,"GUHAGAR","GEN",228577
+"Maharashtra",2014,265,"CHIPLUN","GEN",249688
+"Maharashtra",2014,266,"RATNAGIRI","GEN",265279
+"Maharashtra",2014,267,"RAJAPUR","GEN",234159
+"Maharashtra",2014,268,"KANKAVLI","GEN",224081
+"Maharashtra",2014,269,"KUDAL","GEN",205366
+"Maharashtra",2014,270,"SAWANTWADI","GEN",220928
+"Maharashtra",2014,271,"CHANDGAD","GEN",303275
+"Maharashtra",2014,272,"RADHANAGARI","GEN",308307
+"Maharashtra",2014,273,"KAGAL","GEN",305582
+"Maharashtra",2014,274,"KOLHAPUR SOUTH","GEN",310755
+"Maharashtra",2014,275,"KARVIR","GEN",289489
+"Maharashtra",2014,276,"KOLHAPUR NORTH","GEN",284785
+"Maharashtra",2014,277,"SHAHUWADI","GEN",269543
+"Maharashtra",2014,278,"HATKANANGLE","SC",303007
+"Maharashtra",2014,279,"ICHALKARANJI","GEN",269122
+"Maharashtra",2014,280,"SHIROL","GEN",288630
+"Maharashtra",2014,281,"MIRAJ","SC",303011
+"Maharashtra",2014,282,"SANGLI","GEN",328663
+"Maharashtra",2014,283,"ISLAMPUR","GEN",250066
+"Maharashtra",2014,284,"SHIRALA","GEN",276659
+"Maharashtra",2014,285,"PALUS-KADEGAON","GEN",254502
+"Maharashtra",2014,286,"KHANAPUR","GEN",297271
+"Maharashtra",2014,287,"TASGAON-KAVATHE MAHANKAL","GEN",271273
+"Maharashtra",2014,288,"JATH","GEN",249286

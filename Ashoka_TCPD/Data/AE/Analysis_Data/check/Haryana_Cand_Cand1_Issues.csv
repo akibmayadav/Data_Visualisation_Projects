@@ -1,0 +1,4 @@
+"State_Name","Year","month","sa_no","DelimID","AC_No","Position","Cand1","Sex1","Party1","Votes1","Age","Caste","Valid_Votes","Electors","AC_Name","AC_Type","District_Name","Sub_Region","N_Cand","Turnout","Vote_Sh","Deposit_Lost","Margin","Margin_Percent","Jati","Caste_Rec","Rel","New.Caste","Old_Jati"
+"Haryana",2005,2,10,3,53,8,"G","M","IND",599,44,"GEN",124613,206493,"BALLABGARH","GEN",NA,NA,12,60.35,0.48,"no",7,0.01,NA,NA,NA,NA,NA
+"Haryana",2005,2,10,3,72,4,"P","M","BJP",7171,56,"GEN",98339,129661,"HANSI","GEN",NA,NA,16,75.84,7.29,"no",3113,3.17,NA,NA,NA,NA,NA
+"Haryana",2005,2,10,3,75,12,"O","M","LD",147,45,"SC",102789,129731,"GHIRAI","GEN",NA,NA,12,79.23,0.14,"yes",0,0,NA,NA,NA,NA,NA

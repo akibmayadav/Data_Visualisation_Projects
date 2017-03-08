@@ -1,0 +1,5 @@
+"State_Name","Year","month","sa_no","DelimID","AC_No","Position","Cand1","Sex1","Party1","Votes1","Age","Caste","Valid_Votes","Electors","AC_Name","AC_Type","District_Name","Sub_Region","N_Cand","Turnout","Vote_Sh","Deposit_Lost","Margin","Margin_Percent","Jati","Caste_Rec","Rel","New.Caste","Old_Jati"
+"Mysore",1962,2,2,1,31,1,"GADIGEPPAGOUDA NINGANGOUDA PATIL","M","INC",0,NA,NA,0,48825,"TALIKOT","GEN",NA,NA,1,0,NA,"no",0,NA,NA,NA,NA,NA,NA
+"Mysore",1962,2,2,1,204,1,"D. DEVARAJ URS","M","INC",0,NA,NA,0,58440,"HUNSUR","GEN",NA,NA,1,0,NA,"no",0,NA,NA,NA,NA,NA,NA
+"Mysore",1967,2,3,2,34,1,"M. Y. GHORPADE","M","INC",0,NA,NA,0,56684,"SANDUR","GEN",NA,NA,1,0,NA,"no",0,NA,NA,NA,NA,NA,NA
+"Mysore",1967,2,3,2,172,1,"S. NIJALINGAPPPA","M","INC",0,NA,NA,0,60889,"SHIGGAON","GEN",NA,NA,1,0,NA,"no",0,NA,NA,NA,NA,NA,NA

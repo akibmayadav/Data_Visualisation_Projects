@@ -1,0 +1,7 @@
+"State_Name","Year","month","sa_no","DelimID","AC_No","Position","Cand1","Sex1","Party1","Votes1","Age","Caste","Valid_Votes","Electors","AC_Name","AC_Type","District_Name","Sub_Region","N_Cand","Turnout","Vote_Sh","Deposit_Lost","Margin","Margin_Percent","Jati","Caste_Rec","Rel","New.Caste","Old_Jati"
+"Bihar",1995,2,11,3,202,35,"RANVEER KUMAR","M","I",115,NA,NA,108662,190375,"BARH","GEN",NA,NA,40,57.08,0.11,"yes",10,0.01,"","","","",NA
+"Bihar",1995,2,11,3,203,34,"BARUN KUMAR SINGH","M","I",41,NA,NA,102194,185504,"BAKHTIARPUR","GEN",NA,NA,37,55.09,0.04,"yes",2,0,"","","","",NA
+"Bihar",1995,2,11,3,208,35,"JAWAHAR LAL RAI","M","I",75,NA,NA,115896,218880,"PATNA EAST","GEN",NA,NA,41,52.95,0.06,"yes",2,0,"1 BHUMIHAR","UC","H","1 BHUMIHAR",NA
+"Bihar",1995,2,11,3,245,35,"RADHEY KANT SHARMA","M","I",33,NA,NA,130641,176777,"JAHANABAD","GEN",NA,NA,42,73.9,0.03,"yes",2,0,"","","","",NA
+"Bihar",1995,2,11,3,252,35,"VINOD KUMAR SINGH","M","I",70,NA,NA,97078,164813,"GURUA","GEN",NA,NA,47,58.9,0.07,"yes",0,0,"","","","",NA
+"Bihar",1995,2,11,3,257,35,"DEVENDRA SINGH","M","I",77,NA,NA,134604,232287,"NAWADA","GEN",NA,NA,38,57.95,0.06,"yes",22,0.02,"","","","",NA

@@ -1,0 +1,4 @@
+"State_Name","Year","month","sa_no","DelimID","AC_No","Position","Cand1","Sex1","Party1","Votes1","Age","Caste","Valid_Votes","Electors","AC_Name","AC_Type","District_Name","Sub_Region","N_Cand","Turnout","Vote_Sh","Deposit_Lost","Margin","Margin_Percent","Jati","Caste_Rec","Rel","New.Caste","Old_Jati"
+"Punjab",1972,2,6,2,54,1,"GURBANTA SINGH (UNCONTESTED)","M","INC",0,NA,NA,0,67245,"KARTARPUR","SC",NA,NA,1,0,NA,"no",0,NA,"4 OTHERS","SC","SIKH","4 OTHERS",""
+"Punjab",1992,2,10,3,23,1,"DILBAG SINGH (UNCONTESTED)","M","INC",0,NA,NA,0,107254,"TARN TARAN","GEN",NA,NA,1,0,NA,"no",0,NA,"","INTERMEDIARY CASTE","SIKH","JAT SIKH","JAT SIKH"
+"Punjab",1992,2,10,3,75,1,"AMARINDER SINGH (UNCONTESTED)","M","SAD",0,NA,NA,0,143983,"SAMANA","GEN",NA,NA,1,0,NA,"no",0,NA,"","INTERMEDIARY CASTE","HINDU","JAT SIKH","JAT SIKH"

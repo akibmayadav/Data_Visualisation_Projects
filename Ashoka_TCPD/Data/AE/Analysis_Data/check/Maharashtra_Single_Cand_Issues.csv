@@ -1,0 +1,6 @@
+"State_Name","Year","month","sa_no","DelimID","AC_No","Position","Cand1","Sex1","Party1","Votes1","Age","Caste","Valid_Votes","Electors","AC_Name","AC_Type","District_Name","Sub_Region","N_Cand","Turnout","Vote_Sh","Deposit_Lost","Margin","Margin_Percent","Jati","Caste_Rec","Rel","New.Caste","Old_Jati"
+"Maharashtra",1967,2,2,2,249,1,"D. S. DESAI","M","INC",0,NA,NA,0,75701,"PATAN","GEN",NA,NA,1,0,NA,"no",0,NA,"MARATHAS","INTERMEDIARY CASTE","HINDU",NA,NA
+"Maharashtra",1972,2,3,2,16,1,"MAHALUNGE RAM VITHAL","M","INC",0,NA,NA,0,94172,"MANGAON","GEN",NA,NA,1,0,NA,"no",0,NA,"MARATHAS","INTERMEDIARY CASTE","HINDU",NA,NA
+"Maharashtra",1972,2,3,2,183,1,"SOLANKE SUNDERAO ABASAHEB","M","INC",0,NA,NA,0,92969,"GEORAI","GEN",NA,NA,1,0,NA,"no",0,NA,"MARATHAS","INTERMEDIARY CASTE","HINDU",NA,NA
+"Maharashtra",1972,2,3,2,211,1,"DESHMUKH C. ABASAHEB","M","INC",0,NA,NA,0,99178,"MALSHIRAS","GEN",NA,NA,1,0,NA,"no",0,NA,"MARATHAS","INTERMEDIARY CASTE","HINDU",NA,NA
+"Maharashtra",1980,2,5,3,153,1,"SHRI TALANDI PENTA RAMA","M","INC(I)",0,NA,NA,0,94931,"SIRONCHA","ST",NA,NA,1,0,NA,"no",0,NA,"GIND","ST","ANIMIST(TRIBAL)",NA,NA

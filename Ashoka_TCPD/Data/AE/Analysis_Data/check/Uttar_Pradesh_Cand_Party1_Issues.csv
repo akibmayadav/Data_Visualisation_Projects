@@ -1,0 +1,6 @@
+"State_Name","Year","month","sa_no","DelimID","AC_No","Position","Cand1","Sex1","Party1","Votes1","Age","Caste","Valid_Votes","Electors","AC_Name","AC_Type","District_Name","Sub_Region","N_Cand","Turnout","Vote_Sh","Deposit_Lost","Margin","Margin_Percent","Jati","Caste_Rec","Rel","New.Caste","Old_Jati"
+"Uttar_Pradesh",1967,2,4,2,254,4,"NATTHU",NA,NA,NA,NA,NA,NA,110689,"BHADOHI","SC",NA,NA,4,NA,NA,"no",0,NA,"4 OTHERS","SC","H",NA,NA
+"Uttar_Pradesh",1980,2,8,3,294,19,"Constituency</span><span class=""ft3"">295 . BHOGNIPUR (SC)",NA,NA,NA,NA,NA,NA,141735,"GHATAMPUR","GEN",NA,NA,19,NA,NA,"no",0,NA,"","","",NA,NA
+"Uttar_Pradesh",1989,2,10,3,239,9,"0.5",NA,NA,NA,NA,NA,NA,180337,"CHAKIYA","SC",NA,NA,9,NA,NA,"no",0,NA,NA,NA,NA,NA,NA
+"Uttar_Pradesh",1989,2,10,3,214,20,"VIJAI BAHADUR","M","143",0.16,NA,NA,89892.16,185990,"PHULPUR","GEN",NA,NA,20,48.33,0,"yes",0,0,"","","H",NA,NA
+"Uttar_Pradesh",1989,2,10,3,313,12,"RAKESH CHANDER","M","212",0.19,NA,NA,109734.19,202096,"KAIMGANJ","GEN",NA,NA,12,54.3,0,"yes",0,0,"","","H",NA,NA
