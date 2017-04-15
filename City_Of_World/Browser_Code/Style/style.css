@@ -1,0 +1,202 @@
+h1{
+	background-color: white;
+	font-family: Helvetica;
+	font-size: 40px;
+	color: #303030;
+	position:absolute;
+	width:100%;
+    text-align:center;
+	top:30px;
+}
+
+#Main_Heading
+{
+    background-color: #000d23;
+    position: absolute;
+    height: 150px;
+    width: 100%;
+    top: 0px;
+    text-align: center;
+    display:block;
+}
+
+#Sub_box
+{
+    background-color: #000d23;
+    opacity:0.8;
+    position: absolute;
+    height: 150px;
+    width: 40%;
+    top: 0px;
+    text-align: center;
+    display:block;
+}
+
+#Main_Heading_Text
+{
+    color: white;
+    position: absolute;
+    top : 20%;
+    left : 2%;
+    font-size: 2.5vw;
+    font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif; 
+    font-weight: bolder;
+    letter-spacing: 3px;
+    display: inline-block;
+    text-align: center;
+}
+
+#Lower_Heading_Text
+{
+    color: #FF5533;
+    position: absolute;
+    top : 60%;
+    left : 2%;
+    font-size: 1.5vw;
+    font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif; 
+    font-weight: lighter;
+    text-align: center;
+}
+
+#Time_interaction
+{
+    background-color: #000d23;
+    position: absolute;
+    height: 100px;
+    width: 100%;
+    bottom: 0px;
+}
+
+#Description
+{
+    background-color: #CCB400;
+    position: absolute;
+    height: 400px;
+    width: 100%;
+    bottom: -400px;
+}
+
+/*#Treemap {
+    background-color: #000;
+    border: 1px solid black;
+    margin: 100px;
+    padding: 0px;
+    position: static; 
+    top: 100px;
+    left: 100px;
+}*/
+
+.round_time_button
+{
+    background-color: rgba(204, 180, 0,100); 
+    border: none;
+    color: white;
+    position: absolute;
+    top : 30%;
+    /*left : 6.66%;*/
+    height: 20px;
+    width: 20px;
+    border-radius: 50px;
+    display: block;
+    line-height: 60px;
+    font-size: 16px;
+    text-align: center;
+}
+
+.round_time_button:hover
+{
+    background-color: rgba(220, 203, 110,100); 
+    border: none;
+    color: white;
+    position: absolute;
+    top : 30%;
+    height: 25px;
+    width: 25px;
+    line-height: 60px;
+    font-size: 20px;
+    text-align: center;
+}
+
+.button_text
+{
+    color: white;
+    position: absolute;
+    top : 60%;
+    left : -25%;
+    font-size: 16px;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+
+#text_for_description
+{
+    color: #000d23;
+    margin: 10px 100px 10px 100px;
+    position: absolute;
+    top: 10%;
+    font-size:0.9vw;
+    font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif; 
+    font-weight: lighter;
+    letter-spacing: 3px;
+    display: inline-block;
+    text-align: justify;
+}
+
+
+#analog
+{
+    color: #000d23;
+    margin: 30px 0px 30px 0px;
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, 0%);
+    font-size: 1.3vw;
+    font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif; 
+    font-weight: lighter;
+    letter-spacing: 3px;
+    display: inline-block;
+    text-align: center;
+}
+
+
+#analogy
+{
+    color: #000d23;
+    margin: 30px 0px 30px 0px;
+    position: absolute;
+    top: 55%;
+    left: 50%;
+    transform: translate(-50%, 0%);
+    font-size: 0.7vw;
+    font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif; 
+    font-weight: lighter;
+    letter-spacing: 3px;
+    display: inline-block;
+    text-align: center;
+}
+
+#footer
+{
+    background-color: #000d23;
+    position: absolute;
+    height: 50px;
+    width: 100%;
+    bottom: -50px;
+}
+
+#footer-text
+{
+    color: #CCB400;
+    margin: 30px 0px 30px 0px;
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 0.5vw;
+    font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif; 
+    font-weight: lighter;
+    letter-spacing: 3px;
+    display: inline-block;
+    text-align: center;
+}

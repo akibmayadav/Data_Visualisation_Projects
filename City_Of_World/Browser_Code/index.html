@@ -1,0 +1,150 @@
+<!-- 
+MAT 594E : Final Project 
+Ambika Yadav
+Winter 2017
+ -->
+
+<!DOCTYPE HTML>
+
+<html>
+
+<head>
+<title> WORLD POPULATION DENSITY TREEMAP </title>
+</head>
+
+<script src="https://d3js.org/d3.v4.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+<script src="Libraries/three.min.js"></script>
+<script src="Libraries/OrbitControls.js"></script>
+<script src="Scripts/helper_functions.js"></script>
+<script src="Libraries/GeometryUtils.js"></script>
+<script src="Libraries/tween.js"></script>
+<link rel="stylesheet" href="Style/style.css">
+
+<body>
+<!-- <div id="Treemap"><div>
+ --><!-- <div id = "Top_Bar"></div>
+<h1>VOLUMETRIC TREE MAPS</h1> -->
+<script src="Scripts/1_treemap_d3.js"></script>
+<script src="Scripts/2_three_drawtreemap.js"></script>
+
+<!-- To add customized buttons -->
+<div id ="Main_Heading">
+<div id ="Sub_box"></div>
+<text id="Main_Heading_Text">CITY OF THE WORLD</text>
+<text id="Lower_Heading_Text">visualizing country wise population density change </text>
+</div>
+
+
+<div id="Time_interaction">
+   <button type= "button" 
+            id= "b_1955"
+          style ="left: 6.69%"
+          class = "round_time_button"
+        onclick="year_update(1955)"> 
+      <text class ="button_text"> 1955 </text> 
+  </button>
+   <button type= "button" 
+            id= "b_1960"
+          style ="left: 14.38%"
+          class = "round_time_button"
+        onclick="year_update(1960)"> 
+      <text class ="button_text"> 1960 </text> 
+  </button>
+   <button type= "button" 
+            id= "b_1965"
+          style ="left: 22.07%"
+          class = "round_time_button"
+        onclick="year_update(1965)"> 
+      <text class ="button_text"> 1965 </text> 
+  </button>
+    <button type= "button" 
+            id= "b_1970"
+          style ="left: 29.76%"
+          class = "round_time_button"
+        onclick="year_update(1970)"> 
+      <text class ="button_text"> 1970 </text> 
+  </button>
+   <button type= "button" 
+            id= "b_1975"
+          style ="left: 37.45%"
+          class = "round_time_button"
+        onclick="year_update(1975)"> 
+      <text class ="button_text"> 1975 </text> 
+  </button>
+   <button type= "button" 
+            id= "b_1980"
+          style ="left: 45.14%"
+          class = "round_time_button"
+        onclick="year_update(1980)"> 
+      <text class ="button_text"> 1980 </text> 
+  </button>
+   <button type= "button"
+            id= "b_1985" 
+          style ="left: 52.83%"
+          class = "round_time_button"
+        onclick="year_update(1985)"> 
+      <text class ="button_text"> 1985 </text> 
+  </button>
+   </button>
+    <button type= "button" 
+            id= "b_1990"
+          style ="left: 60.52%"
+          class = "round_time_button"
+        onclick="year_update(1990)"> 
+      <text class ="button_text"> 1990 </text> 
+  </button>
+   <button type= "button" 
+            id= "b_1995"
+          style ="left: 68.21%"
+          class = "round_time_button"
+        onclick="year_update(1995)"> 
+      <text class ="button_text"> 1995 </text> 
+  </button>
+   <button type= "button" 
+            id= "b_2000"
+          style ="left: 75.90%"
+          class = "round_time_button"
+        onclick="year_update(2000)"> 
+      <text class ="button_text"> 2000 </text> 
+  </button>
+   <button type= "button" 
+            id= "b_2005"
+          style ="left: 83.59%"
+          class = "round_time_button"
+        onclick="year_update(2005)"> 
+      <text class ="button_text"> 2005 </text> 
+  </button>
+   </button>
+   <button type= "button" 
+            id= "b_2015"
+          style ="left: 91.28%"
+          class = "round_time_button"
+        onclick="year_update(2015)"> 
+      <text class ="button_text"> 2015 </text> 
+  </button>
+</div>
+<div id="Description"> 
+<text id="text_for_description"> City of the world is an interactive three dimensional data visualization exploring the variation in population density change across various countries. It utilizes a volumetric treemap structure inspired by the metaphor of high-rise buildings and underground dungeons in a city.
+This visualization aims at drawing attention to increase and decrease in population densities (number of people per unit area) in a country instead of looking at the overall population variation, telling  a lot more about the demographics of a country.
+</text>
+
+<h3 id="analog"> -- ANALOGY -- </h3>
+<p id = 'analogy'>
+city — world <br>
+buildings — increase in population of a country<br>
+underground dungeons — decrease in population<br>
+height of building  — extent of rise of population<br>
+depth of building — extent of downfall of population<br>
+area of building — surface area of country
+</p>
+<div id="footer"> 
+  <p id="footer-text">&copy; Ambika Yadav <p> 
+</div>
+</div>
+
+
+
+</body>
+
+</html>
