@@ -2,7 +2,7 @@
  ## AMBIKA YADAV
 
 
-### HOWTO 
+### HOW TO 
  
 	1. PART 1 : Data Preprocessing on Python Using Pandas. 
  		a. Direct to project directory from terminal . 
@@ -15,18 +15,7 @@
  		c. Right click and go to inspect element. Go to console to check the current output . 
 
 
-### STATUS 
 
-	1. PART 1: This is complete . The data has been formatted 	
-	in the requried form holding the country name , surface are and populations year wise . The final csv file is stored as 
-
-	2. PART 2: The data to draw the treemap . x and y positions of corners of the rectangles are derived. 
-
-### PLAN
-
-	1. PART 2: Make the visualization in a 3D space with an interactive camera on Three.js 
-	2. PART 3 : Try the implementation of the same on Bokeh 
-	(Python Data Viz Library if time permits)
 
 
 
