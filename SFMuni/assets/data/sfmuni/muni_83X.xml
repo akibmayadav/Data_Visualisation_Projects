@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<body copyright="All data copyright San Francisco Muni 2017.">
+<route tag="83X" title="83X-Mid-Market Express" color="cc0033" oppositeColor="ffffff" latMin="37.7702299" latMax="37.7784999" lonMin="-122.4163" lonMax="-122.3951299">
+<stop tag="7669" title="9th St &amp; Market St" lat="37.7773799" lon="-122.4163" stopId="17669"/>
+<stop tag="3209" title="8th St &amp; Market St" lat="37.7784999" lon="-122.4146" stopId="13209"/>
+<stop tag="7684" title="Brannan &amp; 8th St" lat="37.77132" lon="-122.4052399" stopId="17684"/>
+<stop tag="3163" title="4th St &amp; Townsend St" lat="37.7771099" lon="-122.3951299" stopId="13163"/>
+<stop tag="37776" title="Townsend &amp; 5th St St" lat="37.7763199" lon="-122.39613" stopId="137776"/>
+<stop tag="7776" title="Townsend &amp; 5th St St" lat="37.7763199" lon="-122.39613" stopId="17776"/>
+<stop tag="7683" title="Townsend St &amp; 8 St" lat="37.7702299" lon="-122.40383" stopId="17683"/>
+<stop tag="37669" title="9th St &amp; Market St" lat="37.7773799" lon="-122.4163" stopId="137669"/>
+<direction tag="83X__O_F00" title="Outbound to Caltrain Depot" name="Outbound" useForUI="true">
+  <stop tag="7669" />
+  <stop tag="3209" />
+  <stop tag="7684" />
+  <stop tag="3163" />
+  <stop tag="37776" />
+</direction>
+<direction tag="83X__I_F00" title="Inbound to Civic Center" name="Inbound" useForUI="true">
+  <stop tag="7776" />
+  <stop tag="7683" />
+  <stop tag="37669" />
+</direction>
+<path>
+<point lat="37.77632" lon="-122.39613"/>
+<point lat="37.77023" lon="-122.40383"/>
+<point lat="37.76975" lon="-122.4044"/>
+<point lat="37.76966" lon="-122.40595"/>
+<point lat="37.76947" lon="-122.40623"/>
+<point lat="37.77738" lon="-122.4163"/>
+</path>
+<path>
+<point lat="37.77738" lon="-122.4163"/>
+<point lat="37.77872" lon="-122.41475"/>
+<point lat="37.7785" lon="-122.4146"/>
+</path>
+<path>
+<point lat="37.7785" lon="-122.4146"/>
+<point lat="37.7712999" lon="-122.40544"/>
+<point lat="37.77132" lon="-122.40524"/>
+<point lat="37.77306" lon="-122.40322"/>
+<point lat="37.7783299" lon="-122.39654"/>
+<point lat="37.77711" lon="-122.39513"/>
+<point lat="37.77709" lon="-122.39499"/>
+<point lat="37.7763599" lon="-122.39594"/>
+<point lat="37.77632" lon="-122.39613"/>
+</path>
+</route>
+</body>

@@ -1,0 +1,69 @@
+<!-- ******************************************************************
+
+SF Muni Real Time Location Mapping 
+Author : Ambika Yadav
+https://ambikayadav.com/
+
+README File : https://github.com/akibmayadav/akibmayadav.github.io/blob/master/README.md 
+
+******************************************************************
+
+ -->
+
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title> SFMuni</title>
+    <script src="app/libraries/d3.min.js"></script>
+    <script src="app/libraries/jquery-3.2.1.min.js"></script>
+    <script src="app/libraries/angular.min.js"></script>
+    <link rel="stylesheet" href="assets/css/main.css">
+    <link rel="stylesheet" href="assets/css/interaction.css">
+    <script src="app/controllers/sfmap_controller.js"></script>
+    <script src="app/directives/sfmap_directive.js"></script>
+    <script src="app/directives/muniloc_directive.js"></script>
+    <script src="app/directives/routehigh_directive.js"></script>
+  </head>
+
+  <body>
+    
+
+    <div ng-app='sfMap' ng-controller='sfMapController'>
+      <div id = "inter"></div>
+      <div id="interaction"> 
+
+        <p id="main_heading"> SAN FRANCISCO </p>
+        <p class="sub_heading" style="top:37px"> | Real time muni location mapping |</p>
+        <div id="watch">{{current_time}}</div>
+        
+
+      </div>
+
+      <div id="interaction_2">
+      <div id="button">
+        <ul class="vehicle_selector">
+          <li ng-repeat="n in allroutes"> 
+          <input type="radio" ng-model="model.vehicletag" ng-value="n.tag" name="tag" ng-click="call_current_api()"/>
+            <label ng-style="myStyle={'border-color':n.color}" for="n.tag">{{n.tag}}</label>
+          </li>
+        </ul>
+        
+        <br>
+        <br>
+      </div>
+    </div>
+
+      <sf-map-dir projection='projection' mapsvg='mapsvg' vehicletag='vehicletag' ></sf-map-dir>
+      <muni-location projection='projection' vehicledata='vehicledata' mapsvg='mapsvg' ></muni-location>
+      <routehigh projection='projection' vehicletag='vehicletag' mapsvg='mapsvg'></routehigh>
+      
+    
+    </div>
+    <a id="info" href="https://github.com/akibmayadav/akibmayadav.github.io/blob/master/README.md" style="text-decoration: none;"> &#9432 </a> 
+
+  </body>
+
+
+</html>

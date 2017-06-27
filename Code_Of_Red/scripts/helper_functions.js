@@ -70,7 +70,7 @@ function zoom_year_slider()
  
   var cursor_len =x_rectlen/10; // length of cursor 
   noStroke();
-  fill(160,0,0,60);
+  fill(255,0,0,60);
   rect(x_rector,y_rector,x_rectlen,y_rectlen,4);
   var position_retained=x_rector;
   var m = 10;
@@ -176,7 +176,7 @@ function war ( table_start_year , table_end_year , m)
     if ((year_index[which_ell]>=0) && (year_index[which_ell]<=(m-10))) // if in  FIRST SMALL LOOP
     {
       var radius = b*year_index[which_ell] -b/2;
-      stroke(160,0,0,40);
+      stroke(226, 54, 54,50);
       strokeWeight(b/2);
       fill(0,0,0,0);
       ellipse(x,y,radius,radius);      
@@ -185,7 +185,7 @@ function war ( table_start_year , table_end_year , m)
     else if ((year_index[which_ell]>=(m-9)) && (year_index[which_ell]<=m)) // if in BIG LOOP
     {
       var radius = b*(m-10) + a*(10-(m-year_index[which_ell]))-a/2;
-      stroke(160,0,0,40);
+      stroke(226, 54, 54,50);
       strokeWeight(a/2);
       fill(0,0,0,0);
       ellipse(x,y,radius,radius);
@@ -194,7 +194,7 @@ function war ( table_start_year , table_end_year , m)
     else if ((year_index[which_ell]>=(m-101)) && (year_index[which_ell]<=(101))) // if in SECOND SMALL LOOP
     {
       var radius = a*10 + b*(year_index[which_ell]-11) -b/2;
-      stroke(160,0,0,40);
+      stroke(226, 54, 54,50);
       strokeWeight(b/2);
       fill(0,0,0,0);
       ellipse(x,y,radius,radius);

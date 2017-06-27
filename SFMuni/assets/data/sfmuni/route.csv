@@ -1,0 +1,82 @@
+tag,color,title
+L,#660099,L-Taraval
+E,#667744,E-Embarcadero
+F,#555555,F-Market & Wharves
+J,#cc6600,J-Church
+KT,#cc0033,KT-Ingleside/Third Street
+N,#003399,N-Judah
+NX,#003399,NX-Express
+1,#cc6600,1-California
+1AX,#990000,1AX-California A Express
+1BX,#cc3333,1BX-California B Express
+2,#000000,2-Clement
+3,#339999,3-Jackson
+5,#666699,5-Fulton
+5R,#666699,5R-Fulton Rapid
+6,#996699,6-Haight-Parnassus
+7,#b07d00,7-Haight-Noriega
+7R,#b07d00,7R-Haight-Noriega Rapid
+7X,#b07d00,7X-Noriega Express
+8,#b07d00,8-Bayshore
+8AX,#b07d00,8AX-Bayshore A Express
+8BX,#b07d00,8BX-Bayshore B Express
+9,#889944,9-San Bruno
+9R,#889944,9R-San Bruno Rapid
+10,#b07d00,10-Townsend
+12,#b07d00,12-Folsom-Pacific
+14,#339999,14-Mission
+14R,#339999,14R-Mission Rapid
+14X,#cc0033,14X-Mission Express
+18,#996699,18-46th Avenue
+19,#000000,19-Polk
+21,#660000,21-Hayes
+22,#ff6633,22-Fillmore
+23,#b07d00,23-Monterey
+24,#996699,24-Divisadero
+25,#996699,25-Treasure Island
+27,#660099,27-Bryant
+28,#000000,28-19th Avenue
+28R,#000000,28R-19th Avenue Rapid
+29,#ff6633,29-Sunset
+30,#990099,30-Stockton
+30X,#cc0033,30X-Marina Express
+31,#339999,31-Balboa
+31AX,#990000,31AX-Balboa A Express
+31BX,#cc3333,31BX-Balboa B Express
+33,#660000,33-Ashbury-18th St
+35,#ff6633,35-Eureka
+36,#003399,36-Teresita
+37,#000000,37-Corbett
+38,#ff6633,38-Geary
+38R,#cc3333,38R-Geary Rapid
+38AX,#990000,38AX-Geary A Express
+38BX,#cc3333,38BX-Geary B Express
+39,#ff6633,39-Coit
+41,#b07d00,41-Union
+43,#006633,43-Masonic
+44,#ff6633,44-O'Shaughnessy
+45,#006633,45-Union-Stockton
+47,#667744,47-Van Ness
+48,#cc6600,48-Quintara-24th Street
+49,#b07d00,49-Van Ness-Mission
+52,#889944,52-Excelsior
+54,#cc0033,54-Felton
+55,#cc0033,55-16th Street
+56,#990099,56-Rutland
+57,#990099,57-Parkmerced
+66,#666699,66-Quintara
+67,#555555,67-Bernal Heights
+76X,#555555,76X-Marin Headlands Express
+82X,#cc0033,82X-Levi Plaza Express
+83X,#cc0033,83X-Mid-Market Express
+88,#555555,88-Bart Shuttle
+90,#660000,90-San Bruno Owl
+91,#667744,91-Owl
+KOWL,#198080,K-Owl
+LOWL,#330066,L-Owl
+MOWL,#004d19,M-Owl
+NOWL,#001980,N-Owl
+TOWL,#660019,T-Owl
+59,#cc3399,Powell/Mason Cable Car
+60,#4444a4,Powell/Hyde Cable Car
+61,#9ac520,California Cable Car

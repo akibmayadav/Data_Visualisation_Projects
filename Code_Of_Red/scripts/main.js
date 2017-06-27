@@ -42,7 +42,7 @@ function setup()
 function draw ()
 {
   //BACKGROUND
-  background (0,0,0);
+  // background (40,40,40);
   image(img,0,0);
   noFill();
 
@@ -229,7 +229,7 @@ function draw ()
   }
   
  //******** ARTWORK_POINTS PLOTTING *****************// 
-   art_point(arts,m);
+   // art_point(arts,m);
    
  // ************ SKETCHING THE GRIDS *******************//
   

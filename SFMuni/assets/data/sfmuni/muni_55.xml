@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<body copyright="All data copyright San Francisco Muni 2017.">
+<route tag="55" title="55-16th Street" color="cc0033" oppositeColor="ffffff" latMin="37.7649799" latMax="37.7711599" lonMin="-122.41983" lonMax="-122.3892999">
+<stop tag="3293" title="16th St &amp; Mission St" lat="37.7649799" lon="-122.41983" stopId="13293"/>
+<stop tag="3299" title="16th St &amp; Shotwell St" lat="37.7652199" lon="-122.41605" stopId="13299"/>
+<stop tag="3289" title="16th St &amp; Harrison St" lat="37.76538" lon="-122.4132899" stopId="13289"/>
+<stop tag="3282" title="16th St &amp; Bryant St" lat="37.7655999" lon="-122.41041" stopId="13282"/>
+<stop tag="3296" title="16th St &amp; Potrero Ave" lat="37.7657599" lon="-122.40761" stopId="13296"/>
+<stop tag="3297" title="16th St &amp; San Bruno Ave" lat="37.7658599" lon="-122.40551" stopId="13297"/>
+<stop tag="7761" title="16th St &amp; Rhode Island St" lat="37.7660099" lon="-122.40259" stopId="17761"/>
+<stop tag="7762" title="16th St &amp; Wisconsin St" lat="37.76623" lon="-122.3996799" stopId="17762"/>
+<stop tag="7763" title="16th St &amp; Missouri St" lat="37.7664" lon="-122.3967799" stopId="17763"/>
+<stop tag="7866" title="16th St &amp; Owen St Sf/Fs-Bz" lat="37.76665" lon="-122.3925299" stopId="17866"/>
+<stop tag="7764" title="16th St &amp; 4th St" lat="37.76677" lon="-122.3907199" stopId="17764"/>
+<stop tag="7321" title="3rd St &amp; Gene Friend Wy" lat="37.7695599" lon="-122.3892999" stopId="17321"/>
+<stop tag="7765" title="Mission Bay North &amp; 3rd St" lat="37.7711599" lon="-122.3896199" stopId="17765"/>
+<stop tag="37766" title="Mission Bay South &amp; 4th St" lat="37.7705099" lon="-122.39104" stopId="137766"/>
+<stop tag="7766" title="Mission Bay South &amp; 4th St" lat="37.7705099" lon="-122.39104" stopId="17766"/>
+<stop tag="7324" title="3rd St &amp; Gene Friend Way" lat="37.7693199" lon="-122.3894399" stopId="17324"/>
+<stop tag="7767" title="16th Street &amp; 4th Street" lat="37.76686" lon="-122.3908899" stopId="17767"/>
+<stop tag="7865" title="16th Street &amp; Owen St" lat="37.76672" lon="-122.3927999" stopId="17865"/>
+<stop tag="7768" title="16th Street &amp; Missouri St" lat="37.76649" lon="-122.3970099" stopId="17768"/>
+<stop tag="7769" title="16th Street &amp; Wisconsin St" lat="37.76629" lon="-122.3998399" stopId="17769"/>
+<stop tag="7770" title="16th Street &amp; Rhode Islandi St" lat="37.76612" lon="-122.4026299" stopId="17770"/>
+<stop tag="3302" title="16th St &amp; Vermont St" lat="37.76604" lon="-122.4046899" stopId="13302"/>
+<stop tag="3295" title="16th St &amp; Potrero Ave" lat="37.7657999" lon="-122.40754" stopId="13295"/>
+<stop tag="3281" title="16th St &amp; Bryant St" lat="37.7656599" lon="-122.41029" stopId="13281"/>
+<stop tag="3288" title="16th St &amp; Harrison St" lat="37.76552" lon="-122.4129799" stopId="13288"/>
+<stop tag="7289" title="16th St &amp; Folsom St" lat="37.7654" lon="-122.4154299" stopId="17289"/>
+<stop tag="3291" title="16th St &amp; Mission St" lat="37.7651399" lon="-122.4196" stopId="13291"/>
+<stop tag="33293" title="16th St &amp; Mission St" lat="37.7649799" lon="-122.41983" stopId="133293"/>
+<direction tag="55___I_F00" title="Inbound to Mission Street / BART" name="Inbound" useForUI="true">
+  <stop tag="7766" />
+  <stop tag="7324" />
+  <stop tag="7767" />
+  <stop tag="7865" />
+  <stop tag="7768" />
+  <stop tag="7769" />
+  <stop tag="7770" />
+  <stop tag="3302" />
+  <stop tag="3295" />
+  <stop tag="3281" />
+  <stop tag="3288" />
+  <stop tag="7289" />
+  <stop tag="3291" />
+  <stop tag="33293" />
+</direction>
+<direction tag="55___O_F01" title="Outbound to UCSF Mission Bay" name="Outbound" useForUI="true">
+  <stop tag="3293" />
+  <stop tag="3299" />
+  <stop tag="3289" />
+  <stop tag="3282" />
+  <stop tag="3296" />
+  <stop tag="3297" />
+  <stop tag="7761" />
+  <stop tag="7762" />
+  <stop tag="7763" />
+  <stop tag="7866" />
+  <stop tag="7764" />
+  <stop tag="7321" />
+  <stop tag="7765" />
+  <stop tag="37766" />
+</direction>
+<path>
+<point lat="37.7656599" lon="-122.41029"/>
+<point lat="37.76552" lon="-122.41298"/>
+<point lat="37.7654" lon="-122.41543"/>
+<point lat="37.76506" lon="-122.41968"/>
+<point lat="37.76514" lon="-122.4196"/>
+<point lat="37.76668" lon="-122.41984"/>
+<point lat="37.76654" lon="-122.42206"/>
+<point lat="37.7649199" lon="-122.4219"/>
+<point lat="37.76498" lon="-122.41983"/>
+</path>
+<path>
+<point lat="37.7656" lon="-122.41041"/>
+<point lat="37.76576" lon="-122.40761"/>
+<point lat="37.76586" lon="-122.40551"/>
+<point lat="37.76601" lon="-122.40259"/>
+<point lat="37.76623" lon="-122.39968"/>
+<point lat="37.7664" lon="-122.39678"/>
+<point lat="37.76665" lon="-122.39253"/>
+<point lat="37.76677" lon="-122.39072"/>
+<point lat="37.76691" lon="-122.38911"/>
+<point lat="37.76956" lon="-122.3893"/>
+<point lat="37.77112" lon="-122.38952"/>
+<point lat="37.77116" lon="-122.38962"/>
+<point lat="37.771" lon="-122.39122"/>
+<point lat="37.77056" lon="-122.39117"/>
+<point lat="37.77051" lon="-122.39104"/>
+</path>
+<path>
+<point lat="37.76498" lon="-122.41983"/>
+<point lat="37.76522" lon="-122.41605"/>
+<point lat="37.76538" lon="-122.41329"/>
+<point lat="37.7656" lon="-122.41041"/>
+</path>
+<path>
+<point lat="37.77051" lon="-122.39104"/>
+<point lat="37.77066" lon="-122.38948"/>
+<point lat="37.76932" lon="-122.38944"/>
+<point lat="37.76691" lon="-122.38911"/>
+<point lat="37.76686" lon="-122.39089"/>
+<point lat="37.76672" lon="-122.3928"/>
+<point lat="37.76649" lon="-122.39701"/>
+<point lat="37.76629" lon="-122.39984"/>
+<point lat="37.76612" lon="-122.40263"/>
+<point lat="37.7660399" lon="-122.40469"/>
+<point lat="37.7658" lon="-122.40754"/>
+<point lat="37.7656599" lon="-122.41029"/>
+</path>
+</route>
+</body>
